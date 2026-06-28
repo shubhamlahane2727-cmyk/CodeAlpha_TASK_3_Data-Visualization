@@ -1,0 +1,2001 @@
+OrderID,Region,Segment,ShipMode,Category,SubCategory,Sales,Quantity,Discount,Profit,OrderYear,State
+ORD-10001,West,Home Office,First Class,Technology,Machines,1902.41,8,0.0,320.71,2021,New York
+ORD-10002,South,Corporate,Second Class,Furniture,Furnishings,302.88,3,0.1,-22.6,2020,Florida
+ORD-10003,East,Home Office,First Class,Furniture,Chairs,622.4,6,0.0,58.74,2025,Texas
+ORD-10004,South,Consumer,First Class,Technology,Accessories,199.4,3,0.3,26.2,2023,New York
+ORD-10005,West,Corporate,Second Class,Technology,Phones,911.99,2,0.3,295.48,2019,Texas
+ORD-10006,Central,Home Office,Second Class,Furniture,Tables,1374.78,7,0.3,168.86,2019,Florida
+ORD-10007,West,Consumer,First Class,Office Supplies,Art,1515.62,6,0.1,221.31,2020,Texas
+ORD-10008,East,Corporate,Same Day,Office Supplies,Paper,1791.76,8,0.1,-21.16,2023,Illinois
+ORD-10009,East,Consumer,Standard Class,Office Supplies,Storage,1660.9,9,0.3,287.61,2025,Illinois
+ORD-10010,South,Home Office,First Class,Furniture,Chairs,1974.04,8,0.0,-20.88,2021,California
+ORD-10011,East,Home Office,Standard Class,Technology,Copiers,1547.12,5,0.1,94.85,2022,Texas
+ORD-10012,South,Corporate,First Class,Furniture,Furnishings,754.22,8,0.0,172.21,2021,California
+ORD-10013,Central,Home Office,Second Class,Technology,Phones,1943.99,3,0.0,436.97,2025,New York
+ORD-10014,East,Consumer,Same Day,Furniture,Bookcases,866.53,3,0.2,262.64,2022,Washington
+ORD-10015,Central,Home Office,Second Class,Furniture,Bookcases,1216.75,4,0.0,-79.53,2022,Texas
+ORD-10016,South,Corporate,Second Class,Office Supplies,Binders,605.35,5,0.1,63.83,2021,Texas
+ORD-10017,West,Consumer,Same Day,Technology,Machines,725.47,1,0.0,1.87,2023,California
+ORD-10018,Central,Corporate,Same Day,Technology,Copiers,346.02,9,0.1,-0.02,2025,New York
+ORD-10019,East,Corporate,Same Day,Office Supplies,Art,1047.21,9,0.3,66.64,2022,Washington
+ORD-10020,Central,Consumer,Second Class,Technology,Accessories,1430.3,5,0.0,499.15,2020,Florida
+ORD-10021,West,Consumer,Same Day,Office Supplies,Storage,571.72,1,0.0,4.46,2020,Washington
+ORD-10022,West,Consumer,Same Day,Technology,Machines,180.09,8,0.2,1.62,2020,Washington
+ORD-10023,West,Consumer,First Class,Office Supplies,Storage,1636.54,1,0.0,72.58,2022,Florida
+ORD-10024,South,Home Office,Same Day,Technology,Machines,52.84,3,0.2,0.1,2019,California
+ORD-10025,Central,Corporate,Second Class,Technology,Accessories,1678.67,9,0.0,-9.93,2021,Florida
+ORD-10026,West,Consumer,Standard Class,Office Supplies,Art,1119.3,1,0.1,389.87,2021,California
+ORD-10027,South,Consumer,Same Day,Furniture,Bookcases,1406.71,3,0.3,420.87,2022,New York
+ORD-10028,South,Corporate,Standard Class,Furniture,Furnishings,1574.97,8,0.3,254.06,2021,California
+ORD-10029,South,Consumer,Standard Class,Furniture,Tables,338.4,2,0.1,71.52,2022,California
+ORD-10030,Central,Home Office,Standard Class,Furniture,Tables,664.29,4,0.3,127.77,2019,Florida
+ORD-10031,West,Consumer,First Class,Technology,Copiers,1279.94,6,0.1,211.76,2024,New York
+ORD-10032,East,Consumer,Same Day,Technology,Accessories,713.16,1,0.3,143.36,2023,New York
+ORD-10033,East,Corporate,Standard Class,Technology,Machines,1298.04,1,0.3,419.53,2024,New York
+ORD-10034,Central,Consumer,Same Day,Furniture,Chairs,1858.07,1,0.1,622.44,2025,Illinois
+ORD-10035,West,Home Office,Second Class,Furniture,Furnishings,1705.25,3,0.3,115.46,2020,New York
+ORD-10036,Central,Corporate,Second Class,Office Supplies,Art,433.66,6,0.2,-16.03,2020,California
+ORD-10037,West,Home Office,Second Class,Furniture,Chairs,1410.92,7,0.0,47.17,2019,Illinois
+ORD-10038,West,Corporate,Same Day,Office Supplies,Storage,1013.0,4,0.0,-68.96,2021,Florida
+ORD-10039,Central,Corporate,Standard Class,Office Supplies,Paper,888.18,6,0.2,97.27,2024,Texas
+ORD-10040,South,Consumer,Standard Class,Office Supplies,Paper,515.5,6,0.2,32.01,2023,Florida
+ORD-10041,Central,Consumer,Second Class,Furniture,Bookcases,188.99,4,0.1,27.08,2022,Texas
+ORD-10042,West,Consumer,Second Class,Office Supplies,Storage,1594.47,3,0.3,374.41,2023,Washington
+ORD-10043,East,Home Office,Second Class,Technology,Copiers,1398.03,5,0.0,-30.78,2024,Washington
+ORD-10044,South,Home Office,Standard Class,Furniture,Furnishings,1870.54,1,0.3,247.87,2024,Illinois
+ORD-10045,East,Corporate,Same Day,Technology,Copiers,510.51,3,0.0,-23.45,2023,California
+ORD-10046,West,Consumer,First Class,Office Supplies,Paper,1959.43,5,0.3,-180.81,2022,California
+ORD-10047,South,Home Office,Second Class,Office Supplies,Paper,1306.55,6,0.0,390.67,2020,New York
+ORD-10048,South,Home Office,Second Class,Office Supplies,Art,1715.85,5,0.0,-45.78,2019,Florida
+ORD-10049,East,Consumer,First Class,Technology,Machines,1159.44,2,0.2,219.69,2021,Illinois
+ORD-10050,Central,Home Office,Standard Class,Technology,Phones,1923.16,2,0.0,-110.58,2020,Illinois
+ORD-10051,South,Corporate,Standard Class,Office Supplies,Paper,66.08,2,0.2,1.77,2020,Illinois
+ORD-10052,South,Corporate,Standard Class,Technology,Phones,97.59,9,0.0,32.73,2019,New York
+ORD-10053,South,Home Office,Second Class,Furniture,Bookcases,836.98,2,0.0,208.73,2023,Florida
+ORD-10054,East,Consumer,Second Class,Furniture,Bookcases,1506.72,9,0.2,-80.75,2022,California
+ORD-10055,East,Home Office,Same Day,Office Supplies,Binders,1793.14,1,0.3,-170.57,2019,Florida
+ORD-10056,East,Consumer,First Class,Office Supplies,Storage,1902.2,3,0.1,350.63,2022,California
+ORD-10057,East,Consumer,Second Class,Technology,Phones,1509.7,7,0.3,385.47,2020,Washington
+ORD-10058,West,Home Office,Same Day,Technology,Accessories,894.23,7,0.0,51.79,2019,Texas
+ORD-10059,South,Corporate,Standard Class,Office Supplies,Art,1736.4,6,0.2,159.3,2020,New York
+ORD-10060,South,Consumer,Standard Class,Office Supplies,Paper,181.07,5,0.1,62.29,2024,Florida
+ORD-10061,Central,Home Office,Standard Class,Furniture,Bookcases,1817.23,4,0.3,125.96,2022,Washington
+ORD-10062,East,Consumer,Second Class,Technology,Copiers,512.47,3,0.2,48.94,2022,Washington
+ORD-10063,East,Corporate,Standard Class,Office Supplies,Art,255.26,9,0.2,60.17,2025,Florida
+ORD-10064,South,Consumer,Same Day,Furniture,Chairs,1739.83,6,0.0,580.15,2023,Illinois
+ORD-10065,South,Home Office,First Class,Technology,Phones,105.93,5,0.2,33.22,2022,California
+ORD-10066,Central,Home Office,Standard Class,Office Supplies,Storage,1266.21,1,0.0,270.48,2021,Florida
+ORD-10067,East,Corporate,Same Day,Office Supplies,Art,134.57,6,0.3,-6.99,2022,Texas
+ORD-10068,Central,Corporate,First Class,Office Supplies,Art,1175.64,5,0.0,19.96,2019,California
+ORD-10069,Central,Consumer,First Class,Furniture,Chairs,1631.31,3,0.0,527.3,2019,Texas
+ORD-10070,West,Consumer,Second Class,Office Supplies,Art,1755.79,5,0.2,149.36,2025,California
+ORD-10071,East,Consumer,Standard Class,Technology,Phones,1504.17,9,0.1,410.82,2020,California
+ORD-10072,East,Home Office,Standard Class,Technology,Copiers,561.35,7,0.1,118.6,2024,New York
+ORD-10073,East,Consumer,Second Class,Furniture,Bookcases,1542.6,5,0.1,435.54,2019,Washington
+ORD-10074,South,Corporate,Same Day,Furniture,Bookcases,563.97,4,0.1,166.48,2025,Texas
+ORD-10075,East,Corporate,Same Day,Office Supplies,Paper,962.9,3,0.2,37.07,2023,Washington
+ORD-10076,West,Corporate,First Class,Office Supplies,Storage,818.9,7,0.2,207.26,2021,Washington
+ORD-10077,Central,Home Office,Second Class,Office Supplies,Paper,1224.01,2,0.1,183.19,2022,California
+ORD-10078,East,Consumer,Same Day,Office Supplies,Binders,1571.63,7,0.1,452.73,2020,California
+ORD-10079,East,Corporate,Standard Class,Office Supplies,Binders,531.32,8,0.0,181.19,2024,New York
+ORD-10080,Central,Home Office,Second Class,Technology,Machines,696.3,9,0.2,-29.51,2022,Florida
+ORD-10081,Central,Consumer,Standard Class,Furniture,Bookcases,1751.15,2,0.0,-23.59,2020,Florida
+ORD-10082,South,Corporate,Second Class,Office Supplies,Binders,82.97,6,0.0,11.66,2020,California
+ORD-10083,East,Corporate,First Class,Office Supplies,Paper,1386.98,9,0.1,360.25,2024,New York
+ORD-10084,Central,Consumer,Same Day,Technology,Machines,140.93,4,0.0,-8.73,2025,Washington
+ORD-10085,West,Home Office,Same Day,Office Supplies,Paper,1524.71,8,0.1,360.38,2021,New York
+ORD-10086,Central,Home Office,Same Day,Technology,Copiers,1033.12,2,0.1,61.33,2019,Illinois
+ORD-10087,South,Consumer,Standard Class,Office Supplies,Storage,657.72,7,0.1,31.16,2023,Florida
+ORD-10088,South,Home Office,Second Class,Furniture,Furnishings,723.11,9,0.0,83.74,2020,California
+ORD-10089,West,Home Office,Same Day,Technology,Accessories,581.88,6,0.3,110.94,2021,Illinois
+ORD-10090,West,Home Office,Same Day,Office Supplies,Binders,1868.71,5,0.1,2.62,2022,Washington
+ORD-10091,Central,Home Office,First Class,Technology,Accessories,584.49,8,0.2,163.1,2023,Florida
+ORD-10092,East,Corporate,Same Day,Technology,Accessories,807.75,4,0.2,216.22,2024,New York
+ORD-10093,South,Consumer,Second Class,Office Supplies,Binders,1442.55,8,0.1,37.49,2020,Washington
+ORD-10094,West,Corporate,Same Day,Technology,Machines,1025.07,1,0.3,-49.53,2024,Illinois
+ORD-10095,South,Corporate,Standard Class,Office Supplies,Storage,1865.39,3,0.0,123.4,2025,Texas
+ORD-10096,East,Consumer,Standard Class,Office Supplies,Binders,1375.45,4,0.0,-51.62,2021,Washington
+ORD-10097,South,Corporate,Second Class,Technology,Copiers,710.76,1,0.0,194.59,2023,New York
+ORD-10098,West,Consumer,Same Day,Furniture,Tables,378.84,3,0.0,88.46,2021,California
+ORD-10099,Central,Home Office,Second Class,Furniture,Tables,1603.08,3,0.0,-25.84,2020,Washington
+ORD-10100,South,Corporate,Same Day,Furniture,Chairs,1184.85,2,0.3,122.49,2021,Illinois
+ORD-10101,Central,Home Office,Second Class,Office Supplies,Binders,1500.27,1,0.0,89.89,2024,Illinois
+ORD-10102,South,Corporate,Same Day,Technology,Copiers,251.46,6,0.2,45.88,2022,Illinois
+ORD-10103,East,Consumer,Standard Class,Furniture,Furnishings,1488.09,4,0.0,-47.24,2021,California
+ORD-10104,West,Corporate,Standard Class,Office Supplies,Art,1148.38,5,0.2,275.14,2025,Florida
+ORD-10105,South,Consumer,Second Class,Furniture,Furnishings,1215.84,8,0.0,144.52,2021,New York
+ORD-10106,West,Corporate,Second Class,Technology,Machines,1094.59,5,0.3,-20.01,2025,Texas
+ORD-10107,East,Home Office,Same Day,Office Supplies,Storage,323.64,8,0.1,-17.68,2022,New York
+ORD-10108,East,Corporate,First Class,Furniture,Furnishings,65.58,1,0.3,4.49,2023,Washington
+ORD-10109,West,Corporate,Same Day,Furniture,Tables,1823.16,1,0.1,11.23,2024,California
+ORD-10110,Central,Consumer,Standard Class,Furniture,Bookcases,636.66,3,0.3,110.49,2019,Texas
+ORD-10111,West,Home Office,Second Class,Furniture,Chairs,1215.37,3,0.2,105.16,2020,Texas
+ORD-10112,Central,Corporate,Standard Class,Technology,Accessories,1838.54,3,0.1,-37.92,2019,California
+ORD-10113,East,Consumer,Standard Class,Furniture,Bookcases,569.62,2,0.0,75.09,2022,Washington
+ORD-10114,South,Consumer,Second Class,Office Supplies,Art,1079.44,8,0.0,37.58,2025,New York
+ORD-10115,South,Home Office,Second Class,Technology,Machines,1798.15,1,0.0,125.83,2019,Washington
+ORD-10116,West,Corporate,First Class,Technology,Copiers,1064.74,6,0.3,124.03,2025,Florida
+ORD-10117,West,Home Office,Second Class,Furniture,Furnishings,1726.34,7,0.2,117.37,2020,Florida
+ORD-10118,East,Consumer,First Class,Furniture,Bookcases,1958.28,2,0.2,384.83,2021,New York
+ORD-10119,Central,Consumer,Same Day,Technology,Phones,1198.2,9,0.2,187.22,2025,Texas
+ORD-10120,South,Consumer,Second Class,Technology,Machines,1977.68,8,0.1,541.09,2023,Washington
+ORD-10121,Central,Consumer,First Class,Technology,Copiers,1794.74,7,0.1,-110.41,2023,New York
+ORD-10122,Central,Corporate,First Class,Furniture,Furnishings,1413.81,1,0.2,256.1,2020,New York
+ORD-10123,West,Consumer,Second Class,Technology,Copiers,550.77,5,0.0,46.39,2023,Florida
+ORD-10124,South,Home Office,Second Class,Technology,Machines,1949.6,8,0.0,566.96,2025,California
+ORD-10125,East,Home Office,Standard Class,Office Supplies,Storage,1034.67,9,0.3,221.92,2024,Washington
+ORD-10126,West,Corporate,Same Day,Technology,Accessories,1969.12,2,0.2,408.46,2023,Texas
+ORD-10127,South,Home Office,Standard Class,Furniture,Tables,153.01,5,0.0,18.95,2020,Washington
+ORD-10128,South,Consumer,Standard Class,Furniture,Bookcases,1802.04,6,0.2,304.25,2023,Texas
+ORD-10129,East,Home Office,Standard Class,Furniture,Chairs,849.17,2,0.3,281.4,2022,New York
+ORD-10130,East,Home Office,First Class,Office Supplies,Binders,790.81,8,0.2,47.49,2021,Washington
+ORD-10131,East,Corporate,Same Day,Office Supplies,Storage,1334.07,6,0.1,306.38,2025,Florida
+ORD-10132,Central,Corporate,Standard Class,Technology,Copiers,1686.23,1,0.1,556.21,2020,Texas
+ORD-10133,Central,Corporate,Standard Class,Furniture,Chairs,168.77,1,0.0,20.75,2025,New York
+ORD-10134,South,Home Office,Standard Class,Technology,Accessories,1602.84,3,0.1,-156.49,2022,New York
+ORD-10135,South,Corporate,Same Day,Technology,Phones,290.9,9,0.2,39.15,2021,Illinois
+ORD-10136,East,Home Office,First Class,Furniture,Bookcases,1453.72,6,0.3,17.95,2020,California
+ORD-10137,East,Corporate,Second Class,Furniture,Tables,98.07,7,0.0,-1.84,2025,Washington
+ORD-10138,Central,Home Office,Standard Class,Technology,Phones,1467.43,3,0.3,-70.62,2020,Washington
+ORD-10139,South,Home Office,Same Day,Technology,Copiers,651.82,7,0.0,125.52,2022,Illinois
+ORD-10140,South,Home Office,First Class,Office Supplies,Storage,1398.65,8,0.1,316.3,2019,Florida
+ORD-10141,West,Corporate,Second Class,Furniture,Tables,651.13,2,0.0,194.49,2025,New York
+ORD-10142,South,Home Office,First Class,Office Supplies,Paper,62.11,7,0.0,8.57,2025,Washington
+ORD-10143,South,Home Office,Standard Class,Furniture,Tables,195.32,5,0.3,35.62,2020,Washington
+ORD-10144,Central,Consumer,Second Class,Furniture,Bookcases,854.29,5,0.0,6.36,2024,Texas
+ORD-10145,East,Home Office,Standard Class,Office Supplies,Paper,1186.43,1,0.0,408.7,2019,Florida
+ORD-10146,Central,Home Office,Second Class,Technology,Accessories,1600.02,5,0.2,263.76,2021,Washington
+ORD-10147,South,Consumer,First Class,Furniture,Tables,350.73,4,0.3,1.49,2024,Illinois
+ORD-10148,East,Corporate,First Class,Technology,Phones,258.27,2,0.0,-0.2,2024,Illinois
+ORD-10149,West,Consumer,Standard Class,Furniture,Tables,1938.82,1,0.0,615.55,2021,Texas
+ORD-10150,Central,Corporate,Standard Class,Technology,Accessories,992.55,1,0.3,301.58,2023,California
+ORD-10151,Central,Home Office,Same Day,Furniture,Furnishings,1168.57,2,0.2,344.56,2023,California
+ORD-10152,East,Home Office,First Class,Technology,Phones,1707.34,9,0.2,332.69,2020,Florida
+ORD-10153,West,Consumer,Same Day,Technology,Accessories,534.31,5,0.3,65.8,2023,Florida
+ORD-10154,East,Home Office,Second Class,Furniture,Chairs,1705.39,8,0.0,198.28,2021,Texas
+ORD-10155,South,Consumer,First Class,Technology,Phones,548.72,6,0.3,142.03,2021,California
+ORD-10156,Central,Corporate,Same Day,Furniture,Bookcases,492.61,5,0.1,-25.8,2025,Illinois
+ORD-10157,West,Home Office,Standard Class,Technology,Phones,1746.25,3,0.2,474.31,2024,Texas
+ORD-10158,West,Home Office,Standard Class,Office Supplies,Paper,1518.14,7,0.1,44.28,2019,California
+ORD-10159,West,Home Office,Second Class,Technology,Accessories,1275.33,8,0.0,320.02,2025,Texas
+ORD-10160,South,Corporate,Same Day,Furniture,Furnishings,1683.44,5,0.0,429.22,2021,California
+ORD-10161,Central,Corporate,Second Class,Office Supplies,Binders,1172.7,1,0.1,210.4,2024,Illinois
+ORD-10162,West,Home Office,First Class,Technology,Copiers,1196.9,7,0.0,-107.77,2021,New York
+ORD-10163,Central,Consumer,Standard Class,Office Supplies,Storage,902.89,2,0.0,293.38,2025,Illinois
+ORD-10164,West,Home Office,First Class,Furniture,Bookcases,457.12,2,0.2,94.27,2021,California
+ORD-10165,Central,Corporate,First Class,Office Supplies,Art,81.98,5,0.2,7.29,2019,Illinois
+ORD-10166,Central,Consumer,Standard Class,Technology,Copiers,830.48,6,0.2,195.68,2022,Texas
+ORD-10167,East,Consumer,Standard Class,Technology,Machines,956.96,8,0.3,-15.8,2025,New York
+ORD-10168,East,Corporate,First Class,Office Supplies,Paper,1526.83,3,0.0,-62.51,2022,Washington
+ORD-10169,South,Consumer,Second Class,Technology,Phones,22.44,7,0.0,3.89,2019,Florida
+ORD-10170,Central,Consumer,Standard Class,Technology,Accessories,1172.3,5,0.1,303.51,2023,Texas
+ORD-10171,East,Consumer,Same Day,Office Supplies,Art,803.18,6,0.3,157.14,2024,California
+ORD-10172,West,Home Office,Same Day,Technology,Accessories,1503.34,9,0.0,-80.79,2024,Washington
+ORD-10173,East,Consumer,Standard Class,Furniture,Tables,1556.09,2,0.3,-104.9,2023,Washington
+ORD-10174,Central,Corporate,Second Class,Furniture,Chairs,175.59,6,0.2,-7.07,2020,Texas
+ORD-10175,Central,Home Office,Second Class,Technology,Accessories,101.54,1,0.3,18.93,2019,Washington
+ORD-10176,South,Corporate,Same Day,Furniture,Bookcases,1233.63,9,0.1,395.8,2024,Florida
+ORD-10177,South,Corporate,Second Class,Office Supplies,Storage,1633.35,7,0.2,494.36,2024,Texas
+ORD-10178,South,Consumer,Standard Class,Technology,Copiers,100.69,2,0.1,16.81,2023,New York
+ORD-10179,Central,Consumer,First Class,Office Supplies,Storage,1952.21,4,0.0,-35.23,2021,Florida
+ORD-10180,East,Home Office,First Class,Office Supplies,Paper,1444.02,6,0.0,503.02,2022,Texas
+ORD-10181,Central,Consumer,Second Class,Technology,Copiers,456.71,6,0.2,-3.83,2023,Texas
+ORD-10182,South,Corporate,Standard Class,Furniture,Furnishings,862.48,4,0.3,57.76,2021,California
+ORD-10183,South,Corporate,First Class,Office Supplies,Binders,803.12,4,0.1,135.71,2020,New York
+ORD-10184,East,Home Office,Standard Class,Technology,Accessories,1826.48,3,0.0,200.21,2021,Texas
+ORD-10185,West,Consumer,Standard Class,Office Supplies,Storage,1272.43,2,0.2,109.26,2024,Washington
+ORD-10186,Central,Corporate,Standard Class,Furniture,Bookcases,1193.98,7,0.0,236.62,2021,California
+ORD-10187,South,Consumer,First Class,Furniture,Furnishings,531.1,5,0.0,24.61,2025,New York
+ORD-10188,South,Home Office,Same Day,Office Supplies,Storage,895.21,9,0.0,91.53,2019,California
+ORD-10189,East,Consumer,Standard Class,Office Supplies,Art,771.13,5,0.2,153.23,2022,Florida
+ORD-10190,East,Home Office,Standard Class,Technology,Copiers,1125.12,4,0.1,387.05,2022,Texas
+ORD-10191,East,Consumer,Standard Class,Furniture,Chairs,261.78,6,0.0,83.83,2021,Washington
+ORD-10192,West,Consumer,Second Class,Office Supplies,Art,1973.53,8,0.2,-192.97,2023,California
+ORD-10193,South,Home Office,Same Day,Technology,Copiers,523.36,2,0.2,104.72,2024,Illinois
+ORD-10194,Central,Consumer,Same Day,Office Supplies,Paper,1471.14,8,0.1,-22.42,2024,Illinois
+ORD-10195,Central,Corporate,Second Class,Technology,Accessories,525.51,1,0.2,178.88,2020,Texas
+ORD-10196,South,Consumer,Second Class,Furniture,Tables,1740.43,8,0.0,-150.24,2022,California
+ORD-10197,West,Corporate,Same Day,Furniture,Bookcases,1882.93,5,0.3,363.51,2020,Texas
+ORD-10198,East,Consumer,Standard Class,Office Supplies,Storage,1954.8,9,0.0,570.49,2025,California
+ORD-10199,Central,Corporate,Second Class,Technology,Machines,1308.01,6,0.1,414.06,2020,Illinois
+ORD-10200,Central,Consumer,Standard Class,Furniture,Bookcases,882.45,1,0.3,29.64,2025,California
+ORD-10201,East,Consumer,Same Day,Office Supplies,Storage,1135.61,3,0.3,166.74,2019,New York
+ORD-10202,West,Corporate,Standard Class,Office Supplies,Paper,1182.38,8,0.1,223.66,2021,Illinois
+ORD-10203,West,Consumer,Same Day,Office Supplies,Art,1047.78,6,0.3,-92.69,2023,Texas
+ORD-10204,South,Home Office,First Class,Furniture,Bookcases,1076.53,7,0.1,254.16,2023,Illinois
+ORD-10205,South,Home Office,First Class,Technology,Copiers,34.97,5,0.3,11.53,2025,Florida
+ORD-10206,South,Consumer,Same Day,Furniture,Chairs,716.21,2,0.1,84.97,2024,New York
+ORD-10207,West,Corporate,Second Class,Furniture,Bookcases,1073.88,8,0.3,-64.08,2019,Illinois
+ORD-10208,Central,Consumer,First Class,Office Supplies,Binders,1054.51,7,0.2,302.37,2025,California
+ORD-10209,Central,Corporate,Standard Class,Office Supplies,Binders,527.99,4,0.3,62.09,2022,Illinois
+ORD-10210,West,Consumer,Second Class,Office Supplies,Storage,1903.78,7,0.1,511.42,2019,Texas
+ORD-10211,West,Home Office,Standard Class,Office Supplies,Binders,1682.93,8,0.3,99.36,2022,Texas
+ORD-10212,West,Consumer,First Class,Technology,Machines,859.0,9,0.1,210.45,2020,Illinois
+ORD-10213,East,Corporate,Same Day,Technology,Phones,1479.01,2,0.0,-3.65,2023,New York
+ORD-10214,East,Corporate,Standard Class,Technology,Machines,1283.16,9,0.1,236.62,2020,New York
+ORD-10215,East,Home Office,First Class,Technology,Phones,1358.17,6,0.0,302.76,2022,Washington
+ORD-10216,South,Consumer,Standard Class,Technology,Machines,1454.19,7,0.0,-93.45,2022,New York
+ORD-10217,East,Consumer,Same Day,Furniture,Furnishings,746.57,6,0.0,132.68,2020,Florida
+ORD-10218,West,Home Office,Second Class,Furniture,Furnishings,482.75,5,0.3,142.91,2022,Illinois
+ORD-10219,West,Consumer,First Class,Office Supplies,Storage,396.84,2,0.2,27.9,2020,Washington
+ORD-10220,Central,Consumer,First Class,Office Supplies,Art,195.76,5,0.0,36.36,2020,Washington
+ORD-10221,South,Home Office,Same Day,Office Supplies,Binders,1647.18,1,0.3,328.14,2024,Illinois
+ORD-10222,South,Consumer,Standard Class,Technology,Machines,1948.85,6,0.0,451.61,2024,Illinois
+ORD-10223,South,Corporate,Same Day,Office Supplies,Paper,196.47,7,0.3,-8.36,2020,Illinois
+ORD-10224,East,Corporate,First Class,Office Supplies,Art,620.19,2,0.0,38.49,2019,California
+ORD-10225,Central,Corporate,First Class,Furniture,Bookcases,1654.07,7,0.1,281.63,2024,New York
+ORD-10226,East,Corporate,Second Class,Technology,Accessories,1141.82,4,0.1,143.32,2020,Illinois
+ORD-10227,South,Corporate,Standard Class,Technology,Accessories,1758.39,6,0.2,449.29,2025,Illinois
+ORD-10228,West,Corporate,Standard Class,Technology,Accessories,324.51,3,0.1,107.35,2020,California
+ORD-10229,West,Consumer,Same Day,Furniture,Tables,641.18,1,0.1,195.06,2021,New York
+ORD-10230,West,Consumer,First Class,Furniture,Tables,309.82,5,0.1,-21.48,2022,Illinois
+ORD-10231,West,Consumer,First Class,Furniture,Bookcases,1022.16,2,0.0,-53.61,2024,Texas
+ORD-10232,East,Corporate,Second Class,Technology,Copiers,785.19,5,0.2,-10.76,2021,Texas
+ORD-10233,Central,Consumer,Standard Class,Furniture,Bookcases,1396.17,9,0.2,10.65,2022,Washington
+ORD-10234,South,Consumer,Standard Class,Office Supplies,Storage,371.98,1,0.3,68.79,2025,Florida
+ORD-10235,East,Home Office,Second Class,Furniture,Furnishings,1318.33,6,0.2,297.87,2023,New York
+ORD-10236,East,Corporate,First Class,Technology,Copiers,839.98,7,0.0,62.31,2020,Washington
+ORD-10237,South,Home Office,Standard Class,Technology,Phones,58.0,5,0.1,11.97,2019,Illinois
+ORD-10238,East,Consumer,First Class,Furniture,Tables,497.58,5,0.0,129.71,2019,Florida
+ORD-10239,South,Corporate,Same Day,Technology,Copiers,1008.68,7,0.0,120.75,2022,Texas
+ORD-10240,East,Consumer,Standard Class,Technology,Phones,1235.88,6,0.1,313.0,2019,California
+ORD-10241,South,Consumer,Same Day,Furniture,Chairs,1621.59,1,0.1,516.71,2021,Texas
+ORD-10242,East,Home Office,Standard Class,Technology,Accessories,1280.61,1,0.3,131.62,2022,California
+ORD-10243,East,Consumer,First Class,Technology,Phones,114.71,8,0.0,27.05,2021,California
+ORD-10244,Central,Home Office,First Class,Furniture,Furnishings,1480.27,4,0.2,498.61,2022,New York
+ORD-10245,West,Corporate,First Class,Technology,Accessories,214.82,6,0.3,-14.84,2022,California
+ORD-10246,West,Home Office,Standard Class,Technology,Machines,1543.06,9,0.0,110.9,2022,Washington
+ORD-10247,West,Consumer,Same Day,Office Supplies,Binders,1294.93,7,0.1,392.51,2022,New York
+ORD-10248,East,Corporate,First Class,Office Supplies,Paper,982.31,2,0.2,-78.9,2019,California
+ORD-10249,West,Consumer,Same Day,Technology,Accessories,890.02,9,0.1,288.71,2021,Washington
+ORD-10250,East,Home Office,Second Class,Furniture,Furnishings,1984.98,7,0.2,557.64,2023,Illinois
+ORD-10251,South,Home Office,Same Day,Office Supplies,Binders,1957.23,8,0.1,488.14,2024,Washington
+ORD-10252,Central,Home Office,Second Class,Technology,Phones,1876.03,2,0.1,-76.4,2025,New York
+ORD-10253,East,Home Office,First Class,Technology,Machines,697.92,6,0.2,168.33,2024,New York
+ORD-10254,South,Corporate,Second Class,Technology,Phones,205.64,9,0.3,19.58,2019,Florida
+ORD-10255,West,Corporate,First Class,Furniture,Bookcases,1983.78,8,0.2,160.04,2019,Texas
+ORD-10256,East,Corporate,Second Class,Furniture,Furnishings,1633.93,2,0.0,112.52,2020,Texas
+ORD-10257,South,Home Office,Same Day,Office Supplies,Art,1496.55,9,0.1,361.27,2021,Washington
+ORD-10258,West,Home Office,Second Class,Technology,Phones,266.93,4,0.3,67.05,2023,Washington
+ORD-10259,South,Consumer,Standard Class,Furniture,Tables,1397.32,5,0.1,249.86,2022,California
+ORD-10260,West,Home Office,Same Day,Technology,Copiers,972.33,3,0.3,-51.67,2022,Washington
+ORD-10261,Central,Corporate,Same Day,Office Supplies,Paper,1613.88,3,0.0,300.86,2023,Florida
+ORD-10262,East,Corporate,First Class,Office Supplies,Paper,1421.21,4,0.3,190.63,2019,California
+ORD-10263,East,Consumer,Second Class,Office Supplies,Storage,456.81,9,0.3,15.87,2022,Florida
+ORD-10264,East,Consumer,Same Day,Technology,Copiers,1378.1,7,0.0,451.52,2023,Texas
+ORD-10265,East,Corporate,Standard Class,Office Supplies,Storage,71.87,1,0.1,19.71,2021,Illinois
+ORD-10266,East,Consumer,Same Day,Technology,Phones,131.15,3,0.1,0.2,2023,Florida
+ORD-10267,South,Corporate,First Class,Furniture,Chairs,927.21,5,0.3,-37.03,2025,Texas
+ORD-10268,West,Consumer,First Class,Technology,Phones,1564.82,4,0.1,-116.15,2022,California
+ORD-10269,Central,Corporate,Same Day,Furniture,Tables,579.84,6,0.3,13.96,2020,Washington
+ORD-10270,South,Home Office,Same Day,Technology,Accessories,1692.68,6,0.3,-50.15,2020,Texas
+ORD-10271,West,Home Office,First Class,Technology,Phones,704.92,2,0.0,174.35,2020,New York
+ORD-10272,East,Corporate,Standard Class,Technology,Machines,1874.91,8,0.3,339.34,2020,Illinois
+ORD-10273,East,Consumer,Same Day,Technology,Copiers,412.23,8,0.0,44.84,2022,California
+ORD-10274,East,Home Office,Second Class,Furniture,Chairs,63.63,5,0.3,5.61,2025,California
+ORD-10275,East,Home Office,Second Class,Furniture,Furnishings,247.24,2,0.3,55.69,2019,California
+ORD-10276,East,Corporate,Second Class,Office Supplies,Paper,467.77,2,0.0,43.45,2019,Texas
+ORD-10277,South,Home Office,Same Day,Office Supplies,Paper,1726.73,3,0.0,409.54,2024,Florida
+ORD-10278,South,Home Office,Standard Class,Technology,Accessories,1956.56,3,0.2,242.15,2022,Texas
+ORD-10279,East,Home Office,Second Class,Technology,Machines,1518.37,6,0.2,-11.85,2022,Florida
+ORD-10280,East,Home Office,Second Class,Office Supplies,Storage,1894.34,8,0.1,450.53,2019,Washington
+ORD-10281,South,Home Office,Standard Class,Technology,Machines,579.21,4,0.2,-30.43,2021,Texas
+ORD-10282,South,Consumer,Same Day,Technology,Copiers,893.32,8,0.3,121.04,2023,Illinois
+ORD-10283,South,Corporate,Same Day,Technology,Phones,804.02,8,0.1,-23.25,2020,New York
+ORD-10284,East,Home Office,Same Day,Furniture,Bookcases,1796.43,8,0.1,-65.89,2023,Florida
+ORD-10285,South,Consumer,Same Day,Technology,Phones,891.84,6,0.1,-55.69,2021,Washington
+ORD-10286,East,Corporate,Same Day,Technology,Machines,1977.06,7,0.0,396.53,2022,Washington
+ORD-10287,South,Consumer,Same Day,Office Supplies,Storage,1319.15,5,0.0,-76.69,2020,Texas
+ORD-10288,West,Home Office,Same Day,Office Supplies,Paper,1468.36,9,0.3,459.88,2022,California
+ORD-10289,West,Home Office,Same Day,Technology,Accessories,1646.84,9,0.0,23.79,2022,Washington
+ORD-10290,East,Home Office,Same Day,Office Supplies,Art,1429.79,8,0.1,-78.23,2020,California
+ORD-10291,West,Consumer,Standard Class,Technology,Copiers,398.7,9,0.2,71.53,2022,New York
+ORD-10292,West,Corporate,First Class,Office Supplies,Storage,522.87,1,0.3,121.66,2022,Washington
+ORD-10293,Central,Home Office,Same Day,Furniture,Furnishings,469.82,8,0.2,12.06,2020,California
+ORD-10294,East,Corporate,Same Day,Technology,Accessories,733.55,5,0.2,178.56,2024,Florida
+ORD-10295,Central,Home Office,First Class,Furniture,Bookcases,1618.64,2,0.2,498.93,2021,New York
+ORD-10296,Central,Home Office,Second Class,Office Supplies,Art,771.42,4,0.0,112.62,2025,Washington
+ORD-10297,West,Home Office,Second Class,Technology,Machines,55.64,8,0.3,-4.88,2019,New York
+ORD-10298,East,Home Office,Second Class,Office Supplies,Storage,1655.56,3,0.0,459.84,2025,California
+ORD-10299,South,Corporate,Standard Class,Technology,Machines,1662.2,3,0.2,170.26,2023,Florida
+ORD-10300,West,Home Office,Standard Class,Furniture,Tables,111.32,1,0.3,3.09,2021,California
+ORD-10301,South,Corporate,Standard Class,Technology,Accessories,1491.52,4,0.2,456.86,2023,Washington
+ORD-10302,East,Corporate,Same Day,Office Supplies,Binders,1978.28,7,0.3,15.39,2021,New York
+ORD-10303,East,Home Office,Same Day,Office Supplies,Paper,1155.23,5,0.0,15.64,2019,Illinois
+ORD-10304,South,Consumer,Same Day,Furniture,Chairs,1821.06,4,0.2,497.48,2023,Florida
+ORD-10305,East,Corporate,Same Day,Office Supplies,Art,939.58,9,0.2,283.41,2023,New York
+ORD-10306,South,Corporate,Same Day,Office Supplies,Art,1581.83,3,0.3,323.31,2023,New York
+ORD-10307,East,Home Office,Second Class,Office Supplies,Art,1902.05,2,0.2,446.25,2024,Washington
+ORD-10308,Central,Corporate,Standard Class,Furniture,Tables,736.47,6,0.1,227.07,2019,Illinois
+ORD-10309,South,Consumer,Standard Class,Furniture,Chairs,1252.59,3,0.3,32.95,2023,Washington
+ORD-10310,East,Corporate,First Class,Furniture,Tables,118.0,8,0.2,33.01,2023,Illinois
+ORD-10311,South,Consumer,Standard Class,Furniture,Furnishings,1035.08,6,0.1,25.9,2019,California
+ORD-10312,South,Home Office,Second Class,Furniture,Bookcases,1762.13,7,0.0,-152.69,2021,New York
+ORD-10313,South,Consumer,Standard Class,Furniture,Bookcases,563.97,1,0.3,50.66,2023,Florida
+ORD-10314,South,Consumer,First Class,Furniture,Furnishings,607.52,7,0.3,163.75,2024,Washington
+ORD-10315,South,Corporate,Standard Class,Furniture,Bookcases,137.86,4,0.1,2.14,2025,Florida
+ORD-10316,South,Corporate,First Class,Office Supplies,Binders,259.63,8,0.3,79.22,2025,California
+ORD-10317,Central,Consumer,Second Class,Technology,Accessories,1343.77,9,0.1,84.47,2024,Texas
+ORD-10318,West,Home Office,Standard Class,Technology,Accessories,249.16,7,0.3,-5.65,2020,Illinois
+ORD-10319,West,Home Office,First Class,Office Supplies,Storage,1077.26,8,0.1,-102.05,2019,Illinois
+ORD-10320,Central,Consumer,Second Class,Technology,Accessories,1822.07,1,0.2,99.17,2022,Illinois
+ORD-10321,East,Corporate,Second Class,Office Supplies,Storage,871.26,3,0.0,20.84,2024,Florida
+ORD-10322,Central,Corporate,First Class,Office Supplies,Art,1648.4,9,0.2,-91.5,2019,Washington
+ORD-10323,South,Consumer,Same Day,Furniture,Furnishings,761.61,8,0.3,71.39,2019,California
+ORD-10324,Central,Home Office,First Class,Technology,Machines,692.74,2,0.3,-67.18,2024,New York
+ORD-10325,South,Corporate,Standard Class,Furniture,Chairs,1360.7,5,0.3,87.18,2025,Florida
+ORD-10326,Central,Consumer,Same Day,Furniture,Chairs,1944.61,8,0.3,247.85,2020,New York
+ORD-10327,East,Home Office,Standard Class,Office Supplies,Paper,1852.76,3,0.1,75.86,2024,Texas
+ORD-10328,South,Corporate,Same Day,Furniture,Tables,249.96,5,0.2,74.93,2019,California
+ORD-10329,South,Corporate,Same Day,Furniture,Chairs,1221.62,4,0.0,89.77,2023,Illinois
+ORD-10330,Central,Home Office,Second Class,Furniture,Chairs,1073.87,6,0.0,295.47,2020,Illinois
+ORD-10331,South,Home Office,Standard Class,Technology,Accessories,134.14,5,0.3,36.73,2022,Illinois
+ORD-10332,Central,Corporate,Same Day,Technology,Phones,1259.94,4,0.2,317.6,2024,California
+ORD-10333,East,Consumer,Same Day,Office Supplies,Storage,418.6,5,0.3,-34.43,2024,New York
+ORD-10334,Central,Corporate,Standard Class,Technology,Machines,1194.17,2,0.2,70.52,2024,New York
+ORD-10335,West,Corporate,Standard Class,Technology,Machines,134.33,8,0.3,14.78,2021,New York
+ORD-10336,Central,Corporate,Same Day,Office Supplies,Art,205.47,4,0.3,24.94,2024,New York
+ORD-10337,Central,Consumer,Second Class,Furniture,Tables,1528.36,9,0.2,244.19,2021,Texas
+ORD-10338,South,Home Office,Standard Class,Technology,Copiers,1533.77,4,0.2,506.48,2022,Illinois
+ORD-10339,Central,Home Office,Standard Class,Furniture,Chairs,1697.0,8,0.2,68.48,2023,Washington
+ORD-10340,West,Home Office,First Class,Furniture,Bookcases,1473.38,2,0.3,468.78,2024,Texas
+ORD-10341,South,Corporate,Standard Class,Office Supplies,Art,612.8,2,0.0,15.59,2024,New York
+ORD-10342,Central,Home Office,Standard Class,Technology,Accessories,1360.11,1,0.3,44.31,2022,California
+ORD-10343,South,Consumer,First Class,Furniture,Chairs,156.68,8,0.3,38.55,2019,Florida
+ORD-10344,West,Corporate,First Class,Technology,Accessories,226.72,7,0.0,51.11,2024,New York
+ORD-10345,Central,Corporate,Same Day,Technology,Machines,239.78,2,0.0,79.08,2020,California
+ORD-10346,West,Consumer,Same Day,Technology,Accessories,1593.14,6,0.3,-55.22,2025,Florida
+ORD-10347,Central,Home Office,Second Class,Office Supplies,Storage,814.59,7,0.1,-25.62,2023,Illinois
+ORD-10348,East,Home Office,Standard Class,Technology,Phones,1106.98,5,0.0,189.93,2019,Washington
+ORD-10349,South,Corporate,Second Class,Technology,Phones,1445.19,4,0.3,216.19,2020,Florida
+ORD-10350,East,Home Office,First Class,Office Supplies,Art,620.32,6,0.1,83.17,2020,Florida
+ORD-10351,Central,Consumer,Same Day,Technology,Copiers,582.86,2,0.3,106.84,2019,California
+ORD-10352,East,Home Office,Same Day,Technology,Phones,1032.04,2,0.3,172.42,2020,California
+ORD-10353,East,Home Office,Second Class,Office Supplies,Binders,1882.09,9,0.0,-78.17,2022,Florida
+ORD-10354,South,Home Office,Standard Class,Office Supplies,Storage,1887.11,3,0.0,131.7,2019,Texas
+ORD-10355,Central,Home Office,Standard Class,Technology,Accessories,1137.97,9,0.3,232.3,2023,New York
+ORD-10356,West,Consumer,Standard Class,Furniture,Chairs,1932.77,1,0.3,417.76,2022,New York
+ORD-10357,Central,Consumer,First Class,Technology,Machines,1998.94,1,0.0,248.58,2025,Texas
+ORD-10358,East,Consumer,Same Day,Office Supplies,Storage,752.23,7,0.0,-12.25,2025,Texas
+ORD-10359,South,Consumer,First Class,Furniture,Chairs,1742.13,6,0.3,333.57,2023,Illinois
+ORD-10360,South,Corporate,Same Day,Office Supplies,Binders,290.47,7,0.3,67.5,2022,Illinois
+ORD-10361,East,Consumer,Standard Class,Office Supplies,Paper,1166.77,5,0.3,-94.1,2024,Washington
+ORD-10362,East,Corporate,Same Day,Office Supplies,Binders,549.83,5,0.1,-51.35,2020,Washington
+ORD-10363,West,Consumer,Same Day,Furniture,Furnishings,1898.71,3,0.0,439.15,2024,Florida
+ORD-10364,South,Home Office,Standard Class,Furniture,Bookcases,1757.74,6,0.0,70.91,2022,Texas
+ORD-10365,Central,Consumer,Standard Class,Technology,Accessories,53.56,9,0.1,-0.98,2019,Texas
+ORD-10366,South,Home Office,First Class,Technology,Machines,1290.88,5,0.3,189.46,2019,New York
+ORD-10367,South,Home Office,Standard Class,Furniture,Bookcases,1565.14,8,0.0,123.81,2019,Illinois
+ORD-10368,West,Consumer,First Class,Office Supplies,Paper,978.47,7,0.3,-72.38,2023,Florida
+ORD-10369,West,Home Office,Second Class,Office Supplies,Storage,1926.28,6,0.0,-14.94,2019,Texas
+ORD-10370,South,Home Office,First Class,Furniture,Tables,643.99,3,0.2,220.08,2022,New York
+ORD-10371,South,Consumer,First Class,Technology,Phones,703.48,4,0.1,21.62,2025,California
+ORD-10372,East,Home Office,Same Day,Office Supplies,Paper,1386.39,2,0.0,171.62,2024,California
+ORD-10373,West,Corporate,Second Class,Office Supplies,Paper,1068.73,5,0.1,-70.21,2024,Texas
+ORD-10374,South,Consumer,First Class,Office Supplies,Paper,377.01,3,0.1,108.87,2022,California
+ORD-10375,South,Corporate,Standard Class,Furniture,Furnishings,1990.06,2,0.2,151.91,2022,New York
+ORD-10376,Central,Home Office,Second Class,Technology,Accessories,1054.63,5,0.0,330.86,2024,Texas
+ORD-10377,West,Consumer,First Class,Office Supplies,Paper,396.41,3,0.0,122.31,2021,Illinois
+ORD-10378,Central,Corporate,Standard Class,Office Supplies,Paper,1519.47,8,0.1,339.22,2021,California
+ORD-10379,East,Consumer,Second Class,Technology,Machines,1138.87,6,0.0,141.79,2022,Illinois
+ORD-10380,West,Home Office,Same Day,Office Supplies,Storage,1276.04,8,0.1,57.1,2021,Washington
+ORD-10381,West,Consumer,Second Class,Furniture,Bookcases,77.76,3,0.3,15.4,2025,New York
+ORD-10382,Central,Consumer,Second Class,Office Supplies,Storage,999.46,9,0.0,116.63,2021,New York
+ORD-10383,East,Consumer,First Class,Furniture,Bookcases,1162.7,1,0.1,402.99,2020,Florida
+ORD-10384,Central,Home Office,Standard Class,Furniture,Tables,1806.43,4,0.3,-158.27,2019,Illinois
+ORD-10385,East,Consumer,Same Day,Office Supplies,Binders,366.94,2,0.3,9.95,2021,New York
+ORD-10386,Central,Home Office,First Class,Furniture,Bookcases,666.15,3,0.2,-23.5,2025,Texas
+ORD-10387,West,Consumer,Standard Class,Furniture,Chairs,1530.95,7,0.1,459.28,2019,New York
+ORD-10388,Central,Home Office,Standard Class,Technology,Accessories,430.01,9,0.2,-29.65,2019,New York
+ORD-10389,South,Corporate,Same Day,Technology,Machines,1656.96,4,0.1,411.35,2021,Texas
+ORD-10390,East,Home Office,Second Class,Furniture,Chairs,1087.41,8,0.3,99.34,2023,Washington
+ORD-10391,West,Home Office,First Class,Furniture,Chairs,1189.05,6,0.1,-89.67,2024,Illinois
+ORD-10392,South,Corporate,First Class,Furniture,Furnishings,476.22,3,0.1,108.68,2025,Florida
+ORD-10393,West,Consumer,Standard Class,Technology,Phones,1699.88,7,0.1,61.74,2021,New York
+ORD-10394,South,Corporate,Standard Class,Office Supplies,Binders,754.46,6,0.3,258.92,2024,Illinois
+ORD-10395,East,Home Office,Same Day,Furniture,Furnishings,175.34,2,0.2,23.31,2020,Washington
+ORD-10396,East,Consumer,Second Class,Furniture,Chairs,1211.08,4,0.2,268.24,2019,California
+ORD-10397,West,Home Office,Same Day,Technology,Phones,360.74,1,0.0,36.78,2025,New York
+ORD-10398,East,Corporate,First Class,Office Supplies,Binders,261.62,7,0.0,75.28,2019,Illinois
+ORD-10399,East,Home Office,Standard Class,Furniture,Chairs,442.52,4,0.3,-12.92,2022,Illinois
+ORD-10400,South,Corporate,Standard Class,Technology,Machines,1002.59,3,0.1,-26.7,2021,New York
+ORD-10401,Central,Home Office,Standard Class,Technology,Machines,1599.14,1,0.1,446.92,2021,Washington
+ORD-10402,Central,Corporate,Same Day,Furniture,Chairs,1934.73,3,0.0,246.02,2023,Washington
+ORD-10403,South,Home Office,Second Class,Technology,Copiers,805.18,9,0.3,164.84,2024,New York
+ORD-10404,South,Home Office,First Class,Furniture,Chairs,160.37,8,0.2,25.22,2021,Texas
+ORD-10405,South,Consumer,Second Class,Furniture,Chairs,59.2,5,0.2,-0.82,2019,Illinois
+ORD-10406,West,Corporate,Same Day,Furniture,Furnishings,820.96,6,0.3,207.45,2019,New York
+ORD-10407,South,Corporate,First Class,Office Supplies,Binders,162.78,7,0.3,55.66,2025,Washington
+ORD-10408,West,Home Office,Second Class,Technology,Copiers,1574.83,8,0.3,39.42,2019,California
+ORD-10409,East,Corporate,Standard Class,Office Supplies,Paper,1047.03,1,0.1,352.64,2023,Texas
+ORD-10410,Central,Corporate,Second Class,Office Supplies,Art,857.0,1,0.3,-57.15,2019,New York
+ORD-10411,Central,Home Office,First Class,Office Supplies,Art,1108.22,6,0.1,-39.04,2023,Washington
+ORD-10412,West,Corporate,Standard Class,Technology,Phones,202.29,3,0.3,-11.85,2020,Washington
+ORD-10413,West,Consumer,First Class,Technology,Accessories,516.77,9,0.0,104.61,2022,New York
+ORD-10414,East,Home Office,First Class,Office Supplies,Binders,364.68,3,0.1,37.23,2024,New York
+ORD-10415,East,Consumer,Standard Class,Furniture,Bookcases,1549.16,4,0.1,105.5,2023,Florida
+ORD-10416,East,Consumer,Second Class,Technology,Phones,1093.14,3,0.0,-0.86,2020,Washington
+ORD-10417,Central,Consumer,First Class,Office Supplies,Binders,1006.12,6,0.1,-58.68,2019,Florida
+ORD-10418,South,Consumer,First Class,Technology,Copiers,1638.16,9,0.2,-157.14,2019,California
+ORD-10419,Central,Home Office,Same Day,Office Supplies,Paper,1433.82,8,0.2,-14.81,2022,California
+ORD-10420,West,Home Office,Second Class,Furniture,Tables,556.2,2,0.3,33.2,2020,California
+ORD-10421,Central,Home Office,Same Day,Technology,Machines,180.68,7,0.1,53.88,2021,Illinois
+ORD-10422,West,Home Office,Second Class,Office Supplies,Storage,1241.23,1,0.2,288.04,2020,California
+ORD-10423,South,Consumer,Second Class,Furniture,Chairs,1177.21,9,0.2,24.7,2023,California
+ORD-10424,Central,Corporate,Second Class,Office Supplies,Art,1579.0,2,0.0,462.92,2022,Texas
+ORD-10425,South,Home Office,Second Class,Technology,Phones,1572.29,2,0.1,196.59,2019,Illinois
+ORD-10426,Central,Consumer,First Class,Office Supplies,Art,827.11,6,0.3,262.36,2021,Washington
+ORD-10427,East,Consumer,Standard Class,Office Supplies,Paper,829.38,6,0.1,-41.18,2020,Florida
+ORD-10428,East,Consumer,Same Day,Furniture,Tables,1765.75,4,0.2,-88.83,2022,Florida
+ORD-10429,West,Consumer,Standard Class,Technology,Machines,1115.69,9,0.0,261.23,2025,Washington
+ORD-10430,South,Consumer,Standard Class,Technology,Machines,1576.99,1,0.1,34.97,2023,Illinois
+ORD-10431,West,Consumer,Second Class,Furniture,Tables,1115.67,3,0.2,-14.24,2025,California
+ORD-10432,East,Home Office,Standard Class,Technology,Machines,1501.74,9,0.2,262.42,2025,Illinois
+ORD-10433,South,Consumer,Second Class,Office Supplies,Art,474.6,7,0.0,-12.16,2023,Washington
+ORD-10434,Central,Corporate,First Class,Office Supplies,Paper,339.5,1,0.1,-31.03,2024,Texas
+ORD-10435,South,Home Office,Second Class,Office Supplies,Storage,228.58,4,0.1,30.55,2025,Washington
+ORD-10436,East,Home Office,Standard Class,Technology,Copiers,684.63,8,0.3,235.38,2024,California
+ORD-10437,Central,Consumer,Second Class,Technology,Copiers,1398.93,1,0.0,174.94,2019,Texas
+ORD-10438,East,Home Office,Same Day,Furniture,Furnishings,1891.33,1,0.0,-89.38,2020,California
+ORD-10439,East,Home Office,Standard Class,Technology,Phones,795.88,1,0.2,-6.41,2019,California
+ORD-10440,Central,Corporate,Same Day,Office Supplies,Binders,1717.47,3,0.2,512.71,2019,Washington
+ORD-10441,Central,Home Office,Second Class,Furniture,Furnishings,1510.22,9,0.1,422.1,2019,Washington
+ORD-10442,Central,Consumer,Second Class,Furniture,Bookcases,1644.79,9,0.0,194.01,2024,California
+ORD-10443,West,Home Office,Standard Class,Office Supplies,Storage,576.15,2,0.3,-46.73,2022,Florida
+ORD-10444,Central,Consumer,First Class,Furniture,Chairs,166.73,2,0.0,43.64,2020,Illinois
+ORD-10445,South,Home Office,Same Day,Technology,Copiers,158.61,8,0.2,34.57,2022,New York
+ORD-10446,East,Home Office,Same Day,Office Supplies,Storage,1423.36,2,0.1,397.18,2020,Illinois
+ORD-10447,East,Consumer,Second Class,Technology,Machines,151.6,8,0.0,24.66,2025,Texas
+ORD-10448,South,Corporate,Standard Class,Furniture,Bookcases,1348.89,7,0.3,-16.54,2020,California
+ORD-10449,West,Corporate,Second Class,Technology,Copiers,1202.37,4,0.1,192.94,2022,Texas
+ORD-10450,South,Consumer,First Class,Furniture,Chairs,1431.3,8,0.3,59.0,2020,Washington
+ORD-10451,South,Home Office,Second Class,Office Supplies,Art,1454.2,1,0.1,310.14,2025,Texas
+ORD-10452,West,Home Office,Second Class,Office Supplies,Art,873.55,6,0.0,16.45,2023,California
+ORD-10453,Central,Home Office,Second Class,Office Supplies,Binders,1655.32,5,0.1,41.89,2020,Illinois
+ORD-10454,South,Corporate,Standard Class,Technology,Copiers,1560.49,7,0.2,-24.23,2022,Florida
+ORD-10455,East,Consumer,Same Day,Furniture,Furnishings,450.12,5,0.2,8.46,2021,Illinois
+ORD-10456,South,Home Office,Standard Class,Office Supplies,Paper,1571.87,9,0.3,-14.97,2025,Illinois
+ORD-10457,West,Home Office,Same Day,Office Supplies,Paper,1692.85,1,0.1,369.17,2022,New York
+ORD-10458,Central,Home Office,Same Day,Furniture,Bookcases,1606.67,3,0.0,176.13,2023,Illinois
+ORD-10459,West,Home Office,Same Day,Furniture,Bookcases,64.4,5,0.2,5.33,2023,New York
+ORD-10460,South,Home Office,First Class,Office Supplies,Paper,53.96,8,0.1,11.75,2021,Texas
+ORD-10461,East,Consumer,Standard Class,Technology,Copiers,1256.74,5,0.0,206.26,2025,New York
+ORD-10462,Central,Home Office,Second Class,Technology,Accessories,1420.65,9,0.3,222.0,2020,Florida
+ORD-10463,South,Corporate,Standard Class,Furniture,Bookcases,439.04,3,0.0,149.93,2020,Florida
+ORD-10464,West,Home Office,First Class,Office Supplies,Binders,1017.93,2,0.2,208.56,2023,Florida
+ORD-10465,West,Home Office,Standard Class,Furniture,Bookcases,1387.95,9,0.0,-95.2,2025,Florida
+ORD-10466,East,Consumer,Second Class,Furniture,Bookcases,424.25,6,0.1,68.25,2024,Texas
+ORD-10467,West,Home Office,Same Day,Office Supplies,Art,69.43,8,0.1,14.48,2020,Washington
+ORD-10468,West,Corporate,First Class,Furniture,Chairs,1177.31,1,0.1,222.7,2022,New York
+ORD-10469,South,Home Office,Same Day,Office Supplies,Art,82.85,8,0.1,-5.13,2024,Washington
+ORD-10470,Central,Home Office,Standard Class,Technology,Copiers,1013.12,8,0.3,69.85,2021,New York
+ORD-10471,Central,Consumer,Second Class,Furniture,Tables,1388.6,7,0.0,151.71,2024,Florida
+ORD-10472,West,Consumer,First Class,Technology,Phones,1951.18,1,0.0,553.45,2024,New York
+ORD-10473,West,Corporate,Same Day,Office Supplies,Paper,844.11,2,0.2,93.78,2022,Illinois
+ORD-10474,South,Home Office,Same Day,Technology,Phones,1523.4,8,0.3,149.12,2021,Washington
+ORD-10475,East,Consumer,Same Day,Furniture,Tables,60.63,7,0.3,3.63,2022,Illinois
+ORD-10476,South,Home Office,Same Day,Office Supplies,Paper,1798.51,2,0.3,-117.95,2025,Washington
+ORD-10477,South,Corporate,Same Day,Office Supplies,Storage,618.79,5,0.3,99.82,2021,Florida
+ORD-10478,East,Home Office,Second Class,Office Supplies,Storage,182.9,7,0.2,6.93,2023,Texas
+ORD-10479,East,Home Office,Second Class,Furniture,Tables,1455.51,2,0.2,504.04,2025,Illinois
+ORD-10480,West,Consumer,Same Day,Furniture,Furnishings,1781.25,4,0.1,-21.69,2019,Florida
+ORD-10481,South,Home Office,First Class,Office Supplies,Storage,1323.0,9,0.2,343.81,2022,New York
+ORD-10482,Central,Consumer,Standard Class,Furniture,Furnishings,269.48,1,0.0,-5.67,2022,Texas
+ORD-10483,South,Home Office,Second Class,Office Supplies,Storage,817.5,7,0.3,55.16,2025,Washington
+ORD-10484,South,Corporate,Same Day,Furniture,Tables,1711.44,3,0.0,141.96,2023,Washington
+ORD-10485,West,Home Office,Same Day,Technology,Machines,754.92,6,0.1,10.39,2021,Florida
+ORD-10486,Central,Consumer,First Class,Furniture,Bookcases,1693.34,5,0.1,583.92,2024,Illinois
+ORD-10487,Central,Corporate,Second Class,Office Supplies,Art,514.34,6,0.3,-51.28,2019,Florida
+ORD-10488,East,Corporate,Same Day,Furniture,Chairs,321.06,1,0.0,18.64,2020,New York
+ORD-10489,Central,Consumer,First Class,Furniture,Bookcases,597.09,8,0.2,4.28,2023,California
+ORD-10490,East,Corporate,First Class,Furniture,Chairs,325.89,2,0.1,30.47,2023,Texas
+ORD-10491,Central,Consumer,Same Day,Furniture,Tables,1658.56,5,0.1,-13.27,2021,Florida
+ORD-10492,West,Consumer,Standard Class,Technology,Phones,947.29,5,0.2,172.26,2022,California
+ORD-10493,East,Home Office,Same Day,Office Supplies,Storage,338.15,3,0.2,34.51,2019,Illinois
+ORD-10494,East,Home Office,Same Day,Office Supplies,Binders,1224.47,8,0.2,-26.85,2020,Washington
+ORD-10495,East,Consumer,Standard Class,Technology,Copiers,1145.56,1,0.0,7.58,2025,Washington
+ORD-10496,East,Home Office,First Class,Office Supplies,Paper,649.74,3,0.1,-39.38,2021,California
+ORD-10497,Central,Consumer,Second Class,Furniture,Bookcases,601.68,8,0.2,112.33,2021,Washington
+ORD-10498,West,Consumer,First Class,Office Supplies,Paper,1895.38,3,0.3,440.83,2022,Texas
+ORD-10499,South,Corporate,First Class,Furniture,Furnishings,1362.67,1,0.0,76.44,2020,Florida
+ORD-10500,South,Consumer,First Class,Technology,Accessories,176.3,1,0.1,9.61,2022,Texas
+ORD-10501,Central,Corporate,Standard Class,Office Supplies,Art,346.47,8,0.3,7.91,2019,Texas
+ORD-10502,South,Corporate,First Class,Technology,Accessories,29.95,6,0.1,9.2,2021,Illinois
+ORD-10503,East,Consumer,Same Day,Technology,Accessories,1884.24,1,0.2,203.64,2020,Texas
+ORD-10504,Central,Consumer,Second Class,Technology,Copiers,726.4,7,0.3,29.96,2019,Texas
+ORD-10505,West,Consumer,Second Class,Office Supplies,Storage,697.37,9,0.3,191.03,2023,California
+ORD-10506,East,Consumer,Second Class,Office Supplies,Binders,995.78,4,0.2,94.83,2023,Washington
+ORD-10507,East,Home Office,Second Class,Furniture,Bookcases,701.04,7,0.3,113.31,2025,New York
+ORD-10508,East,Consumer,Second Class,Office Supplies,Paper,667.05,1,0.3,181.4,2023,Illinois
+ORD-10509,Central,Corporate,Standard Class,Technology,Phones,255.04,6,0.0,0.47,2022,New York
+ORD-10510,South,Home Office,Same Day,Office Supplies,Storage,1073.94,7,0.1,274.15,2023,Illinois
+ORD-10511,East,Home Office,Second Class,Office Supplies,Art,1967.46,9,0.2,661.81,2025,Florida
+ORD-10512,East,Consumer,Standard Class,Furniture,Furnishings,1056.7,6,0.3,364.82,2025,Texas
+ORD-10513,East,Corporate,First Class,Office Supplies,Paper,1650.63,1,0.1,189.5,2019,California
+ORD-10514,East,Corporate,First Class,Office Supplies,Paper,328.95,6,0.0,20.15,2024,Washington
+ORD-10515,East,Home Office,Standard Class,Technology,Machines,1620.64,6,0.0,118.43,2021,Florida
+ORD-10516,West,Home Office,Standard Class,Office Supplies,Binders,1868.82,1,0.2,260.15,2020,Florida
+ORD-10517,East,Corporate,Second Class,Office Supplies,Paper,1315.24,2,0.1,65.04,2023,Florida
+ORD-10518,South,Home Office,Same Day,Technology,Copiers,1233.34,3,0.0,236.44,2020,Florida
+ORD-10519,South,Consumer,Second Class,Furniture,Chairs,759.45,2,0.0,75.83,2020,Washington
+ORD-10520,South,Corporate,Same Day,Furniture,Furnishings,449.57,4,0.3,-13.23,2023,Texas
+ORD-10521,Central,Home Office,Standard Class,Furniture,Tables,1122.94,6,0.3,141.59,2025,Illinois
+ORD-10522,East,Home Office,Second Class,Office Supplies,Art,119.42,3,0.2,22.2,2020,Washington
+ORD-10523,West,Consumer,First Class,Office Supplies,Paper,1361.33,7,0.3,135.8,2023,Washington
+ORD-10524,South,Corporate,Second Class,Office Supplies,Art,1692.44,4,0.0,527.66,2025,Texas
+ORD-10525,Central,Home Office,Second Class,Furniture,Chairs,1805.13,6,0.3,537.86,2021,New York
+ORD-10526,East,Corporate,Same Day,Furniture,Furnishings,1932.18,4,0.0,440.09,2024,New York
+ORD-10527,West,Home Office,Standard Class,Office Supplies,Binders,812.42,7,0.2,84.88,2022,Florida
+ORD-10528,Central,Corporate,First Class,Technology,Accessories,1382.33,1,0.2,445.58,2023,Illinois
+ORD-10529,South,Home Office,Standard Class,Technology,Machines,1101.99,9,0.3,-45.48,2020,Washington
+ORD-10530,West,Home Office,Same Day,Office Supplies,Binders,1387.0,7,0.2,-128.34,2020,Texas
+ORD-10531,Central,Consumer,Same Day,Technology,Copiers,66.94,5,0.1,22.67,2024,Texas
+ORD-10532,East,Home Office,Second Class,Furniture,Tables,1855.29,1,0.2,142.49,2024,California
+ORD-10533,West,Home Office,First Class,Technology,Copiers,510.79,4,0.2,-49.64,2021,Washington
+ORD-10534,South,Consumer,Same Day,Technology,Machines,204.53,1,0.2,0.19,2023,Texas
+ORD-10535,West,Corporate,First Class,Office Supplies,Binders,1260.38,5,0.1,32.63,2023,Florida
+ORD-10536,Central,Consumer,Second Class,Furniture,Chairs,1460.51,4,0.2,202.24,2023,Illinois
+ORD-10537,South,Corporate,Second Class,Technology,Copiers,324.72,4,0.0,6.71,2020,Illinois
+ORD-10538,Central,Corporate,Second Class,Office Supplies,Art,1177.98,3,0.2,307.79,2023,Florida
+ORD-10539,Central,Corporate,Second Class,Office Supplies,Art,1793.47,4,0.0,6.27,2022,California
+ORD-10540,West,Home Office,Standard Class,Furniture,Furnishings,1652.21,2,0.0,-49.0,2024,Texas
+ORD-10541,South,Home Office,Second Class,Furniture,Furnishings,180.83,9,0.1,22.98,2024,New York
+ORD-10542,West,Home Office,Same Day,Furniture,Chairs,1734.88,3,0.2,191.63,2020,Texas
+ORD-10543,South,Consumer,First Class,Office Supplies,Art,1337.42,7,0.0,124.82,2025,Illinois
+ORD-10544,South,Consumer,First Class,Technology,Accessories,1056.73,1,0.0,128.4,2022,Illinois
+ORD-10545,West,Home Office,Same Day,Office Supplies,Storage,520.99,8,0.3,-27.99,2020,New York
+ORD-10546,West,Corporate,Standard Class,Technology,Phones,287.46,3,0.1,86.33,2020,Florida
+ORD-10547,South,Corporate,Same Day,Office Supplies,Paper,768.64,9,0.3,1.4,2019,Illinois
+ORD-10548,West,Consumer,Same Day,Furniture,Tables,453.05,5,0.1,-18.6,2020,New York
+ORD-10549,East,Corporate,Standard Class,Technology,Phones,1993.88,9,0.1,169.72,2020,California
+ORD-10550,South,Corporate,First Class,Office Supplies,Art,75.15,2,0.0,15.24,2020,California
+ORD-10551,Central,Consumer,Second Class,Office Supplies,Paper,119.83,5,0.3,-3.04,2024,Washington
+ORD-10552,West,Corporate,Same Day,Furniture,Tables,272.42,2,0.3,78.55,2023,Florida
+ORD-10553,East,Consumer,Same Day,Office Supplies,Paper,1573.84,4,0.3,403.67,2022,Texas
+ORD-10554,Central,Corporate,First Class,Office Supplies,Storage,522.2,5,0.3,24.35,2025,Washington
+ORD-10555,West,Home Office,Same Day,Office Supplies,Art,660.59,7,0.1,-28.2,2019,California
+ORD-10556,Central,Home Office,Second Class,Office Supplies,Storage,1007.96,5,0.0,304.83,2025,New York
+ORD-10557,West,Corporate,First Class,Furniture,Chairs,1430.03,1,0.3,20.76,2023,New York
+ORD-10558,West,Corporate,Standard Class,Technology,Phones,1038.63,6,0.2,152.67,2023,Florida
+ORD-10559,South,Home Office,First Class,Technology,Phones,792.0,1,0.3,-30.01,2025,Washington
+ORD-10560,East,Home Office,Second Class,Technology,Phones,193.55,3,0.3,31.4,2023,California
+ORD-10561,Central,Consumer,First Class,Furniture,Tables,1351.56,6,0.3,56.57,2022,New York
+ORD-10562,Central,Home Office,Second Class,Furniture,Bookcases,256.73,4,0.0,3.99,2021,Washington
+ORD-10563,Central,Consumer,Standard Class,Technology,Phones,1565.09,9,0.1,60.08,2024,New York
+ORD-10564,East,Consumer,Same Day,Technology,Machines,268.59,3,0.1,9.17,2021,New York
+ORD-10565,South,Corporate,Second Class,Technology,Copiers,152.05,6,0.1,18.88,2022,Washington
+ORD-10566,South,Corporate,First Class,Furniture,Tables,324.76,3,0.3,47.14,2025,New York
+ORD-10567,Central,Consumer,Standard Class,Technology,Phones,1993.2,6,0.1,103.22,2024,Illinois
+ORD-10568,West,Home Office,Same Day,Furniture,Chairs,1537.72,6,0.1,75.52,2019,Washington
+ORD-10569,West,Home Office,First Class,Office Supplies,Storage,752.65,9,0.2,192.31,2019,Texas
+ORD-10570,Central,Corporate,Same Day,Furniture,Tables,944.12,1,0.3,-23.86,2019,New York
+ORD-10571,West,Home Office,First Class,Office Supplies,Paper,1883.28,8,0.0,163.23,2023,Washington
+ORD-10572,East,Corporate,Standard Class,Office Supplies,Paper,921.66,9,0.1,210.8,2019,Texas
+ORD-10573,East,Consumer,Same Day,Office Supplies,Binders,1211.58,2,0.1,352.18,2023,Florida
+ORD-10574,Central,Corporate,Second Class,Office Supplies,Art,1474.04,6,0.1,-4.85,2019,Illinois
+ORD-10575,Central,Home Office,First Class,Technology,Machines,704.05,3,0.3,100.77,2024,California
+ORD-10576,Central,Consumer,Standard Class,Office Supplies,Art,606.73,3,0.2,176.84,2025,Washington
+ORD-10577,Central,Corporate,Same Day,Office Supplies,Art,1181.52,4,0.1,-75.52,2022,Washington
+ORD-10578,West,Corporate,First Class,Office Supplies,Paper,568.6,7,0.0,-25.04,2020,Illinois
+ORD-10579,West,Home Office,Second Class,Office Supplies,Paper,1214.6,8,0.1,135.16,2023,Washington
+ORD-10580,Central,Home Office,Standard Class,Furniture,Tables,972.93,5,0.3,318.87,2024,Illinois
+ORD-10581,Central,Consumer,Same Day,Technology,Phones,575.06,5,0.2,100.45,2024,Texas
+ORD-10582,South,Home Office,First Class,Technology,Copiers,1806.76,6,0.0,555.57,2020,New York
+ORD-10583,West,Home Office,Second Class,Technology,Accessories,543.65,2,0.0,-37.7,2020,California
+ORD-10584,Central,Home Office,Standard Class,Technology,Phones,48.84,7,0.3,4.24,2019,Texas
+ORD-10585,South,Home Office,Second Class,Furniture,Tables,137.98,7,0.0,33.62,2021,Texas
+ORD-10586,East,Home Office,First Class,Technology,Copiers,894.83,3,0.2,209.42,2024,Florida
+ORD-10587,Central,Corporate,Same Day,Technology,Accessories,1033.18,3,0.2,74.65,2025,Florida
+ORD-10588,Central,Consumer,Same Day,Technology,Phones,71.1,8,0.2,9.54,2024,Illinois
+ORD-10589,West,Consumer,Standard Class,Furniture,Chairs,1836.74,7,0.1,496.02,2022,California
+ORD-10590,West,Consumer,Standard Class,Office Supplies,Storage,1186.64,8,0.3,122.47,2022,Texas
+ORD-10591,West,Home Office,Standard Class,Office Supplies,Art,1367.51,4,0.0,-100.38,2021,California
+ORD-10592,East,Home Office,Same Day,Office Supplies,Paper,776.64,2,0.2,-76.2,2021,California
+ORD-10593,South,Corporate,Same Day,Furniture,Furnishings,370.62,2,0.3,122.5,2025,Washington
+ORD-10594,West,Corporate,Second Class,Furniture,Chairs,355.62,4,0.1,63.26,2025,Illinois
+ORD-10595,Central,Home Office,First Class,Office Supplies,Storage,1846.42,2,0.2,106.12,2025,Illinois
+ORD-10596,Central,Home Office,Second Class,Office Supplies,Paper,1924.0,8,0.0,353.68,2025,Washington
+ORD-10597,South,Consumer,Second Class,Technology,Accessories,1624.73,1,0.2,219.09,2019,Illinois
+ORD-10598,East,Corporate,First Class,Office Supplies,Storage,297.18,3,0.3,43.65,2022,Washington
+ORD-10599,South,Home Office,First Class,Office Supplies,Art,1272.95,3,0.3,442.14,2024,Illinois
+ORD-10600,Central,Home Office,First Class,Office Supplies,Art,272.59,9,0.0,16.21,2021,Washington
+ORD-10601,Central,Home Office,Standard Class,Furniture,Bookcases,712.71,1,0.0,80.03,2022,Texas
+ORD-10602,Central,Corporate,First Class,Technology,Copiers,69.89,7,0.1,-5.63,2019,Illinois
+ORD-10603,East,Home Office,Same Day,Furniture,Chairs,1596.56,8,0.3,-65.89,2023,Washington
+ORD-10604,West,Consumer,Second Class,Furniture,Furnishings,1206.61,9,0.1,35.82,2021,California
+ORD-10605,East,Home Office,Standard Class,Furniture,Tables,200.79,2,0.3,-8.46,2021,Texas
+ORD-10606,East,Consumer,Standard Class,Furniture,Furnishings,826.58,3,0.1,156.17,2022,Washington
+ORD-10607,Central,Consumer,Same Day,Technology,Accessories,1783.5,2,0.0,471.87,2024,New York
+ORD-10608,South,Home Office,Second Class,Furniture,Chairs,668.29,1,0.1,-12.35,2020,California
+ORD-10609,Central,Home Office,First Class,Furniture,Chairs,1184.22,6,0.3,324.71,2020,Texas
+ORD-10610,Central,Home Office,Same Day,Office Supplies,Binders,443.71,8,0.3,27.58,2025,California
+ORD-10611,East,Consumer,First Class,Furniture,Chairs,601.2,1,0.3,29.91,2023,Florida
+ORD-10612,East,Home Office,Standard Class,Technology,Accessories,1774.11,4,0.1,410.11,2021,Washington
+ORD-10613,East,Consumer,Same Day,Furniture,Tables,527.26,3,0.0,-19.95,2023,Texas
+ORD-10614,Central,Home Office,Standard Class,Furniture,Furnishings,1034.19,6,0.3,330.18,2025,Illinois
+ORD-10615,West,Home Office,Standard Class,Office Supplies,Paper,1568.14,7,0.2,331.26,2023,Texas
+ORD-10616,Central,Corporate,First Class,Furniture,Chairs,867.8,7,0.1,56.52,2024,Florida
+ORD-10617,South,Consumer,Same Day,Furniture,Bookcases,808.6,3,0.1,-8.58,2025,California
+ORD-10618,Central,Corporate,First Class,Technology,Copiers,1695.33,1,0.2,560.02,2019,California
+ORD-10619,South,Home Office,Second Class,Technology,Accessories,235.85,8,0.1,10.05,2019,Illinois
+ORD-10620,South,Corporate,First Class,Furniture,Bookcases,1717.32,2,0.3,-58.37,2024,Illinois
+ORD-10621,Central,Corporate,Second Class,Office Supplies,Binders,126.47,8,0.2,16.41,2022,New York
+ORD-10622,West,Home Office,Second Class,Technology,Accessories,30.18,3,0.1,-1.87,2021,New York
+ORD-10623,South,Corporate,Same Day,Office Supplies,Storage,1610.42,1,0.0,376.66,2021,New York
+ORD-10624,South,Corporate,First Class,Technology,Accessories,628.15,7,0.2,208.4,2022,California
+ORD-10625,East,Consumer,First Class,Technology,Copiers,1359.76,1,0.1,109.88,2025,California
+ORD-10626,Central,Corporate,First Class,Technology,Machines,1660.84,3,0.3,531.87,2023,Illinois
+ORD-10627,West,Corporate,Second Class,Technology,Copiers,1760.97,8,0.3,-86.88,2020,Washington
+ORD-10628,West,Home Office,Standard Class,Technology,Copiers,1727.74,7,0.3,367.72,2019,Texas
+ORD-10629,West,Corporate,First Class,Furniture,Furnishings,1991.04,4,0.0,-0.63,2022,Washington
+ORD-10630,Central,Consumer,Standard Class,Furniture,Chairs,1050.68,6,0.2,310.96,2024,Washington
+ORD-10631,West,Consumer,Same Day,Technology,Accessories,958.53,5,0.1,279.06,2023,Illinois
+ORD-10632,Central,Consumer,Same Day,Furniture,Tables,407.51,2,0.1,82.76,2020,Texas
+ORD-10633,East,Consumer,Same Day,Furniture,Bookcases,655.29,6,0.0,228.09,2021,California
+ORD-10634,South,Corporate,Same Day,Furniture,Furnishings,967.84,9,0.1,-96.69,2024,Washington
+ORD-10635,Central,Consumer,Standard Class,Office Supplies,Storage,1510.64,1,0.1,340.28,2022,Florida
+ORD-10636,Central,Corporate,Second Class,Furniture,Tables,164.55,1,0.3,0.91,2020,Texas
+ORD-10637,East,Consumer,First Class,Office Supplies,Art,97.14,8,0.1,10.05,2025,Illinois
+ORD-10638,West,Corporate,Second Class,Office Supplies,Binders,1725.66,7,0.1,-164.87,2022,New York
+ORD-10639,West,Consumer,Same Day,Technology,Machines,655.03,7,0.3,16.87,2024,California
+ORD-10640,West,Home Office,Same Day,Office Supplies,Storage,548.81,9,0.2,25.6,2021,Washington
+ORD-10641,South,Home Office,First Class,Technology,Accessories,1983.94,6,0.0,-76.07,2021,Washington
+ORD-10642,West,Home Office,Same Day,Technology,Phones,596.89,3,0.1,41.54,2024,Illinois
+ORD-10643,West,Home Office,Second Class,Technology,Phones,1083.34,1,0.2,57.09,2019,Washington
+ORD-10644,Central,Home Office,Standard Class,Office Supplies,Storage,345.29,8,0.1,77.02,2022,Texas
+ORD-10645,East,Consumer,First Class,Technology,Accessories,396.45,4,0.0,57.52,2019,New York
+ORD-10646,South,Consumer,Same Day,Furniture,Chairs,295.22,6,0.3,-1.32,2020,New York
+ORD-10647,South,Home Office,Second Class,Furniture,Chairs,1609.9,7,0.3,277.98,2024,Illinois
+ORD-10648,East,Consumer,Standard Class,Office Supplies,Paper,902.0,3,0.1,-22.18,2022,Washington
+ORD-10649,West,Corporate,First Class,Office Supplies,Art,834.18,1,0.1,-39.04,2020,Washington
+ORD-10650,West,Consumer,First Class,Furniture,Chairs,98.83,7,0.2,32.53,2022,Illinois
+ORD-10651,West,Consumer,Same Day,Technology,Machines,249.33,5,0.0,31.58,2025,Washington
+ORD-10652,East,Corporate,Standard Class,Technology,Machines,1554.96,3,0.2,284.33,2019,California
+ORD-10653,East,Consumer,Second Class,Technology,Copiers,1777.19,2,0.2,-122.51,2022,Washington
+ORD-10654,West,Consumer,Standard Class,Technology,Accessories,314.04,2,0.1,83.68,2020,New York
+ORD-10655,Central,Corporate,First Class,Technology,Copiers,613.8,8,0.3,130.88,2022,California
+ORD-10656,Central,Consumer,First Class,Office Supplies,Storage,1605.86,2,0.2,-81.19,2019,Florida
+ORD-10657,East,Home Office,Standard Class,Office Supplies,Art,1386.29,1,0.2,-103.86,2024,California
+ORD-10658,East,Consumer,Second Class,Furniture,Furnishings,311.38,8,0.0,-18.56,2019,Florida
+ORD-10659,South,Corporate,Same Day,Office Supplies,Art,629.2,1,0.0,-17.14,2020,New York
+ORD-10660,West,Corporate,Same Day,Furniture,Chairs,898.67,8,0.1,126.31,2022,Illinois
+ORD-10661,West,Home Office,Same Day,Furniture,Tables,418.5,1,0.0,21.96,2025,New York
+ORD-10662,South,Corporate,Standard Class,Furniture,Chairs,528.98,5,0.2,124.18,2020,Texas
+ORD-10663,West,Home Office,Standard Class,Office Supplies,Art,1256.0,5,0.2,73.15,2022,California
+ORD-10664,South,Consumer,Second Class,Furniture,Furnishings,696.86,1,0.2,191.51,2025,Washington
+ORD-10665,East,Corporate,Second Class,Office Supplies,Art,1614.09,6,0.1,162.51,2020,Illinois
+ORD-10666,West,Home Office,Second Class,Technology,Machines,1246.02,4,0.3,246.42,2020,Washington
+ORD-10667,South,Consumer,Second Class,Technology,Phones,1502.25,4,0.2,-78.48,2021,Texas
+ORD-10668,West,Corporate,Same Day,Office Supplies,Art,960.7,1,0.0,171.23,2020,Illinois
+ORD-10669,South,Corporate,Same Day,Office Supplies,Paper,1955.02,7,0.0,542.7,2022,New York
+ORD-10670,West,Home Office,Second Class,Office Supplies,Storage,994.88,8,0.1,283.54,2022,Illinois
+ORD-10671,South,Home Office,Second Class,Office Supplies,Paper,1004.56,4,0.1,-51.56,2024,Illinois
+ORD-10672,East,Home Office,Standard Class,Technology,Machines,957.4,3,0.1,-6.56,2025,New York
+ORD-10673,East,Consumer,Standard Class,Furniture,Bookcases,562.76,3,0.1,131.09,2025,New York
+ORD-10674,Central,Corporate,Same Day,Furniture,Tables,439.26,5,0.3,19.74,2020,Illinois
+ORD-10675,West,Consumer,Second Class,Technology,Copiers,1907.18,6,0.3,-111.15,2020,California
+ORD-10676,South,Corporate,Standard Class,Furniture,Bookcases,619.49,3,0.0,95.39,2020,Texas
+ORD-10677,South,Consumer,Second Class,Furniture,Tables,1798.74,2,0.0,-79.42,2020,Washington
+ORD-10678,West,Corporate,First Class,Furniture,Bookcases,984.68,9,0.2,11.79,2022,Illinois
+ORD-10679,South,Consumer,Second Class,Office Supplies,Binders,1614.25,8,0.3,-99.7,2024,Texas
+ORD-10680,South,Home Office,First Class,Furniture,Tables,1125.18,2,0.1,359.82,2019,California
+ORD-10681,West,Corporate,Second Class,Office Supplies,Paper,1676.1,6,0.3,475.17,2019,New York
+ORD-10682,West,Consumer,Standard Class,Office Supplies,Paper,980.34,8,0.3,50.75,2024,California
+ORD-10683,South,Corporate,First Class,Technology,Accessories,168.29,9,0.3,46.59,2020,Washington
+ORD-10684,East,Corporate,First Class,Furniture,Furnishings,768.43,9,0.2,197.0,2023,California
+ORD-10685,Central,Home Office,Second Class,Furniture,Tables,539.57,1,0.0,-44.26,2023,Washington
+ORD-10686,East,Corporate,First Class,Office Supplies,Paper,713.39,8,0.0,212.71,2022,California
+ORD-10687,South,Consumer,Same Day,Technology,Accessories,1940.75,4,0.0,330.62,2020,New York
+ORD-10688,East,Corporate,Standard Class,Office Supplies,Binders,594.29,7,0.2,15.96,2019,Texas
+ORD-10689,Central,Corporate,Same Day,Furniture,Furnishings,1228.52,6,0.0,52.61,2021,Texas
+ORD-10690,South,Corporate,First Class,Office Supplies,Storage,217.17,2,0.0,62.39,2023,Texas
+ORD-10691,East,Home Office,Standard Class,Office Supplies,Art,704.8,7,0.3,166.18,2023,Illinois
+ORD-10692,Central,Corporate,Same Day,Technology,Accessories,1444.08,9,0.0,61.08,2025,Florida
+ORD-10693,South,Home Office,Same Day,Technology,Copiers,1258.45,4,0.0,85.39,2020,Illinois
+ORD-10694,East,Home Office,First Class,Furniture,Bookcases,665.82,1,0.2,187.28,2024,Illinois
+ORD-10695,South,Corporate,Standard Class,Technology,Machines,1680.45,5,0.1,-142.01,2019,Florida
+ORD-10696,Central,Consumer,Second Class,Furniture,Furnishings,818.0,4,0.1,146.86,2024,Texas
+ORD-10697,Central,Consumer,Same Day,Furniture,Bookcases,1883.84,6,0.3,344.41,2023,New York
+ORD-10698,Central,Corporate,First Class,Office Supplies,Storage,1600.04,6,0.2,-114.07,2020,Florida
+ORD-10699,South,Corporate,Same Day,Office Supplies,Art,1838.67,8,0.3,624.19,2023,New York
+ORD-10700,Central,Corporate,Standard Class,Furniture,Chairs,1704.0,3,0.1,-2.65,2024,Florida
+ORD-10701,South,Consumer,Second Class,Furniture,Chairs,284.02,2,0.2,8.88,2020,California
+ORD-10702,West,Home Office,Second Class,Technology,Machines,722.5,8,0.2,115.42,2019,Washington
+ORD-10703,Central,Home Office,Second Class,Office Supplies,Storage,850.28,1,0.2,72.13,2019,Washington
+ORD-10704,West,Home Office,Same Day,Technology,Copiers,749.14,8,0.3,66.92,2019,Florida
+ORD-10705,South,Corporate,Same Day,Office Supplies,Art,1081.59,4,0.3,123.08,2021,Washington
+ORD-10706,South,Home Office,Standard Class,Furniture,Tables,1730.01,2,0.2,159.31,2022,Florida
+ORD-10707,South,Consumer,Standard Class,Technology,Accessories,1656.4,5,0.3,-124.93,2025,California
+ORD-10708,South,Home Office,Standard Class,Office Supplies,Binders,1718.56,2,0.1,-72.04,2022,California
+ORD-10709,South,Corporate,Standard Class,Furniture,Furnishings,764.19,2,0.0,-73.96,2023,Illinois
+ORD-10710,South,Consumer,First Class,Office Supplies,Paper,524.4,3,0.0,-29.62,2024,Illinois
+ORD-10711,West,Home Office,Same Day,Office Supplies,Binders,176.84,1,0.0,-16.14,2023,Washington
+ORD-10712,South,Consumer,Second Class,Technology,Copiers,594.71,2,0.0,-29.52,2023,New York
+ORD-10713,West,Home Office,Standard Class,Furniture,Furnishings,964.43,6,0.0,291.52,2022,Washington
+ORD-10714,South,Consumer,Second Class,Technology,Machines,916.59,6,0.0,303.84,2025,Washington
+ORD-10715,West,Consumer,First Class,Furniture,Chairs,1650.82,1,0.0,271.45,2019,New York
+ORD-10716,East,Corporate,Standard Class,Furniture,Bookcases,728.35,7,0.3,30.89,2025,Washington
+ORD-10717,West,Home Office,First Class,Technology,Phones,1150.29,7,0.0,-111.83,2025,Washington
+ORD-10718,Central,Corporate,First Class,Technology,Accessories,1922.28,4,0.0,-179.95,2024,Florida
+ORD-10719,Central,Consumer,First Class,Technology,Phones,442.02,2,0.0,145.92,2022,Illinois
+ORD-10720,South,Home Office,Same Day,Office Supplies,Binders,1709.57,4,0.3,-125.53,2024,Illinois
+ORD-10721,Central,Home Office,First Class,Office Supplies,Paper,1980.76,2,0.0,561.21,2019,California
+ORD-10722,West,Home Office,First Class,Technology,Machines,874.98,8,0.3,225.14,2023,Florida
+ORD-10723,Central,Corporate,First Class,Furniture,Chairs,464.28,1,0.1,8.07,2022,Washington
+ORD-10724,East,Corporate,Same Day,Office Supplies,Art,1934.6,2,0.2,-72.06,2024,Washington
+ORD-10725,Central,Consumer,Second Class,Office Supplies,Storage,789.76,6,0.2,61.22,2025,New York
+ORD-10726,East,Corporate,First Class,Technology,Accessories,510.31,4,0.2,170.94,2024,Washington
+ORD-10727,South,Consumer,Standard Class,Technology,Copiers,256.67,6,0.2,-19.97,2025,California
+ORD-10728,South,Home Office,Second Class,Technology,Machines,1898.07,2,0.1,74.52,2020,Texas
+ORD-10729,East,Home Office,First Class,Technology,Accessories,1289.23,1,0.3,106.1,2022,New York
+ORD-10730,West,Home Office,Second Class,Technology,Copiers,1360.21,6,0.1,228.87,2020,Florida
+ORD-10731,Central,Corporate,Second Class,Technology,Accessories,1633.29,5,0.1,64.27,2020,New York
+ORD-10732,West,Corporate,First Class,Technology,Phones,414.2,1,0.2,5.92,2019,Florida
+ORD-10733,East,Corporate,Same Day,Office Supplies,Storage,834.07,9,0.2,107.69,2021,New York
+ORD-10734,Central,Consumer,Same Day,Technology,Machines,498.48,8,0.3,21.24,2023,Florida
+ORD-10735,East,Home Office,Standard Class,Office Supplies,Paper,44.94,6,0.0,-0.8,2019,Texas
+ORD-10736,West,Corporate,First Class,Furniture,Chairs,830.18,4,0.3,176.01,2021,New York
+ORD-10737,Central,Consumer,Standard Class,Technology,Machines,903.73,8,0.0,191.42,2019,Illinois
+ORD-10738,South,Consumer,First Class,Furniture,Furnishings,1072.33,1,0.0,255.55,2021,Illinois
+ORD-10739,South,Corporate,First Class,Office Supplies,Storage,1449.99,5,0.3,211.84,2025,New York
+ORD-10740,South,Consumer,Second Class,Furniture,Bookcases,606.96,6,0.0,-26.66,2020,California
+ORD-10741,West,Corporate,Second Class,Technology,Copiers,1856.94,6,0.0,68.44,2020,Washington
+ORD-10742,East,Corporate,Second Class,Furniture,Bookcases,1294.94,8,0.0,316.16,2025,Illinois
+ORD-10743,Central,Corporate,First Class,Technology,Accessories,1285.15,5,0.0,123.06,2020,New York
+ORD-10744,South,Corporate,Second Class,Office Supplies,Storage,343.44,6,0.1,-11.85,2023,California
+ORD-10745,South,Consumer,First Class,Technology,Phones,1306.12,5,0.2,356.16,2024,Texas
+ORD-10746,Central,Corporate,Standard Class,Furniture,Bookcases,455.33,7,0.1,138.76,2025,Florida
+ORD-10747,West,Consumer,Second Class,Office Supplies,Binders,1673.25,3,0.0,534.7,2021,Florida
+ORD-10748,West,Home Office,First Class,Office Supplies,Storage,1582.41,4,0.2,-140.69,2019,Illinois
+ORD-10749,Central,Corporate,First Class,Technology,Copiers,708.61,2,0.2,-41.6,2019,New York
+ORD-10750,South,Home Office,First Class,Technology,Copiers,525.08,1,0.0,125.13,2021,Texas
+ORD-10751,South,Corporate,Standard Class,Office Supplies,Paper,1408.97,5,0.0,129.77,2025,Texas
+ORD-10752,South,Consumer,First Class,Office Supplies,Art,807.96,5,0.0,42.18,2020,Illinois
+ORD-10753,South,Consumer,Second Class,Office Supplies,Paper,1371.37,6,0.2,28.34,2025,New York
+ORD-10754,South,Home Office,First Class,Furniture,Furnishings,1203.41,4,0.2,362.08,2023,Texas
+ORD-10755,South,Consumer,Standard Class,Office Supplies,Storage,1646.09,6,0.1,529.95,2025,Washington
+ORD-10756,South,Corporate,Second Class,Furniture,Furnishings,1824.02,5,0.3,409.18,2025,Texas
+ORD-10757,East,Corporate,Standard Class,Furniture,Chairs,1102.02,6,0.3,321.05,2024,California
+ORD-10758,East,Consumer,Standard Class,Furniture,Furnishings,1060.38,6,0.2,285.0,2019,New York
+ORD-10759,South,Home Office,Standard Class,Furniture,Tables,892.66,1,0.2,247.52,2023,Texas
+ORD-10760,Central,Consumer,First Class,Technology,Accessories,717.91,2,0.0,173.49,2020,Texas
+ORD-10761,East,Corporate,Second Class,Furniture,Tables,670.57,6,0.0,30.21,2020,Texas
+ORD-10762,South,Consumer,Standard Class,Technology,Accessories,131.3,5,0.3,37.14,2019,New York
+ORD-10763,Central,Home Office,Same Day,Furniture,Chairs,86.18,9,0.2,21.98,2024,Florida
+ORD-10764,South,Home Office,Standard Class,Furniture,Tables,977.48,8,0.2,307.43,2021,Washington
+ORD-10765,West,Home Office,Same Day,Technology,Machines,1156.38,2,0.2,317.67,2021,Illinois
+ORD-10766,West,Corporate,First Class,Technology,Phones,1968.5,2,0.1,64.31,2025,New York
+ORD-10767,South,Home Office,Second Class,Technology,Copiers,532.74,1,0.1,-6.13,2019,Florida
+ORD-10768,South,Corporate,Second Class,Office Supplies,Binders,1892.52,1,0.3,-28.89,2022,California
+ORD-10769,Central,Corporate,Same Day,Technology,Phones,1039.27,3,0.0,-53.78,2021,Illinois
+ORD-10770,West,Corporate,Same Day,Furniture,Chairs,1099.06,4,0.3,7.23,2019,Texas
+ORD-10771,West,Corporate,Standard Class,Office Supplies,Paper,1360.71,7,0.2,26.87,2019,Florida
+ORD-10772,South,Corporate,Second Class,Technology,Copiers,1668.13,1,0.0,-29.12,2021,California
+ORD-10773,East,Home Office,First Class,Technology,Accessories,1379.62,3,0.3,32.78,2023,Texas
+ORD-10774,West,Corporate,First Class,Furniture,Bookcases,451.14,3,0.0,109.61,2019,Illinois
+ORD-10775,East,Corporate,Standard Class,Furniture,Tables,1480.11,1,0.3,-103.2,2023,Illinois
+ORD-10776,Central,Consumer,Same Day,Office Supplies,Paper,712.06,6,0.3,182.37,2020,Texas
+ORD-10777,West,Corporate,Standard Class,Furniture,Chairs,1649.55,3,0.2,479.77,2020,Texas
+ORD-10778,South,Home Office,Second Class,Office Supplies,Storage,371.16,9,0.0,-1.8,2019,Florida
+ORD-10779,East,Consumer,Second Class,Furniture,Furnishings,1015.69,5,0.1,350.23,2019,Washington
+ORD-10780,West,Consumer,Second Class,Technology,Accessories,442.14,3,0.1,31.06,2020,Washington
+ORD-10781,Central,Home Office,First Class,Technology,Accessories,1038.83,3,0.0,319.7,2019,Texas
+ORD-10782,West,Consumer,Second Class,Furniture,Tables,132.12,2,0.3,16.32,2020,Florida
+ORD-10783,Central,Home Office,Second Class,Office Supplies,Art,1967.8,9,0.1,367.56,2024,New York
+ORD-10784,South,Corporate,Standard Class,Furniture,Bookcases,959.58,8,0.0,52.92,2020,Florida
+ORD-10785,East,Corporate,Same Day,Furniture,Furnishings,1216.52,7,0.1,106.84,2024,Illinois
+ORD-10786,East,Home Office,Same Day,Technology,Accessories,438.78,8,0.1,-11.79,2019,New York
+ORD-10787,South,Corporate,First Class,Furniture,Bookcases,1529.48,8,0.2,-147.02,2024,New York
+ORD-10788,Central,Consumer,First Class,Office Supplies,Paper,1506.08,9,0.0,149.42,2025,Texas
+ORD-10789,West,Home Office,Standard Class,Furniture,Tables,1263.5,5,0.0,109.97,2022,California
+ORD-10790,West,Consumer,First Class,Technology,Copiers,124.76,2,0.1,-9.35,2019,Texas
+ORD-10791,West,Corporate,Same Day,Furniture,Chairs,1140.39,1,0.1,296.92,2020,New York
+ORD-10792,West,Corporate,Second Class,Furniture,Furnishings,1245.12,1,0.2,-2.52,2024,Washington
+ORD-10793,Central,Home Office,Same Day,Office Supplies,Paper,1075.45,3,0.1,155.21,2020,California
+ORD-10794,Central,Corporate,Standard Class,Furniture,Chairs,904.81,5,0.2,-0.71,2023,Texas
+ORD-10795,South,Home Office,Second Class,Technology,Accessories,849.47,6,0.2,-52.76,2025,California
+ORD-10796,Central,Home Office,Standard Class,Technology,Copiers,871.09,9,0.3,290.07,2024,Florida
+ORD-10797,West,Consumer,Standard Class,Furniture,Chairs,1353.37,2,0.3,-87.45,2021,Washington
+ORD-10798,South,Home Office,Second Class,Technology,Copiers,1605.06,3,0.3,42.66,2019,New York
+ORD-10799,West,Corporate,First Class,Office Supplies,Binders,1931.91,3,0.1,40.54,2021,Texas
+ORD-10800,Central,Corporate,Second Class,Furniture,Bookcases,1307.22,9,0.3,-104.33,2020,California
+ORD-10801,Central,Corporate,First Class,Office Supplies,Storage,285.37,1,0.0,79.87,2022,Florida
+ORD-10802,South,Home Office,Same Day,Furniture,Chairs,1817.37,8,0.1,584.14,2020,Washington
+ORD-10803,Central,Home Office,Standard Class,Office Supplies,Storage,1703.26,9,0.0,559.55,2020,California
+ORD-10804,Central,Home Office,Standard Class,Technology,Accessories,811.32,3,0.3,114.73,2020,California
+ORD-10805,South,Consumer,Standard Class,Technology,Copiers,118.04,5,0.0,6.35,2023,Florida
+ORD-10806,South,Corporate,Second Class,Technology,Phones,162.98,2,0.0,20.61,2019,California
+ORD-10807,South,Consumer,Standard Class,Technology,Phones,1082.32,5,0.0,-4.47,2021,New York
+ORD-10808,West,Home Office,Same Day,Office Supplies,Binders,1178.16,7,0.0,-101.2,2023,Florida
+ORD-10809,West,Corporate,Same Day,Technology,Phones,920.81,6,0.0,-37.19,2022,Illinois
+ORD-10810,East,Corporate,First Class,Furniture,Tables,1715.18,8,0.3,503.65,2020,Illinois
+ORD-10811,West,Consumer,Second Class,Technology,Machines,1582.05,4,0.0,296.86,2020,California
+ORD-10812,Central,Corporate,Second Class,Office Supplies,Storage,847.41,5,0.3,25.52,2023,Illinois
+ORD-10813,East,Home Office,Standard Class,Office Supplies,Storage,1022.16,9,0.0,328.39,2020,Washington
+ORD-10814,West,Home Office,Second Class,Furniture,Furnishings,1177.1,5,0.2,62.9,2024,California
+ORD-10815,East,Home Office,First Class,Technology,Machines,818.97,1,0.3,99.4,2024,New York
+ORD-10816,East,Home Office,First Class,Furniture,Tables,681.41,4,0.1,5.1,2020,Illinois
+ORD-10817,South,Corporate,Same Day,Furniture,Tables,628.03,7,0.3,185.14,2021,California
+ORD-10818,South,Home Office,Same Day,Furniture,Tables,670.95,1,0.3,6.41,2019,Texas
+ORD-10819,Central,Consumer,First Class,Furniture,Furnishings,1334.79,6,0.2,160.41,2019,Illinois
+ORD-10820,Central,Corporate,First Class,Office Supplies,Binders,1489.15,9,0.1,308.99,2020,New York
+ORD-10821,South,Corporate,Same Day,Technology,Phones,270.74,1,0.1,32.99,2023,Washington
+ORD-10822,East,Corporate,Standard Class,Technology,Phones,656.64,4,0.1,-28.07,2022,New York
+ORD-10823,Central,Home Office,First Class,Office Supplies,Paper,1065.57,5,0.3,-104.68,2019,Florida
+ORD-10824,West,Home Office,Second Class,Office Supplies,Storage,248.01,5,0.0,59.61,2022,Texas
+ORD-10825,West,Home Office,First Class,Technology,Machines,832.79,2,0.1,155.59,2022,Texas
+ORD-10826,West,Corporate,Second Class,Technology,Machines,1754.35,5,0.1,-42.71,2020,New York
+ORD-10827,South,Home Office,First Class,Furniture,Bookcases,366.27,3,0.0,82.83,2019,Illinois
+ORD-10828,South,Corporate,First Class,Office Supplies,Storage,1991.33,6,0.0,-60.43,2023,Illinois
+ORD-10829,West,Corporate,Standard Class,Office Supplies,Art,826.67,3,0.2,-61.86,2021,California
+ORD-10830,South,Consumer,Second Class,Furniture,Bookcases,335.89,6,0.1,-32.08,2020,Illinois
+ORD-10831,Central,Corporate,First Class,Furniture,Furnishings,250.34,1,0.3,63.74,2020,Illinois
+ORD-10832,West,Consumer,First Class,Office Supplies,Paper,1999.7,6,0.1,-72.87,2022,Florida
+ORD-10833,East,Corporate,Same Day,Technology,Copiers,1790.13,6,0.1,-106.18,2021,Texas
+ORD-10834,East,Home Office,Same Day,Office Supplies,Paper,1582.11,8,0.1,474.54,2023,California
+ORD-10835,East,Consumer,Second Class,Furniture,Tables,323.76,7,0.2,22.02,2025,Florida
+ORD-10836,West,Corporate,Same Day,Technology,Accessories,770.98,5,0.1,254.54,2019,Washington
+ORD-10837,Central,Home Office,First Class,Furniture,Bookcases,1012.3,4,0.2,192.23,2025,Illinois
+ORD-10838,Central,Corporate,Standard Class,Technology,Accessories,457.72,3,0.1,57.27,2023,Texas
+ORD-10839,Central,Home Office,Same Day,Furniture,Furnishings,201.02,9,0.2,60.58,2020,Florida
+ORD-10840,East,Corporate,First Class,Technology,Copiers,1246.77,5,0.2,344.52,2024,Washington
+ORD-10841,Central,Home Office,Same Day,Technology,Phones,1950.02,2,0.3,666.2,2022,Illinois
+ORD-10842,West,Home Office,Same Day,Technology,Accessories,1348.31,2,0.0,198.52,2023,Washington
+ORD-10843,Central,Consumer,First Class,Furniture,Bookcases,1701.95,8,0.0,260.73,2022,California
+ORD-10844,West,Corporate,Standard Class,Office Supplies,Art,300.4,1,0.1,42.34,2025,New York
+ORD-10845,Central,Corporate,First Class,Office Supplies,Storage,1441.38,6,0.3,308.82,2024,Texas
+ORD-10846,East,Corporate,Second Class,Office Supplies,Paper,1570.19,8,0.2,185.86,2024,Illinois
+ORD-10847,South,Corporate,Same Day,Technology,Machines,747.33,1,0.0,101.57,2023,California
+ORD-10848,West,Corporate,Same Day,Furniture,Furnishings,405.04,5,0.1,77.55,2021,California
+ORD-10849,East,Home Office,First Class,Furniture,Chairs,171.91,8,0.1,34.54,2022,Texas
+ORD-10850,West,Corporate,First Class,Furniture,Chairs,94.38,6,0.3,12.17,2019,Washington
+ORD-10851,West,Home Office,First Class,Furniture,Tables,1336.34,3,0.0,270.49,2022,Florida
+ORD-10852,South,Home Office,First Class,Technology,Accessories,839.98,8,0.0,17.4,2022,New York
+ORD-10853,East,Consumer,First Class,Technology,Copiers,1843.13,8,0.0,195.73,2025,Florida
+ORD-10854,West,Home Office,First Class,Furniture,Furnishings,1813.92,2,0.0,332.38,2025,California
+ORD-10855,West,Home Office,Standard Class,Office Supplies,Art,1238.59,7,0.3,214.12,2023,Illinois
+ORD-10856,Central,Consumer,First Class,Furniture,Bookcases,1896.58,6,0.0,-41.44,2021,Washington
+ORD-10857,West,Consumer,Same Day,Technology,Accessories,1490.42,5,0.2,229.87,2021,California
+ORD-10858,East,Consumer,Same Day,Office Supplies,Binders,1981.47,8,0.2,621.06,2021,Washington
+ORD-10859,South,Corporate,Second Class,Furniture,Tables,1749.26,1,0.3,524.55,2023,Illinois
+ORD-10860,Central,Corporate,Same Day,Furniture,Furnishings,114.61,7,0.0,-4.98,2022,California
+ORD-10861,South,Home Office,Second Class,Technology,Accessories,1598.73,6,0.1,478.58,2024,Washington
+ORD-10862,West,Corporate,First Class,Furniture,Tables,1465.66,8,0.0,30.38,2021,Texas
+ORD-10863,Central,Consumer,Second Class,Furniture,Furnishings,169.56,6,0.2,33.85,2021,Illinois
+ORD-10864,West,Home Office,Standard Class,Office Supplies,Paper,1433.03,8,0.2,280.25,2020,Texas
+ORD-10865,Central,Corporate,Standard Class,Technology,Accessories,978.74,6,0.3,272.57,2024,Washington
+ORD-10866,Central,Corporate,Same Day,Technology,Accessories,1209.2,6,0.0,271.53,2020,California
+ORD-10867,East,Home Office,First Class,Office Supplies,Binders,1897.43,3,0.3,409.93,2024,New York
+ORD-10868,West,Home Office,Second Class,Furniture,Furnishings,1458.08,6,0.1,489.95,2022,Illinois
+ORD-10869,West,Consumer,First Class,Furniture,Furnishings,1089.36,5,0.3,181.51,2021,Washington
+ORD-10870,South,Consumer,Second Class,Office Supplies,Art,779.55,7,0.3,172.76,2025,Washington
+ORD-10871,Central,Consumer,First Class,Technology,Phones,789.58,5,0.0,237.74,2025,Texas
+ORD-10872,Central,Consumer,Same Day,Furniture,Chairs,418.33,1,0.2,47.48,2021,Florida
+ORD-10873,East,Corporate,First Class,Furniture,Chairs,1711.94,5,0.2,-12.0,2021,Illinois
+ORD-10874,West,Home Office,Same Day,Office Supplies,Binders,1499.53,7,0.2,212.46,2021,Illinois
+ORD-10875,South,Home Office,First Class,Office Supplies,Binders,390.08,5,0.0,89.09,2024,Illinois
+ORD-10876,Central,Consumer,First Class,Furniture,Tables,480.56,8,0.1,-46.09,2021,Washington
+ORD-10877,West,Consumer,Standard Class,Technology,Phones,141.46,2,0.2,25.54,2023,Illinois
+ORD-10878,West,Corporate,Second Class,Office Supplies,Storage,1958.94,1,0.2,396.47,2022,New York
+ORD-10879,West,Consumer,Second Class,Furniture,Chairs,1053.23,4,0.0,-101.3,2025,New York
+ORD-10880,East,Corporate,Standard Class,Furniture,Bookcases,23.17,4,0.0,6.87,2019,Texas
+ORD-10881,East,Corporate,Standard Class,Technology,Accessories,326.59,4,0.1,69.78,2025,California
+ORD-10882,East,Consumer,Second Class,Office Supplies,Storage,1108.53,1,0.1,-26.34,2024,Florida
+ORD-10883,West,Home Office,Second Class,Furniture,Furnishings,1852.65,3,0.0,366.73,2022,Texas
+ORD-10884,Central,Consumer,Same Day,Office Supplies,Paper,832.4,1,0.0,-11.67,2024,New York
+ORD-10885,South,Consumer,First Class,Technology,Copiers,1711.71,3,0.3,529.05,2019,California
+ORD-10886,West,Home Office,Same Day,Furniture,Chairs,1890.04,9,0.0,214.75,2024,Florida
+ORD-10887,East,Corporate,Second Class,Technology,Copiers,1741.69,9,0.0,-129.42,2024,California
+ORD-10888,West,Consumer,Second Class,Furniture,Chairs,856.95,8,0.2,32.19,2024,New York
+ORD-10889,Central,Corporate,Second Class,Office Supplies,Binders,1640.35,4,0.1,432.27,2025,New York
+ORD-10890,East,Home Office,First Class,Technology,Phones,1860.99,9,0.1,-128.06,2023,California
+ORD-10891,Central,Home Office,First Class,Office Supplies,Art,1361.81,3,0.2,166.92,2025,Illinois
+ORD-10892,West,Corporate,Same Day,Office Supplies,Paper,1377.71,2,0.1,-82.73,2019,Texas
+ORD-10893,Central,Consumer,Second Class,Office Supplies,Storage,517.36,6,0.1,-20.31,2019,New York
+ORD-10894,Central,Corporate,Same Day,Office Supplies,Binders,1497.98,7,0.0,360.35,2020,California
+ORD-10895,South,Home Office,First Class,Office Supplies,Paper,704.34,4,0.0,-57.23,2023,Illinois
+ORD-10896,Central,Home Office,First Class,Office Supplies,Paper,106.0,6,0.1,31.17,2021,Illinois
+ORD-10897,Central,Home Office,Same Day,Furniture,Chairs,51.93,7,0.1,3.03,2020,New York
+ORD-10898,West,Corporate,Second Class,Office Supplies,Paper,842.22,3,0.0,50.52,2019,Washington
+ORD-10899,East,Consumer,Standard Class,Technology,Copiers,770.33,9,0.1,82.2,2022,Illinois
+ORD-10900,West,Corporate,Same Day,Technology,Machines,470.1,4,0.0,2.09,2020,New York
+ORD-10901,East,Home Office,Standard Class,Technology,Phones,324.85,7,0.3,10.08,2025,New York
+ORD-10902,East,Consumer,Second Class,Office Supplies,Binders,89.61,6,0.1,-8.26,2024,Florida
+ORD-10903,South,Consumer,Standard Class,Office Supplies,Storage,1868.24,8,0.3,-51.48,2023,Texas
+ORD-10904,South,Home Office,Standard Class,Furniture,Bookcases,894.98,1,0.1,-43.89,2025,Illinois
+ORD-10905,Central,Consumer,Standard Class,Office Supplies,Binders,1766.77,9,0.3,417.7,2019,Texas
+ORD-10906,East,Home Office,Standard Class,Office Supplies,Art,622.53,7,0.3,-61.85,2024,Texas
+ORD-10907,West,Consumer,First Class,Technology,Phones,587.96,1,0.0,-16.53,2020,California
+ORD-10908,South,Corporate,Same Day,Office Supplies,Binders,1128.4,4,0.3,197.28,2023,Florida
+ORD-10909,East,Consumer,First Class,Office Supplies,Art,346.17,3,0.3,-10.17,2020,Texas
+ORD-10910,South,Consumer,Same Day,Office Supplies,Storage,722.93,7,0.0,91.39,2020,California
+ORD-10911,West,Corporate,Same Day,Office Supplies,Art,1726.52,1,0.1,146.12,2019,Illinois
+ORD-10912,South,Consumer,First Class,Furniture,Chairs,945.43,1,0.3,314.57,2019,California
+ORD-10913,Central,Consumer,First Class,Office Supplies,Binders,1168.01,3,0.0,110.92,2019,Texas
+ORD-10914,East,Home Office,Same Day,Furniture,Chairs,646.61,5,0.1,-49.51,2019,Texas
+ORD-10915,East,Corporate,First Class,Furniture,Chairs,486.42,6,0.1,139.49,2022,Texas
+ORD-10916,West,Corporate,Same Day,Office Supplies,Storage,1545.05,6,0.1,8.26,2020,Florida
+ORD-10917,South,Corporate,Second Class,Furniture,Chairs,594.05,2,0.0,44.22,2023,Texas
+ORD-10918,East,Corporate,Standard Class,Technology,Copiers,230.06,5,0.2,77.21,2020,Texas
+ORD-10919,South,Consumer,Standard Class,Office Supplies,Paper,1038.62,3,0.2,90.7,2024,Washington
+ORD-10920,East,Corporate,First Class,Office Supplies,Storage,1864.35,1,0.2,469.03,2023,New York
+ORD-10921,East,Home Office,First Class,Office Supplies,Binders,1820.98,7,0.1,3.22,2020,Texas
+ORD-10922,East,Consumer,First Class,Furniture,Furnishings,620.66,9,0.1,23.51,2019,Illinois
+ORD-10923,South,Corporate,Second Class,Technology,Phones,685.89,2,0.3,19.35,2024,Texas
+ORD-10924,West,Home Office,First Class,Furniture,Chairs,39.36,7,0.3,4.31,2024,Washington
+ORD-10925,Central,Consumer,Second Class,Furniture,Chairs,315.81,2,0.2,33.87,2022,Washington
+ORD-10926,West,Corporate,Standard Class,Office Supplies,Binders,1794.55,8,0.1,467.83,2025,Illinois
+ORD-10927,West,Consumer,Same Day,Technology,Machines,94.81,3,0.2,23.17,2019,Washington
+ORD-10928,Central,Home Office,Standard Class,Technology,Phones,976.47,5,0.3,332.03,2025,Washington
+ORD-10929,South,Home Office,Standard Class,Technology,Machines,771.14,8,0.1,65.84,2022,Florida
+ORD-10930,South,Corporate,Second Class,Technology,Phones,1319.23,4,0.3,35.36,2020,Illinois
+ORD-10931,East,Corporate,Same Day,Technology,Machines,334.67,8,0.2,33.65,2023,Texas
+ORD-10932,South,Home Office,Same Day,Office Supplies,Paper,633.87,9,0.0,89.98,2019,California
+ORD-10933,South,Home Office,Standard Class,Office Supplies,Paper,472.77,2,0.0,53.52,2022,Florida
+ORD-10934,East,Home Office,Second Class,Office Supplies,Art,839.02,1,0.2,57.72,2019,Washington
+ORD-10935,East,Corporate,First Class,Technology,Machines,1291.38,7,0.1,395.52,2025,Florida
+ORD-10936,Central,Consumer,First Class,Office Supplies,Paper,1162.59,8,0.0,169.71,2024,California
+ORD-10937,South,Consumer,Second Class,Office Supplies,Art,96.85,2,0.1,13.7,2019,Texas
+ORD-10938,South,Consumer,Same Day,Furniture,Bookcases,1757.27,9,0.3,-51.28,2023,California
+ORD-10939,West,Home Office,Second Class,Office Supplies,Storage,185.09,4,0.1,15.18,2019,California
+ORD-10940,East,Consumer,First Class,Technology,Phones,389.81,1,0.0,95.52,2021,Illinois
+ORD-10941,East,Home Office,Second Class,Technology,Machines,1358.27,5,0.2,-126.35,2020,New York
+ORD-10942,West,Consumer,Second Class,Furniture,Furnishings,497.87,3,0.3,117.72,2025,New York
+ORD-10943,Central,Consumer,Second Class,Furniture,Chairs,1215.53,4,0.0,-119.96,2022,Florida
+ORD-10944,East,Home Office,Same Day,Office Supplies,Binders,919.34,2,0.1,93.67,2019,Florida
+ORD-10945,Central,Consumer,First Class,Furniture,Chairs,1021.43,9,0.1,326.6,2022,California
+ORD-10946,Central,Home Office,First Class,Office Supplies,Binders,288.28,8,0.0,39.57,2019,Washington
+ORD-10947,West,Corporate,Standard Class,Office Supplies,Paper,1777.92,2,0.1,266.97,2025,Texas
+ORD-10948,Central,Corporate,Second Class,Technology,Machines,884.43,8,0.2,150.73,2021,Texas
+ORD-10949,East,Corporate,Standard Class,Technology,Copiers,742.79,7,0.3,250.94,2019,Florida
+ORD-10950,South,Home Office,Standard Class,Technology,Machines,1751.35,1,0.2,89.36,2022,Texas
+ORD-10951,Central,Consumer,Same Day,Technology,Machines,1188.45,6,0.2,-98.54,2022,California
+ORD-10952,Central,Corporate,First Class,Furniture,Bookcases,726.31,5,0.1,201.38,2019,Washington
+ORD-10953,Central,Corporate,Standard Class,Furniture,Tables,1918.87,6,0.3,78.16,2020,Texas
+ORD-10954,Central,Home Office,Standard Class,Furniture,Bookcases,1453.5,5,0.2,-76.61,2022,Illinois
+ORD-10955,South,Corporate,Same Day,Technology,Phones,41.38,7,0.2,10.25,2021,Texas
+ORD-10956,West,Home Office,Second Class,Office Supplies,Paper,1535.99,6,0.0,177.28,2025,Texas
+ORD-10957,West,Home Office,Standard Class,Office Supplies,Art,1349.18,7,0.2,160.42,2023,California
+ORD-10958,South,Home Office,Same Day,Technology,Copiers,1477.78,3,0.2,-59.62,2020,California
+ORD-10959,East,Home Office,Standard Class,Technology,Copiers,1512.55,6,0.1,150.3,2022,Illinois
+ORD-10960,West,Consumer,Standard Class,Office Supplies,Paper,555.29,3,0.2,24.05,2022,Texas
+ORD-10961,Central,Consumer,Same Day,Office Supplies,Paper,1731.79,7,0.2,381.0,2021,Washington
+ORD-10962,West,Home Office,Same Day,Office Supplies,Art,566.34,3,0.2,149.22,2020,Illinois
+ORD-10963,South,Consumer,Standard Class,Office Supplies,Art,923.08,4,0.1,42.57,2021,Illinois
+ORD-10964,West,Corporate,Same Day,Office Supplies,Binders,1846.0,2,0.0,-64.2,2021,New York
+ORD-10965,East,Consumer,First Class,Furniture,Tables,1019.77,7,0.2,146.63,2025,Washington
+ORD-10966,East,Consumer,First Class,Office Supplies,Storage,750.66,7,0.1,-47.12,2024,Illinois
+ORD-10967,West,Consumer,First Class,Technology,Copiers,825.14,4,0.1,267.84,2023,Washington
+ORD-10968,Central,Home Office,First Class,Office Supplies,Binders,1231.08,5,0.0,-67.06,2019,Washington
+ORD-10969,East,Corporate,Same Day,Furniture,Bookcases,1090.7,6,0.3,368.03,2019,Washington
+ORD-10970,Central,Home Office,Same Day,Office Supplies,Storage,38.43,7,0.3,1.08,2022,California
+ORD-10971,West,Home Office,Same Day,Technology,Accessories,1740.23,9,0.2,584.11,2020,New York
+ORD-10972,East,Consumer,Standard Class,Furniture,Tables,130.88,7,0.2,18.44,2019,New York
+ORD-10973,West,Consumer,Standard Class,Office Supplies,Paper,1809.83,1,0.3,618.89,2019,New York
+ORD-10974,Central,Corporate,Standard Class,Technology,Accessories,1637.66,6,0.0,77.05,2025,New York
+ORD-10975,West,Home Office,Second Class,Office Supplies,Art,980.02,5,0.1,327.09,2020,Texas
+ORD-10976,West,Consumer,Second Class,Furniture,Tables,874.54,1,0.0,151.04,2023,New York
+ORD-10977,East,Home Office,Same Day,Furniture,Chairs,431.49,9,0.0,136.98,2019,Florida
+ORD-10978,South,Corporate,Second Class,Furniture,Furnishings,174.43,9,0.0,21.24,2021,California
+ORD-10979,East,Corporate,Same Day,Technology,Machines,711.12,2,0.1,185.41,2023,California
+ORD-10980,West,Consumer,Second Class,Furniture,Furnishings,162.52,2,0.2,35.96,2023,Washington
+ORD-10981,East,Corporate,Same Day,Office Supplies,Storage,1545.97,7,0.3,-108.4,2024,Texas
+ORD-10982,East,Consumer,First Class,Furniture,Furnishings,1898.85,6,0.3,264.77,2024,New York
+ORD-10983,East,Consumer,Second Class,Technology,Accessories,444.84,9,0.2,144.12,2023,Texas
+ORD-10984,South,Corporate,Second Class,Technology,Machines,551.63,7,0.0,77.3,2025,California
+ORD-10985,Central,Home Office,First Class,Furniture,Bookcases,550.19,9,0.1,61.54,2023,Washington
+ORD-10986,Central,Corporate,Standard Class,Furniture,Bookcases,1002.66,5,0.1,-65.98,2023,Texas
+ORD-10987,South,Home Office,Standard Class,Office Supplies,Storage,1753.22,8,0.3,182.74,2020,California
+ORD-10988,Central,Corporate,Second Class,Office Supplies,Binders,996.63,2,0.1,184.35,2023,California
+ORD-10989,East,Home Office,Standard Class,Furniture,Bookcases,343.94,4,0.0,56.74,2024,Washington
+ORD-10990,East,Corporate,Same Day,Office Supplies,Binders,1131.08,2,0.1,52.53,2021,California
+ORD-10991,East,Home Office,Second Class,Office Supplies,Art,1449.16,5,0.2,385.01,2024,New York
+ORD-10992,East,Home Office,Same Day,Furniture,Chairs,149.89,7,0.1,12.3,2021,Florida
+ORD-10993,South,Home Office,Standard Class,Technology,Accessories,678.81,9,0.0,-40.54,2022,California
+ORD-10994,East,Consumer,Same Day,Furniture,Bookcases,980.81,2,0.2,36.43,2020,Illinois
+ORD-10995,East,Home Office,Second Class,Office Supplies,Art,843.23,3,0.0,55.21,2025,Texas
+ORD-10996,South,Consumer,First Class,Technology,Accessories,447.93,5,0.1,-2.39,2021,Illinois
+ORD-10997,West,Consumer,Second Class,Technology,Phones,30.78,4,0.0,9.55,2020,New York
+ORD-10998,South,Consumer,Standard Class,Furniture,Tables,1548.74,7,0.0,375.22,2021,Illinois
+ORD-10999,East,Home Office,First Class,Office Supplies,Binders,928.13,6,0.3,114.86,2022,New York
+ORD-11000,West,Consumer,Standard Class,Furniture,Furnishings,465.91,3,0.1,53.93,2021,Washington
+ORD-11001,East,Consumer,Standard Class,Furniture,Chairs,1739.58,7,0.2,306.82,2023,Washington
+ORD-11002,South,Corporate,Standard Class,Technology,Machines,59.69,1,0.0,16.97,2025,Illinois
+ORD-11003,Central,Consumer,Same Day,Technology,Copiers,699.07,2,0.0,68.34,2023,California
+ORD-11004,Central,Home Office,Second Class,Office Supplies,Binders,1630.04,8,0.2,485.25,2023,Illinois
+ORD-11005,East,Consumer,Same Day,Technology,Accessories,557.98,8,0.0,-37.58,2023,Florida
+ORD-11006,West,Consumer,Same Day,Office Supplies,Binders,267.68,5,0.1,40.3,2025,Washington
+ORD-11007,Central,Home Office,Second Class,Office Supplies,Binders,1862.29,4,0.3,648.02,2025,Texas
+ORD-11008,South,Home Office,Second Class,Office Supplies,Storage,584.78,1,0.1,147.81,2019,Texas
+ORD-11009,South,Consumer,Standard Class,Technology,Machines,1462.66,3,0.1,239.03,2020,Illinois
+ORD-11010,East,Home Office,Same Day,Technology,Phones,464.67,1,0.3,56.49,2022,Texas
+ORD-11011,South,Corporate,Standard Class,Furniture,Chairs,598.98,1,0.1,148.13,2020,Illinois
+ORD-11012,Central,Home Office,First Class,Office Supplies,Binders,1563.47,6,0.3,427.36,2020,Texas
+ORD-11013,South,Corporate,Same Day,Furniture,Bookcases,525.36,9,0.0,75.74,2020,Washington
+ORD-11014,South,Home Office,Same Day,Technology,Phones,244.51,1,0.2,30.6,2019,Washington
+ORD-11015,West,Corporate,Same Day,Office Supplies,Paper,747.0,4,0.3,-24.92,2021,Florida
+ORD-11016,East,Corporate,Standard Class,Furniture,Bookcases,1834.95,4,0.0,371.21,2019,California
+ORD-11017,Central,Consumer,Standard Class,Technology,Phones,988.68,8,0.3,226.22,2022,Washington
+ORD-11018,Central,Corporate,Standard Class,Furniture,Bookcases,114.72,2,0.0,-5.4,2021,Texas
+ORD-11019,East,Home Office,Standard Class,Furniture,Tables,576.53,8,0.2,-11.81,2025,Texas
+ORD-11020,Central,Consumer,First Class,Furniture,Chairs,1698.33,6,0.0,-8.42,2019,Washington
+ORD-11021,East,Consumer,Same Day,Office Supplies,Storage,97.38,1,0.0,32.82,2023,Florida
+ORD-11022,South,Consumer,Standard Class,Furniture,Bookcases,1387.43,9,0.1,267.46,2020,Texas
+ORD-11023,Central,Consumer,Second Class,Furniture,Bookcases,1162.23,1,0.3,54.06,2021,Washington
+ORD-11024,South,Consumer,Second Class,Office Supplies,Binders,274.92,6,0.1,28.18,2025,Illinois
+ORD-11025,East,Corporate,Same Day,Furniture,Tables,1384.5,7,0.1,-13.75,2020,Illinois
+ORD-11026,South,Consumer,Standard Class,Technology,Accessories,1147.18,8,0.2,302.36,2025,Illinois
+ORD-11027,East,Consumer,Second Class,Furniture,Bookcases,1702.88,7,0.3,474.8,2019,Washington
+ORD-11028,Central,Consumer,Standard Class,Furniture,Bookcases,1292.75,2,0.1,377.4,2023,Washington
+ORD-11029,East,Home Office,Same Day,Technology,Accessories,1044.91,1,0.0,32.62,2021,New York
+ORD-11030,Central,Corporate,First Class,Technology,Machines,1237.51,8,0.2,-71.6,2021,California
+ORD-11031,South,Home Office,First Class,Office Supplies,Art,1678.93,9,0.2,26.02,2019,California
+ORD-11032,East,Consumer,Standard Class,Technology,Copiers,1692.69,4,0.0,41.92,2024,New York
+ORD-11033,West,Corporate,First Class,Technology,Accessories,1395.76,7,0.3,74.11,2025,California
+ORD-11034,East,Home Office,First Class,Furniture,Chairs,746.17,6,0.1,-50.31,2024,Texas
+ORD-11035,East,Corporate,Same Day,Office Supplies,Binders,1286.75,3,0.1,107.21,2023,Texas
+ORD-11036,South,Corporate,Same Day,Office Supplies,Art,854.68,1,0.2,92.48,2021,California
+ORD-11037,Central,Home Office,Same Day,Office Supplies,Paper,193.4,6,0.0,60.26,2024,Florida
+ORD-11038,East,Corporate,Standard Class,Furniture,Furnishings,1477.19,8,0.2,160.31,2022,Florida
+ORD-11039,South,Consumer,First Class,Furniture,Tables,1844.41,4,0.0,185.55,2022,Washington
+ORD-11040,West,Corporate,Same Day,Furniture,Tables,1501.78,6,0.0,445.69,2025,Illinois
+ORD-11041,South,Corporate,First Class,Technology,Copiers,1432.38,9,0.2,259.43,2021,California
+ORD-11042,East,Consumer,Second Class,Furniture,Bookcases,690.72,6,0.0,197.59,2021,Texas
+ORD-11043,West,Corporate,Same Day,Technology,Phones,1610.54,3,0.0,214.52,2022,California
+ORD-11044,East,Consumer,Standard Class,Technology,Machines,601.39,7,0.2,170.55,2019,New York
+ORD-11045,South,Consumer,First Class,Technology,Phones,454.25,4,0.1,87.91,2022,Washington
+ORD-11046,Central,Consumer,Standard Class,Office Supplies,Storage,1368.22,7,0.1,29.02,2020,Illinois
+ORD-11047,West,Consumer,First Class,Technology,Machines,774.84,2,0.3,216.94,2019,New York
+ORD-11048,East,Home Office,Standard Class,Office Supplies,Binders,929.81,5,0.2,13.08,2021,New York
+ORD-11049,West,Consumer,First Class,Technology,Machines,1907.41,2,0.2,423.2,2024,Florida
+ORD-11050,South,Corporate,First Class,Technology,Copiers,685.17,9,0.3,-39.21,2022,Washington
+ORD-11051,West,Consumer,Second Class,Office Supplies,Binders,333.41,1,0.2,57.53,2024,California
+ORD-11052,Central,Consumer,Same Day,Office Supplies,Storage,890.23,3,0.2,97.13,2021,Washington
+ORD-11053,Central,Home Office,Same Day,Office Supplies,Storage,1827.32,9,0.1,348.27,2021,New York
+ORD-11054,Central,Home Office,First Class,Furniture,Tables,1150.56,7,0.0,227.41,2020,Texas
+ORD-11055,West,Corporate,Second Class,Furniture,Furnishings,1261.97,6,0.3,426.44,2022,California
+ORD-11056,East,Corporate,First Class,Technology,Accessories,1681.63,7,0.0,80.63,2024,Illinois
+ORD-11057,West,Corporate,First Class,Office Supplies,Art,786.36,4,0.0,-62.79,2020,California
+ORD-11058,West,Home Office,Standard Class,Technology,Copiers,998.43,3,0.3,72.59,2024,California
+ORD-11059,South,Home Office,Standard Class,Furniture,Bookcases,1607.25,4,0.0,194.12,2024,California
+ORD-11060,Central,Consumer,First Class,Technology,Phones,1772.15,1,0.2,446.16,2022,California
+ORD-11061,Central,Home Office,Same Day,Technology,Phones,278.1,9,0.2,21.59,2024,New York
+ORD-11062,East,Corporate,First Class,Technology,Copiers,117.61,1,0.0,1.19,2023,New York
+ORD-11063,West,Home Office,First Class,Furniture,Furnishings,233.99,7,0.3,78.94,2019,Florida
+ORD-11064,South,Corporate,Same Day,Technology,Phones,229.48,5,0.2,-13.13,2023,Illinois
+ORD-11065,East,Corporate,First Class,Technology,Accessories,901.31,3,0.2,52.38,2025,Texas
+ORD-11066,East,Corporate,Same Day,Office Supplies,Binders,434.88,1,0.0,133.5,2024,Texas
+ORD-11067,Central,Home Office,Same Day,Technology,Copiers,572.17,4,0.2,-40.93,2024,New York
+ORD-11068,West,Home Office,Same Day,Office Supplies,Storage,1829.25,7,0.1,17.98,2023,Florida
+ORD-11069,West,Consumer,Second Class,Technology,Machines,1797.84,5,0.2,42.61,2021,Texas
+ORD-11070,West,Home Office,First Class,Furniture,Bookcases,187.09,5,0.1,-17.12,2023,California
+ORD-11071,Central,Home Office,First Class,Furniture,Chairs,1519.79,6,0.2,268.96,2022,Texas
+ORD-11072,East,Corporate,Second Class,Furniture,Bookcases,1681.16,6,0.3,466.32,2023,Florida
+ORD-11073,Central,Home Office,Standard Class,Technology,Accessories,1128.51,2,0.1,205.76,2020,Florida
+ORD-11074,Central,Consumer,Second Class,Furniture,Tables,620.92,1,0.1,-33.61,2025,New York
+ORD-11075,South,Corporate,Same Day,Office Supplies,Binders,1352.25,1,0.0,107.46,2025,Texas
+ORD-11076,Central,Corporate,Standard Class,Office Supplies,Storage,558.57,5,0.1,69.29,2019,Florida
+ORD-11077,Central,Corporate,First Class,Technology,Accessories,442.86,4,0.0,110.47,2022,Texas
+ORD-11078,Central,Corporate,Same Day,Technology,Accessories,1591.91,9,0.2,450.43,2025,Washington
+ORD-11079,West,Corporate,First Class,Office Supplies,Storage,1946.63,1,0.0,40.34,2021,Florida
+ORD-11080,Central,Corporate,Standard Class,Furniture,Tables,1615.47,3,0.0,471.05,2021,California
+ORD-11081,South,Consumer,Standard Class,Furniture,Furnishings,1825.04,1,0.2,93.7,2024,Florida
+ORD-11082,East,Consumer,Same Day,Technology,Copiers,262.8,4,0.1,20.64,2019,Texas
+ORD-11083,West,Home Office,Second Class,Technology,Copiers,680.07,1,0.3,106.63,2019,Texas
+ORD-11084,South,Home Office,Second Class,Office Supplies,Binders,675.79,9,0.1,101.25,2025,Texas
+ORD-11085,South,Consumer,Same Day,Furniture,Chairs,641.29,1,0.3,-2.43,2022,New York
+ORD-11086,South,Corporate,Standard Class,Furniture,Bookcases,1464.76,4,0.1,422.15,2024,Texas
+ORD-11087,West,Home Office,Standard Class,Technology,Machines,1812.54,4,0.1,-25.42,2022,New York
+ORD-11088,South,Home Office,Second Class,Office Supplies,Paper,1530.73,9,0.3,504.34,2021,California
+ORD-11089,South,Corporate,First Class,Office Supplies,Art,1489.77,5,0.1,185.97,2020,California
+ORD-11090,Central,Corporate,Standard Class,Office Supplies,Paper,675.41,2,0.2,27.52,2020,Illinois
+ORD-11091,West,Consumer,First Class,Furniture,Bookcases,1970.2,4,0.0,102.77,2020,California
+ORD-11092,East,Corporate,Standard Class,Furniture,Furnishings,482.55,9,0.3,83.89,2022,Washington
+ORD-11093,West,Corporate,Standard Class,Furniture,Bookcases,804.57,9,0.0,114.68,2020,Illinois
+ORD-11094,Central,Home Office,Same Day,Technology,Accessories,760.4,1,0.0,-68.44,2021,California
+ORD-11095,South,Home Office,Same Day,Technology,Copiers,1350.96,4,0.3,409.4,2021,Texas
+ORD-11096,Central,Consumer,Standard Class,Office Supplies,Art,269.87,5,0.2,-11.61,2019,Washington
+ORD-11097,Central,Consumer,Same Day,Technology,Accessories,123.49,3,0.1,11.89,2022,Texas
+ORD-11098,East,Consumer,First Class,Office Supplies,Art,495.82,7,0.3,153.4,2021,Illinois
+ORD-11099,East,Corporate,Same Day,Furniture,Bookcases,33.44,9,0.2,-2.31,2022,California
+ORD-11100,West,Corporate,Second Class,Technology,Phones,1873.53,6,0.0,398.76,2019,Washington
+ORD-11101,West,Consumer,Standard Class,Furniture,Chairs,1384.22,6,0.2,115.35,2020,Illinois
+ORD-11102,Central,Corporate,Same Day,Office Supplies,Paper,881.76,1,0.2,97.36,2022,Illinois
+ORD-11103,West,Home Office,Same Day,Furniture,Furnishings,1468.58,4,0.1,225.09,2023,Texas
+ORD-11104,Central,Consumer,Second Class,Furniture,Tables,1612.52,2,0.2,19.58,2021,California
+ORD-11105,Central,Consumer,First Class,Office Supplies,Storage,269.09,6,0.2,36.68,2019,Illinois
+ORD-11106,West,Corporate,Second Class,Furniture,Furnishings,211.9,5,0.2,65.51,2021,California
+ORD-11107,Central,Consumer,First Class,Office Supplies,Paper,1327.57,2,0.0,138.02,2023,Illinois
+ORD-11108,South,Corporate,Second Class,Furniture,Bookcases,1828.15,4,0.2,575.24,2020,Florida
+ORD-11109,East,Consumer,Same Day,Furniture,Furnishings,1722.51,8,0.0,588.17,2024,New York
+ORD-11110,South,Consumer,Same Day,Office Supplies,Art,63.53,3,0.2,10.7,2019,Florida
+ORD-11111,East,Corporate,First Class,Office Supplies,Paper,233.77,7,0.0,38.58,2025,California
+ORD-11112,Central,Home Office,Second Class,Furniture,Chairs,72.36,8,0.0,-6.42,2020,New York
+ORD-11113,South,Consumer,Standard Class,Technology,Phones,893.72,5,0.1,86.36,2023,Florida
+ORD-11114,East,Home Office,Second Class,Office Supplies,Storage,1913.14,6,0.1,-12.44,2019,Washington
+ORD-11115,Central,Home Office,Same Day,Office Supplies,Storage,266.9,1,0.3,65.1,2025,New York
+ORD-11116,West,Home Office,Second Class,Technology,Copiers,963.97,2,0.1,-83.74,2022,New York
+ORD-11117,South,Consumer,Second Class,Technology,Phones,1498.55,4,0.2,-25.34,2023,Washington
+ORD-11118,South,Home Office,First Class,Furniture,Bookcases,1351.59,8,0.3,204.6,2024,Washington
+ORD-11119,South,Home Office,Standard Class,Office Supplies,Binders,1610.09,2,0.0,174.06,2020,Illinois
+ORD-11120,Central,Home Office,Second Class,Furniture,Tables,1646.72,7,0.1,552.69,2022,Texas
+ORD-11121,East,Corporate,First Class,Furniture,Tables,1925.36,4,0.0,231.75,2021,California
+ORD-11122,East,Corporate,Standard Class,Furniture,Chairs,122.34,9,0.0,32.51,2023,Florida
+ORD-11123,Central,Consumer,Standard Class,Office Supplies,Art,905.72,1,0.1,92.36,2022,Washington
+ORD-11124,Central,Home Office,Same Day,Furniture,Bookcases,1085.51,2,0.1,34.95,2021,New York
+ORD-11125,West,Home Office,Same Day,Office Supplies,Binders,357.94,3,0.2,101.53,2024,Florida
+ORD-11126,Central,Home Office,Same Day,Furniture,Chairs,951.34,7,0.0,-56.76,2021,California
+ORD-11127,East,Corporate,Second Class,Technology,Machines,1187.66,8,0.3,392.61,2025,Illinois
+ORD-11128,East,Corporate,First Class,Furniture,Tables,725.61,4,0.1,-71.35,2022,Washington
+ORD-11129,West,Home Office,Same Day,Technology,Phones,701.27,3,0.2,170.11,2021,California
+ORD-11130,South,Home Office,First Class,Technology,Machines,1152.22,6,0.2,290.93,2023,Illinois
+ORD-11131,South,Corporate,Standard Class,Furniture,Chairs,414.18,5,0.3,8.21,2021,Florida
+ORD-11132,East,Corporate,Standard Class,Technology,Copiers,1345.13,5,0.0,261.37,2022,Washington
+ORD-11133,Central,Consumer,First Class,Furniture,Tables,1970.22,1,0.3,49.87,2021,Illinois
+ORD-11134,East,Consumer,First Class,Furniture,Furnishings,300.39,9,0.1,21.6,2023,California
+ORD-11135,Central,Home Office,First Class,Office Supplies,Storage,1284.68,5,0.1,-70.03,2021,Washington
+ORD-11136,Central,Consumer,Second Class,Technology,Phones,64.65,4,0.0,19.95,2020,Washington
+ORD-11137,East,Home Office,Same Day,Furniture,Tables,1314.24,6,0.0,15.21,2023,New York
+ORD-11138,South,Consumer,Same Day,Furniture,Bookcases,1532.79,9,0.1,491.13,2019,Illinois
+ORD-11139,East,Consumer,First Class,Furniture,Tables,387.95,4,0.1,134.79,2019,California
+ORD-11140,East,Home Office,First Class,Technology,Machines,1117.17,6,0.3,377.05,2024,Illinois
+ORD-11141,Central,Corporate,First Class,Furniture,Chairs,733.12,8,0.0,231.17,2025,Texas
+ORD-11142,South,Home Office,Standard Class,Technology,Phones,314.06,9,0.0,99.08,2023,New York
+ORD-11143,South,Consumer,First Class,Office Supplies,Storage,330.39,6,0.2,46.86,2022,Illinois
+ORD-11144,East,Home Office,Standard Class,Technology,Phones,1277.61,7,0.2,-117.39,2023,California
+ORD-11145,South,Consumer,Same Day,Office Supplies,Storage,369.75,4,0.0,41.35,2022,Illinois
+ORD-11146,South,Home Office,Second Class,Office Supplies,Paper,1721.48,8,0.2,87.62,2025,Florida
+ORD-11147,West,Home Office,Second Class,Furniture,Furnishings,1939.34,1,0.0,-48.14,2025,Florida
+ORD-11148,East,Consumer,Same Day,Technology,Copiers,1659.86,5,0.3,504.33,2022,New York
+ORD-11149,Central,Consumer,Same Day,Technology,Copiers,176.79,4,0.0,7.35,2019,Washington
+ORD-11150,Central,Consumer,Second Class,Office Supplies,Art,413.33,3,0.1,-28.34,2022,Illinois
+ORD-11151,South,Home Office,Standard Class,Furniture,Furnishings,447.29,2,0.2,18.21,2019,Texas
+ORD-11152,West,Home Office,Standard Class,Furniture,Chairs,1035.89,3,0.2,-35.98,2021,Illinois
+ORD-11153,Central,Home Office,Second Class,Technology,Copiers,1068.7,9,0.0,143.46,2023,Texas
+ORD-11154,Central,Consumer,Same Day,Technology,Accessories,326.28,9,0.3,59.97,2019,Texas
+ORD-11155,Central,Corporate,Second Class,Furniture,Bookcases,672.02,5,0.0,105.67,2024,Florida
+ORD-11156,Central,Consumer,First Class,Office Supplies,Storage,1032.73,5,0.0,359.6,2021,Texas
+ORD-11157,Central,Corporate,Second Class,Office Supplies,Art,568.51,7,0.3,118.84,2023,California
+ORD-11158,Central,Corporate,First Class,Office Supplies,Art,1957.32,3,0.2,293.73,2025,New York
+ORD-11159,East,Consumer,Second Class,Technology,Accessories,1657.77,5,0.3,31.94,2023,California
+ORD-11160,West,Corporate,Second Class,Office Supplies,Art,1309.33,3,0.1,3.27,2019,Illinois
+ORD-11161,Central,Home Office,Standard Class,Technology,Accessories,328.39,2,0.2,111.06,2022,New York
+ORD-11162,Central,Corporate,Second Class,Office Supplies,Paper,45.89,7,0.2,-4.06,2025,Florida
+ORD-11163,Central,Consumer,Same Day,Technology,Accessories,87.84,7,0.3,10.97,2021,Illinois
+ORD-11164,Central,Corporate,Second Class,Technology,Machines,1997.82,1,0.1,417.46,2025,Illinois
+ORD-11165,Central,Corporate,Second Class,Technology,Accessories,1057.04,8,0.0,19.78,2019,Texas
+ORD-11166,South,Consumer,Second Class,Technology,Copiers,1187.15,4,0.3,187.61,2024,Washington
+ORD-11167,Central,Corporate,Second Class,Furniture,Chairs,540.01,5,0.0,126.81,2021,Illinois
+ORD-11168,South,Home Office,Standard Class,Office Supplies,Art,593.21,5,0.2,178.02,2022,Illinois
+ORD-11169,Central,Consumer,Second Class,Furniture,Furnishings,1001.52,1,0.3,239.51,2022,Florida
+ORD-11170,Central,Consumer,First Class,Technology,Phones,1338.12,8,0.3,262.0,2020,Florida
+ORD-11171,East,Consumer,First Class,Furniture,Bookcases,971.73,2,0.0,-44.36,2022,New York
+ORD-11172,South,Consumer,Same Day,Technology,Accessories,875.05,2,0.0,115.9,2022,New York
+ORD-11173,South,Corporate,Standard Class,Furniture,Bookcases,1864.5,3,0.1,441.08,2024,Florida
+ORD-11174,East,Corporate,Same Day,Technology,Accessories,1712.14,4,0.1,81.16,2025,Washington
+ORD-11175,West,Consumer,Standard Class,Furniture,Tables,1055.85,9,0.3,-27.48,2023,Illinois
+ORD-11176,West,Corporate,Same Day,Furniture,Tables,1085.37,5,0.2,20.04,2025,Washington
+ORD-11177,South,Home Office,Second Class,Furniture,Furnishings,1947.91,9,0.1,482.68,2024,Florida
+ORD-11178,East,Corporate,First Class,Office Supplies,Binders,1324.53,3,0.2,148.73,2025,Illinois
+ORD-11179,South,Corporate,Same Day,Technology,Machines,696.22,1,0.3,-25.56,2025,Texas
+ORD-11180,South,Home Office,Second Class,Furniture,Tables,963.71,3,0.3,15.63,2024,Washington
+ORD-11181,East,Home Office,Same Day,Office Supplies,Paper,1540.36,8,0.1,-68.84,2025,New York
+ORD-11182,Central,Home Office,Same Day,Office Supplies,Paper,1248.17,1,0.3,-76.26,2021,Illinois
+ORD-11183,West,Home Office,Same Day,Office Supplies,Paper,271.82,8,0.2,80.28,2023,Illinois
+ORD-11184,West,Corporate,Second Class,Office Supplies,Art,538.98,3,0.3,105.07,2025,Illinois
+ORD-11185,East,Consumer,Same Day,Technology,Machines,1016.08,5,0.3,319.14,2023,Texas
+ORD-11186,West,Corporate,Second Class,Office Supplies,Binders,1755.06,4,0.1,-29.07,2019,Illinois
+ORD-11187,South,Corporate,Second Class,Office Supplies,Binders,1060.65,7,0.0,223.18,2025,Illinois
+ORD-11188,West,Corporate,Same Day,Technology,Copiers,1157.1,9,0.1,147.63,2024,Washington
+ORD-11189,East,Home Office,Second Class,Office Supplies,Storage,1396.55,8,0.2,144.43,2021,Illinois
+ORD-11190,East,Consumer,Second Class,Technology,Accessories,28.63,1,0.0,2.84,2025,Florida
+ORD-11191,South,Corporate,Second Class,Office Supplies,Art,1455.24,9,0.2,115.98,2021,Florida
+ORD-11192,Central,Consumer,First Class,Technology,Machines,297.29,9,0.3,47.67,2022,California
+ORD-11193,South,Home Office,Second Class,Office Supplies,Binders,690.28,4,0.3,43.9,2024,Illinois
+ORD-11194,West,Corporate,Second Class,Furniture,Tables,1973.1,2,0.2,492.54,2024,California
+ORD-11195,South,Consumer,First Class,Furniture,Chairs,1661.78,1,0.0,260.71,2021,Illinois
+ORD-11196,West,Consumer,First Class,Furniture,Furnishings,1014.5,1,0.1,169.55,2024,Florida
+ORD-11197,West,Corporate,Second Class,Technology,Machines,853.34,7,0.1,-44.13,2022,Illinois
+ORD-11198,West,Corporate,First Class,Furniture,Tables,1516.47,4,0.3,-73.48,2023,New York
+ORD-11199,East,Home Office,Same Day,Office Supplies,Binders,1863.0,4,0.0,43.86,2020,Washington
+ORD-11200,West,Home Office,Second Class,Furniture,Chairs,658.91,6,0.0,-2.36,2022,New York
+ORD-11201,East,Consumer,First Class,Furniture,Bookcases,43.06,9,0.0,8.51,2024,Washington
+ORD-11202,South,Consumer,Standard Class,Technology,Copiers,250.56,1,0.1,-16.08,2022,Florida
+ORD-11203,West,Home Office,First Class,Office Supplies,Binders,1294.67,9,0.0,321.26,2022,Florida
+ORD-11204,East,Consumer,First Class,Technology,Accessories,1674.73,2,0.0,275.43,2023,Florida
+ORD-11205,South,Consumer,Same Day,Technology,Machines,606.21,5,0.0,155.1,2020,Illinois
+ORD-11206,West,Consumer,Same Day,Office Supplies,Storage,516.58,1,0.0,146.43,2019,California
+ORD-11207,East,Consumer,First Class,Furniture,Bookcases,254.34,1,0.1,80.72,2019,California
+ORD-11208,Central,Home Office,Second Class,Furniture,Tables,167.01,6,0.0,28.29,2021,New York
+ORD-11209,East,Corporate,Same Day,Technology,Machines,980.28,4,0.2,130.32,2024,Washington
+ORD-11210,West,Home Office,Standard Class,Technology,Machines,862.6,2,0.3,189.42,2023,Florida
+ORD-11211,South,Corporate,Standard Class,Office Supplies,Binders,795.71,6,0.0,171.94,2024,Illinois
+ORD-11212,East,Corporate,Same Day,Office Supplies,Paper,528.53,9,0.2,63.65,2022,Texas
+ORD-11213,West,Home Office,First Class,Office Supplies,Art,1641.83,7,0.2,-134.05,2019,Illinois
+ORD-11214,East,Home Office,Same Day,Office Supplies,Art,472.14,7,0.2,148.78,2025,Washington
+ORD-11215,Central,Consumer,Standard Class,Office Supplies,Paper,1019.96,9,0.2,304.93,2021,Washington
+ORD-11216,Central,Home Office,Standard Class,Technology,Machines,1675.44,2,0.3,226.97,2019,Illinois
+ORD-11217,West,Consumer,Standard Class,Technology,Accessories,950.29,2,0.2,227.81,2019,Illinois
+ORD-11218,South,Corporate,Standard Class,Office Supplies,Binders,1608.87,3,0.0,113.42,2024,Texas
+ORD-11219,West,Corporate,Same Day,Technology,Phones,1746.77,9,0.2,465.4,2024,Florida
+ORD-11220,South,Consumer,Standard Class,Technology,Copiers,266.98,7,0.1,15.46,2019,Washington
+ORD-11221,Central,Home Office,First Class,Furniture,Chairs,1440.46,7,0.1,198.06,2019,New York
+ORD-11222,West,Consumer,Second Class,Office Supplies,Art,1972.26,8,0.2,567.95,2024,California
+ORD-11223,South,Home Office,Second Class,Technology,Phones,1922.59,6,0.0,429.95,2025,Florida
+ORD-11224,West,Consumer,First Class,Furniture,Chairs,1079.54,7,0.1,22.51,2020,Texas
+ORD-11225,South,Corporate,First Class,Furniture,Bookcases,1242.36,5,0.1,161.71,2025,Washington
+ORD-11226,South,Corporate,Second Class,Furniture,Chairs,830.21,2,0.2,120.02,2022,California
+ORD-11227,East,Corporate,Standard Class,Furniture,Furnishings,269.75,5,0.0,53.08,2024,Texas
+ORD-11228,West,Consumer,First Class,Office Supplies,Storage,680.35,1,0.3,83.99,2021,California
+ORD-11229,Central,Consumer,Standard Class,Furniture,Chairs,546.47,5,0.3,-46.81,2022,New York
+ORD-11230,East,Consumer,First Class,Furniture,Tables,1188.82,8,0.0,-115.79,2019,Washington
+ORD-11231,East,Consumer,Standard Class,Office Supplies,Binders,1350.45,9,0.1,467.66,2023,California
+ORD-11232,South,Consumer,Second Class,Furniture,Furnishings,1809.88,4,0.2,579.59,2024,New York
+ORD-11233,Central,Corporate,Same Day,Office Supplies,Art,323.02,1,0.1,105.15,2024,New York
+ORD-11234,Central,Corporate,Standard Class,Furniture,Chairs,340.7,3,0.1,108.02,2020,California
+ORD-11235,West,Home Office,First Class,Furniture,Chairs,27.46,3,0.3,4.63,2024,Washington
+ORD-11236,South,Corporate,First Class,Furniture,Furnishings,204.2,3,0.3,28.48,2021,New York
+ORD-11237,Central,Home Office,Same Day,Technology,Accessories,907.77,9,0.0,103.64,2021,Texas
+ORD-11238,East,Corporate,First Class,Technology,Machines,57.38,5,0.3,2.91,2025,Washington
+ORD-11239,Central,Home Office,First Class,Furniture,Tables,1831.47,5,0.0,257.27,2025,Florida
+ORD-11240,East,Corporate,Same Day,Furniture,Bookcases,1618.24,4,0.1,-38.71,2025,Illinois
+ORD-11241,Central,Home Office,Same Day,Technology,Copiers,1381.03,8,0.3,337.52,2023,Illinois
+ORD-11242,South,Home Office,Second Class,Office Supplies,Paper,454.85,8,0.0,109.75,2023,California
+ORD-11243,West,Consumer,Same Day,Furniture,Bookcases,1993.41,4,0.1,541.0,2020,California
+ORD-11244,West,Consumer,Standard Class,Furniture,Tables,1226.42,8,0.1,223.11,2024,Texas
+ORD-11245,West,Corporate,First Class,Furniture,Chairs,900.71,6,0.0,165.25,2022,Florida
+ORD-11246,South,Consumer,Second Class,Furniture,Furnishings,1586.57,5,0.2,84.56,2020,Texas
+ORD-11247,South,Home Office,Standard Class,Office Supplies,Binders,806.54,4,0.3,45.5,2019,Texas
+ORD-11248,Central,Corporate,First Class,Furniture,Bookcases,1613.94,1,0.3,309.62,2024,Texas
+ORD-11249,Central,Home Office,Second Class,Furniture,Tables,935.48,6,0.0,317.89,2024,Washington
+ORD-11250,South,Consumer,Standard Class,Technology,Copiers,766.68,1,0.2,106.23,2023,Illinois
+ORD-11251,East,Consumer,Same Day,Furniture,Tables,634.99,4,0.3,91.23,2021,Texas
+ORD-11252,South,Home Office,Same Day,Technology,Copiers,1509.76,1,0.0,291.44,2021,Texas
+ORD-11253,Central,Corporate,Same Day,Technology,Copiers,419.28,5,0.1,54.9,2020,California
+ORD-11254,South,Home Office,Second Class,Office Supplies,Storage,244.68,9,0.1,53.63,2025,Texas
+ORD-11255,South,Consumer,Same Day,Office Supplies,Binders,1586.88,7,0.3,457.49,2025,Texas
+ORD-11256,East,Home Office,First Class,Technology,Copiers,830.71,2,0.0,28.32,2019,California
+ORD-11257,East,Corporate,Second Class,Technology,Accessories,113.14,7,0.3,30.07,2025,Illinois
+ORD-11258,West,Home Office,Standard Class,Furniture,Tables,1997.26,7,0.0,453.66,2024,New York
+ORD-11259,Central,Home Office,First Class,Office Supplies,Binders,275.49,7,0.3,21.51,2022,California
+ORD-11260,Central,Corporate,Same Day,Technology,Accessories,44.94,1,0.0,-3.4,2019,Washington
+ORD-11261,East,Home Office,Second Class,Furniture,Furnishings,1512.8,7,0.0,459.07,2024,Washington
+ORD-11262,South,Consumer,Standard Class,Office Supplies,Binders,36.13,8,0.2,6.4,2024,California
+ORD-11263,South,Home Office,First Class,Furniture,Furnishings,585.1,4,0.1,13.46,2019,California
+ORD-11264,South,Corporate,Second Class,Technology,Accessories,609.04,6,0.0,129.97,2024,Washington
+ORD-11265,Central,Consumer,Same Day,Office Supplies,Storage,490.28,7,0.1,55.97,2020,Texas
+ORD-11266,West,Home Office,Same Day,Furniture,Tables,651.02,4,0.3,118.36,2022,Illinois
+ORD-11267,West,Corporate,Standard Class,Office Supplies,Binders,1653.88,1,0.0,88.93,2022,California
+ORD-11268,East,Consumer,First Class,Office Supplies,Art,532.19,3,0.0,164.54,2024,Illinois
+ORD-11269,South,Home Office,First Class,Office Supplies,Binders,429.83,6,0.2,114.69,2019,California
+ORD-11270,East,Consumer,Same Day,Office Supplies,Binders,1383.76,3,0.3,-38.62,2021,Washington
+ORD-11271,South,Home Office,Same Day,Technology,Copiers,31.15,7,0.3,-1.72,2025,Illinois
+ORD-11272,West,Home Office,First Class,Furniture,Tables,1667.34,5,0.0,204.9,2024,Illinois
+ORD-11273,Central,Home Office,Second Class,Furniture,Bookcases,1477.31,1,0.0,483.86,2020,California
+ORD-11274,East,Home Office,Same Day,Office Supplies,Storage,337.41,2,0.2,91.15,2020,Illinois
+ORD-11275,Central,Home Office,Same Day,Office Supplies,Binders,450.55,4,0.1,54.42,2021,Washington
+ORD-11276,West,Home Office,Second Class,Furniture,Tables,932.16,2,0.0,56.74,2024,Florida
+ORD-11277,West,Home Office,Standard Class,Furniture,Chairs,1692.52,1,0.2,290.86,2025,New York
+ORD-11278,West,Corporate,Same Day,Furniture,Bookcases,436.57,7,0.2,110.86,2025,Illinois
+ORD-11279,Central,Home Office,Second Class,Technology,Copiers,86.21,8,0.2,-4.13,2020,Washington
+ORD-11280,West,Consumer,Second Class,Office Supplies,Paper,511.97,1,0.1,12.19,2023,Texas
+ORD-11281,South,Corporate,Standard Class,Technology,Machines,163.1,5,0.1,11.52,2020,Texas
+ORD-11282,East,Home Office,Same Day,Furniture,Bookcases,636.52,1,0.2,-19.0,2024,Washington
+ORD-11283,South,Corporate,First Class,Office Supplies,Paper,332.25,3,0.1,109.25,2019,New York
+ORD-11284,West,Corporate,Same Day,Furniture,Chairs,1888.7,6,0.3,-35.33,2023,Texas
+ORD-11285,Central,Corporate,Second Class,Office Supplies,Art,464.83,2,0.0,101.58,2020,Illinois
+ORD-11286,East,Corporate,Second Class,Office Supplies,Paper,498.97,9,0.3,123.56,2025,Illinois
+ORD-11287,Central,Corporate,Same Day,Furniture,Chairs,1659.1,4,0.2,16.14,2019,Illinois
+ORD-11288,West,Corporate,Second Class,Furniture,Furnishings,909.98,1,0.1,261.27,2020,California
+ORD-11289,East,Home Office,Same Day,Technology,Machines,895.47,3,0.3,280.31,2021,New York
+ORD-11290,South,Consumer,Second Class,Office Supplies,Art,1746.96,4,0.0,577.29,2025,Texas
+ORD-11291,East,Corporate,First Class,Technology,Phones,586.64,3,0.0,188.52,2020,New York
+ORD-11292,Central,Home Office,Standard Class,Furniture,Furnishings,656.89,7,0.1,-17.73,2023,Illinois
+ORD-11293,West,Home Office,Standard Class,Furniture,Chairs,588.91,8,0.3,7.17,2020,Texas
+ORD-11294,East,Corporate,Same Day,Furniture,Furnishings,1836.56,3,0.1,39.85,2021,New York
+ORD-11295,Central,Home Office,Second Class,Furniture,Furnishings,624.78,1,0.3,47.93,2023,New York
+ORD-11296,Central,Corporate,First Class,Furniture,Bookcases,336.63,5,0.3,54.19,2025,Florida
+ORD-11297,South,Consumer,First Class,Office Supplies,Storage,1026.46,1,0.3,41.94,2020,Texas
+ORD-11298,East,Home Office,Second Class,Office Supplies,Art,610.12,3,0.0,168.4,2021,Illinois
+ORD-11299,South,Home Office,First Class,Technology,Accessories,1539.02,3,0.2,6.04,2019,California
+ORD-11300,West,Corporate,Same Day,Technology,Phones,1022.61,8,0.2,317.24,2024,Florida
+ORD-11301,West,Corporate,Standard Class,Furniture,Tables,717.82,2,0.1,205.91,2020,Illinois
+ORD-11302,South,Corporate,Standard Class,Office Supplies,Binders,1473.11,7,0.3,269.73,2023,Texas
+ORD-11303,South,Consumer,Second Class,Office Supplies,Art,1477.15,5,0.1,76.17,2024,Florida
+ORD-11304,South,Home Office,First Class,Technology,Copiers,1687.21,5,0.1,156.66,2023,California
+ORD-11305,South,Home Office,Standard Class,Technology,Copiers,1282.89,8,0.1,-109.25,2023,Texas
+ORD-11306,West,Corporate,First Class,Office Supplies,Paper,627.45,9,0.2,174.83,2020,Florida
+ORD-11307,East,Consumer,Standard Class,Technology,Machines,1970.83,3,0.1,-126.44,2023,California
+ORD-11308,Central,Home Office,Same Day,Technology,Copiers,1457.03,7,0.0,334.44,2025,Washington
+ORD-11309,West,Consumer,Standard Class,Furniture,Furnishings,548.8,8,0.1,148.28,2021,New York
+ORD-11310,Central,Consumer,Standard Class,Technology,Copiers,1038.52,7,0.3,82.67,2022,California
+ORD-11311,East,Home Office,Same Day,Office Supplies,Art,1877.02,2,0.3,368.82,2019,California
+ORD-11312,West,Corporate,Same Day,Furniture,Chairs,1530.74,2,0.3,29.15,2019,Florida
+ORD-11313,West,Corporate,Second Class,Furniture,Chairs,841.18,4,0.0,212.98,2019,Florida
+ORD-11314,West,Home Office,Standard Class,Furniture,Tables,623.53,7,0.1,104.25,2022,Washington
+ORD-11315,East,Home Office,Second Class,Office Supplies,Art,184.74,5,0.2,45.11,2022,Texas
+ORD-11316,Central,Home Office,Standard Class,Technology,Machines,1448.68,5,0.1,165.06,2022,New York
+ORD-11317,Central,Home Office,Same Day,Office Supplies,Paper,1082.51,1,0.3,-102.34,2019,Illinois
+ORD-11318,West,Home Office,First Class,Office Supplies,Paper,255.33,1,0.3,2.61,2020,Washington
+ORD-11319,South,Home Office,First Class,Office Supplies,Binders,1367.6,1,0.0,385.1,2019,Texas
+ORD-11320,Central,Home Office,Second Class,Technology,Phones,1946.33,5,0.3,308.07,2023,Washington
+ORD-11321,East,Consumer,Same Day,Office Supplies,Art,685.22,7,0.1,54.92,2019,Washington
+ORD-11322,Central,Consumer,Standard Class,Office Supplies,Paper,1462.2,5,0.1,74.27,2021,Florida
+ORD-11323,South,Consumer,First Class,Office Supplies,Paper,1430.13,6,0.3,-32.41,2019,Florida
+ORD-11324,West,Corporate,First Class,Office Supplies,Storage,1446.92,2,0.1,130.65,2024,Illinois
+ORD-11325,Central,Consumer,Same Day,Technology,Machines,752.49,4,0.2,-12.93,2024,Texas
+ORD-11326,East,Consumer,Second Class,Technology,Machines,1501.59,4,0.3,504.56,2022,California
+ORD-11327,East,Corporate,First Class,Furniture,Chairs,65.76,3,0.3,9.95,2020,California
+ORD-11328,East,Corporate,Same Day,Office Supplies,Art,353.66,4,0.3,16.86,2021,Washington
+ORD-11329,Central,Home Office,Second Class,Furniture,Tables,1878.17,6,0.3,-8.62,2023,Illinois
+ORD-11330,South,Corporate,First Class,Furniture,Furnishings,1053.31,9,0.1,5.73,2019,California
+ORD-11331,Central,Home Office,First Class,Technology,Machines,1649.99,1,0.2,3.88,2025,Texas
+ORD-11332,East,Consumer,Same Day,Office Supplies,Binders,1360.71,7,0.3,322.69,2022,Illinois
+ORD-11333,West,Consumer,First Class,Technology,Machines,675.16,6,0.1,87.87,2024,Texas
+ORD-11334,West,Consumer,First Class,Technology,Copiers,720.11,8,0.3,31.19,2023,California
+ORD-11335,West,Consumer,Standard Class,Technology,Phones,1577.6,6,0.1,232.68,2020,Texas
+ORD-11336,East,Home Office,Same Day,Furniture,Tables,289.05,2,0.2,-21.04,2020,New York
+ORD-11337,South,Home Office,Same Day,Office Supplies,Binders,797.56,7,0.2,47.26,2024,California
+ORD-11338,East,Corporate,First Class,Technology,Accessories,1125.3,7,0.0,182.91,2023,Washington
+ORD-11339,East,Home Office,First Class,Furniture,Chairs,311.88,9,0.1,29.93,2022,Texas
+ORD-11340,West,Consumer,First Class,Furniture,Furnishings,1222.39,3,0.2,52.18,2022,Florida
+ORD-11341,West,Home Office,First Class,Furniture,Bookcases,1412.95,1,0.3,170.19,2021,Washington
+ORD-11342,South,Home Office,Second Class,Office Supplies,Binders,219.6,8,0.2,67.9,2021,California
+ORD-11343,East,Home Office,Same Day,Furniture,Bookcases,1167.17,6,0.3,-113.91,2020,Illinois
+ORD-11344,East,Corporate,Standard Class,Furniture,Tables,702.68,5,0.0,173.21,2019,Florida
+ORD-11345,South,Consumer,First Class,Furniture,Bookcases,613.19,8,0.2,109.58,2025,Florida
+ORD-11346,East,Corporate,Second Class,Technology,Machines,1787.63,4,0.2,548.26,2023,Washington
+ORD-11347,Central,Consumer,Second Class,Office Supplies,Paper,1831.21,5,0.0,416.59,2021,Illinois
+ORD-11348,Central,Home Office,Standard Class,Furniture,Furnishings,1368.79,4,0.1,417.39,2023,Texas
+ORD-11349,South,Corporate,First Class,Office Supplies,Paper,621.37,6,0.2,14.52,2025,New York
+ORD-11350,Central,Home Office,Second Class,Technology,Phones,1819.47,9,0.3,354.99,2024,Washington
+ORD-11351,South,Home Office,Same Day,Office Supplies,Paper,1243.73,4,0.2,-64.01,2022,Florida
+ORD-11352,East,Consumer,Standard Class,Furniture,Bookcases,1659.27,1,0.2,273.95,2022,California
+ORD-11353,West,Corporate,Same Day,Office Supplies,Art,1221.58,8,0.0,102.12,2024,Florida
+ORD-11354,East,Home Office,Second Class,Technology,Phones,1356.88,2,0.0,146.71,2025,New York
+ORD-11355,Central,Consumer,Same Day,Furniture,Tables,520.09,1,0.1,122.82,2022,New York
+ORD-11356,Central,Consumer,Second Class,Office Supplies,Binders,1372.38,6,0.3,-127.84,2020,Washington
+ORD-11357,East,Home Office,Same Day,Office Supplies,Binders,1370.03,7,0.1,6.24,2019,Florida
+ORD-11358,West,Consumer,Second Class,Furniture,Tables,1658.22,8,0.2,247.15,2025,Illinois
+ORD-11359,South,Consumer,Second Class,Furniture,Chairs,160.89,2,0.2,45.8,2025,Illinois
+ORD-11360,South,Corporate,Same Day,Office Supplies,Art,125.18,8,0.3,10.98,2021,California
+ORD-11361,South,Corporate,First Class,Furniture,Chairs,921.62,7,0.1,104.55,2025,California
+ORD-11362,South,Home Office,Standard Class,Technology,Phones,902.05,8,0.1,97.26,2019,Illinois
+ORD-11363,West,Home Office,Same Day,Office Supplies,Paper,384.98,5,0.2,93.62,2024,Texas
+ORD-11364,Central,Home Office,First Class,Technology,Machines,951.59,1,0.2,286.4,2025,Florida
+ORD-11365,South,Corporate,Same Day,Technology,Phones,289.74,2,0.0,10.3,2022,Illinois
+ORD-11366,Central,Corporate,First Class,Technology,Machines,1440.52,5,0.2,-13.46,2021,New York
+ORD-11367,South,Home Office,First Class,Technology,Accessories,866.26,4,0.0,195.17,2023,Illinois
+ORD-11368,East,Corporate,First Class,Technology,Phones,675.8,8,0.2,105.88,2023,Washington
+ORD-11369,Central,Consumer,Same Day,Furniture,Chairs,349.3,2,0.2,71.79,2023,Illinois
+ORD-11370,East,Consumer,Same Day,Office Supplies,Binders,1100.3,9,0.0,281.33,2022,Florida
+ORD-11371,South,Home Office,Standard Class,Furniture,Chairs,1186.48,3,0.1,398.55,2020,California
+ORD-11372,Central,Consumer,Same Day,Furniture,Bookcases,742.62,4,0.2,14.86,2020,Illinois
+ORD-11373,South,Consumer,Same Day,Technology,Phones,1681.32,2,0.1,75.83,2020,Texas
+ORD-11374,Central,Consumer,Same Day,Furniture,Tables,486.58,6,0.1,142.58,2023,California
+ORD-11375,East,Consumer,Second Class,Furniture,Chairs,1853.89,4,0.2,610.79,2020,Florida
+ORD-11376,East,Home Office,Same Day,Office Supplies,Paper,780.7,3,0.0,174.54,2020,New York
+ORD-11377,West,Home Office,First Class,Furniture,Tables,1215.38,6,0.3,198.41,2019,Texas
+ORD-11378,South,Corporate,Second Class,Furniture,Chairs,1983.03,8,0.0,-51.93,2024,New York
+ORD-11379,Central,Consumer,Same Day,Technology,Accessories,1768.58,6,0.1,476.47,2022,Washington
+ORD-11380,West,Corporate,Second Class,Office Supplies,Storage,1482.2,8,0.2,-62.88,2023,Washington
+ORD-11381,South,Consumer,Standard Class,Furniture,Tables,112.15,2,0.0,34.85,2021,Texas
+ORD-11382,West,Consumer,Second Class,Furniture,Bookcases,1584.53,6,0.0,22.12,2020,Florida
+ORD-11383,West,Corporate,Same Day,Technology,Accessories,839.85,9,0.2,124.16,2020,Illinois
+ORD-11384,South,Home Office,Second Class,Office Supplies,Paper,95.12,9,0.1,33.22,2024,Washington
+ORD-11385,East,Corporate,Same Day,Office Supplies,Paper,1937.66,9,0.1,529.53,2024,Texas
+ORD-11386,Central,Corporate,Same Day,Office Supplies,Storage,985.44,4,0.0,207.09,2019,Florida
+ORD-11387,West,Home Office,Second Class,Furniture,Bookcases,1252.8,6,0.1,308.47,2024,New York
+ORD-11388,East,Corporate,Same Day,Technology,Copiers,1738.06,1,0.1,123.59,2024,Florida
+ORD-11389,South,Home Office,First Class,Furniture,Furnishings,1941.79,6,0.0,-34.34,2025,New York
+ORD-11390,Central,Corporate,Same Day,Office Supplies,Paper,1035.88,3,0.3,-80.46,2024,California
+ORD-11391,South,Home Office,Standard Class,Technology,Phones,58.11,5,0.0,2.28,2025,California
+ORD-11392,East,Consumer,Same Day,Furniture,Tables,951.67,4,0.1,224.1,2019,Washington
+ORD-11393,West,Home Office,Same Day,Furniture,Furnishings,810.82,1,0.1,63.19,2024,New York
+ORD-11394,East,Consumer,Second Class,Office Supplies,Art,324.87,7,0.3,106.45,2022,Texas
+ORD-11395,Central,Corporate,Second Class,Technology,Copiers,1292.65,6,0.2,30.55,2023,California
+ORD-11396,South,Home Office,Standard Class,Office Supplies,Paper,705.3,7,0.1,48.93,2019,Washington
+ORD-11397,West,Home Office,Same Day,Technology,Phones,1817.62,8,0.3,136.13,2025,Illinois
+ORD-11398,West,Home Office,First Class,Office Supplies,Paper,1254.41,6,0.1,-38.5,2021,California
+ORD-11399,Central,Consumer,First Class,Office Supplies,Binders,115.58,6,0.1,19.66,2019,Texas
+ORD-11400,East,Consumer,First Class,Office Supplies,Paper,929.14,6,0.0,150.23,2023,Illinois
+ORD-11401,Central,Home Office,Same Day,Office Supplies,Binders,1948.58,7,0.3,-53.06,2019,New York
+ORD-11402,Central,Corporate,First Class,Office Supplies,Paper,1152.76,8,0.0,-46.69,2020,California
+ORD-11403,Central,Home Office,Standard Class,Office Supplies,Art,1007.49,4,0.0,13.28,2025,New York
+ORD-11404,South,Corporate,Standard Class,Furniture,Tables,1220.92,8,0.1,337.17,2020,Texas
+ORD-11405,West,Home Office,First Class,Office Supplies,Storage,37.83,4,0.3,-1.44,2020,Texas
+ORD-11406,East,Consumer,First Class,Furniture,Tables,610.12,1,0.3,-53.78,2025,Florida
+ORD-11407,South,Home Office,First Class,Furniture,Furnishings,1444.04,7,0.0,318.94,2019,Texas
+ORD-11408,South,Consumer,Same Day,Furniture,Bookcases,1402.99,7,0.0,171.67,2024,Florida
+ORD-11409,Central,Consumer,Same Day,Furniture,Tables,1883.69,6,0.2,552.11,2024,Texas
+ORD-11410,East,Corporate,Same Day,Technology,Copiers,902.01,5,0.1,-77.71,2025,Texas
+ORD-11411,West,Consumer,First Class,Furniture,Furnishings,1595.5,5,0.0,-157.27,2023,Florida
+ORD-11412,East,Corporate,First Class,Office Supplies,Art,1232.73,4,0.0,302.36,2025,Illinois
+ORD-11413,Central,Corporate,First Class,Technology,Phones,607.07,7,0.2,87.79,2021,New York
+ORD-11414,South,Corporate,Same Day,Technology,Machines,1029.58,2,0.0,40.56,2021,Texas
+ORD-11415,Central,Home Office,Standard Class,Technology,Accessories,1051.87,9,0.0,143.23,2024,Texas
+ORD-11416,South,Corporate,First Class,Office Supplies,Paper,930.51,2,0.3,1.11,2022,Washington
+ORD-11417,East,Consumer,Standard Class,Office Supplies,Art,383.78,7,0.3,43.19,2020,Florida
+ORD-11418,Central,Consumer,First Class,Furniture,Chairs,1793.39,7,0.1,447.53,2020,California
+ORD-11419,South,Corporate,Second Class,Furniture,Tables,55.39,6,0.3,-0.96,2022,Illinois
+ORD-11420,South,Corporate,First Class,Office Supplies,Paper,1898.71,1,0.0,88.0,2023,Washington
+ORD-11421,Central,Home Office,Standard Class,Office Supplies,Storage,626.56,7,0.0,188.52,2023,Illinois
+ORD-11422,South,Corporate,Standard Class,Technology,Machines,1032.37,8,0.3,302.93,2021,Florida
+ORD-11423,Central,Corporate,Standard Class,Office Supplies,Storage,237.37,8,0.3,-21.2,2024,Washington
+ORD-11424,Central,Consumer,Same Day,Office Supplies,Art,987.69,8,0.1,175.59,2023,Texas
+ORD-11425,East,Corporate,Standard Class,Furniture,Chairs,1865.56,9,0.3,36.37,2019,California
+ORD-11426,East,Corporate,First Class,Office Supplies,Art,595.77,6,0.0,66.51,2023,New York
+ORD-11427,Central,Home Office,Second Class,Office Supplies,Storage,1657.36,9,0.2,204.73,2020,Illinois
+ORD-11428,South,Consumer,First Class,Office Supplies,Paper,951.6,1,0.0,124.29,2019,Texas
+ORD-11429,South,Consumer,Standard Class,Office Supplies,Binders,838.68,7,0.3,12.9,2022,New York
+ORD-11430,Central,Corporate,Standard Class,Technology,Machines,1752.57,4,0.3,-26.83,2019,New York
+ORD-11431,West,Corporate,Same Day,Furniture,Bookcases,303.26,1,0.0,-16.13,2019,Illinois
+ORD-11432,West,Home Office,Second Class,Office Supplies,Art,501.74,6,0.3,-34.74,2025,Illinois
+ORD-11433,South,Corporate,Same Day,Furniture,Furnishings,1936.36,7,0.3,-77.44,2020,New York
+ORD-11434,West,Home Office,Standard Class,Furniture,Chairs,1964.45,5,0.2,357.35,2020,New York
+ORD-11435,West,Corporate,Standard Class,Furniture,Tables,289.78,9,0.1,2.65,2022,Florida
+ORD-11436,West,Corporate,First Class,Technology,Copiers,499.8,1,0.1,64.5,2020,Illinois
+ORD-11437,South,Consumer,Second Class,Technology,Machines,1058.41,1,0.3,157.46,2022,New York
+ORD-11438,East,Consumer,Standard Class,Office Supplies,Binders,1716.01,8,0.2,-59.55,2024,New York
+ORD-11439,West,Home Office,Same Day,Furniture,Tables,1509.2,8,0.0,294.92,2019,Illinois
+ORD-11440,East,Corporate,Second Class,Furniture,Furnishings,864.36,4,0.0,24.37,2023,Illinois
+ORD-11441,East,Consumer,Same Day,Office Supplies,Storage,691.39,1,0.1,-54.25,2023,California
+ORD-11442,West,Corporate,First Class,Technology,Machines,1268.94,1,0.0,74.99,2019,Washington
+ORD-11443,Central,Home Office,Standard Class,Furniture,Chairs,24.32,3,0.1,0.52,2022,Illinois
+ORD-11444,East,Corporate,Second Class,Office Supplies,Paper,1918.91,3,0.0,418.41,2020,Washington
+ORD-11445,East,Consumer,Same Day,Furniture,Furnishings,1797.02,6,0.0,456.43,2021,California
+ORD-11446,East,Consumer,Second Class,Furniture,Tables,694.94,6,0.2,-63.69,2020,Illinois
+ORD-11447,South,Home Office,Same Day,Office Supplies,Art,152.26,7,0.2,-9.16,2024,New York
+ORD-11448,East,Corporate,First Class,Office Supplies,Art,1295.84,9,0.2,19.78,2021,New York
+ORD-11449,West,Home Office,Same Day,Technology,Phones,1450.05,4,0.1,177.37,2022,Texas
+ORD-11450,East,Consumer,Second Class,Furniture,Furnishings,1317.24,9,0.3,71.6,2023,New York
+ORD-11451,West,Corporate,Standard Class,Office Supplies,Storage,260.81,3,0.0,3.9,2025,Washington
+ORD-11452,South,Corporate,Standard Class,Office Supplies,Binders,1548.49,8,0.1,125.06,2021,Illinois
+ORD-11453,West,Home Office,Second Class,Office Supplies,Paper,1713.52,7,0.2,514.21,2025,Texas
+ORD-11454,Central,Consumer,Standard Class,Furniture,Chairs,1717.51,8,0.0,45.11,2024,Florida
+ORD-11455,East,Consumer,Second Class,Technology,Copiers,1220.1,2,0.3,64.41,2022,California
+ORD-11456,West,Home Office,Standard Class,Office Supplies,Storage,426.01,8,0.3,47.92,2025,Florida
+ORD-11457,Central,Corporate,Second Class,Office Supplies,Paper,1484.38,3,0.2,408.34,2022,Illinois
+ORD-11458,South,Home Office,Same Day,Technology,Accessories,179.94,4,0.1,30.61,2021,New York
+ORD-11459,South,Consumer,Standard Class,Furniture,Tables,1468.58,2,0.1,410.11,2019,Texas
+ORD-11460,West,Home Office,Same Day,Office Supplies,Storage,1912.55,3,0.3,383.63,2022,Florida
+ORD-11461,East,Home Office,First Class,Office Supplies,Art,835.33,7,0.3,265.84,2021,Illinois
+ORD-11462,West,Corporate,First Class,Office Supplies,Art,420.88,2,0.2,-27.56,2022,Texas
+ORD-11463,East,Consumer,Second Class,Office Supplies,Storage,1439.26,2,0.2,-127.49,2021,Texas
+ORD-11464,Central,Home Office,Same Day,Furniture,Tables,475.57,4,0.0,-40.7,2023,Texas
+ORD-11465,East,Corporate,Standard Class,Furniture,Tables,412.25,4,0.3,-40.68,2021,Texas
+ORD-11466,Central,Home Office,First Class,Technology,Phones,1899.36,2,0.2,604.19,2025,Florida
+ORD-11467,Central,Consumer,First Class,Office Supplies,Art,1102.89,4,0.3,-94.1,2023,Texas
+ORD-11468,East,Corporate,First Class,Office Supplies,Paper,1665.45,2,0.1,129.33,2021,Washington
+ORD-11469,South,Corporate,Second Class,Office Supplies,Art,363.65,2,0.1,-21.22,2025,California
+ORD-11470,South,Corporate,Second Class,Office Supplies,Storage,508.3,8,0.3,118.47,2021,Florida
+ORD-11471,East,Corporate,Second Class,Office Supplies,Paper,520.56,9,0.0,153.78,2025,Florida
+ORD-11472,Central,Home Office,Same Day,Technology,Copiers,1151.3,9,0.0,300.05,2019,Florida
+ORD-11473,East,Home Office,First Class,Furniture,Chairs,1674.67,8,0.2,399.95,2024,New York
+ORD-11474,Central,Home Office,Second Class,Technology,Phones,293.04,3,0.2,0.02,2021,New York
+ORD-11475,West,Consumer,First Class,Office Supplies,Storage,1987.4,4,0.1,405.6,2025,Texas
+ORD-11476,South,Consumer,Same Day,Furniture,Bookcases,1053.21,7,0.1,-81.38,2021,Illinois
+ORD-11477,Central,Home Office,Standard Class,Furniture,Tables,1688.07,9,0.0,462.54,2025,New York
+ORD-11478,West,Corporate,Same Day,Furniture,Tables,1462.06,6,0.0,475.66,2022,Florida
+ORD-11479,South,Consumer,Second Class,Technology,Accessories,1157.37,4,0.3,365.66,2025,California
+ORD-11480,East,Corporate,Standard Class,Furniture,Furnishings,990.91,6,0.2,-24.01,2023,California
+ORD-11481,East,Corporate,Same Day,Furniture,Tables,281.64,4,0.0,90.61,2019,California
+ORD-11482,East,Consumer,Standard Class,Office Supplies,Binders,1629.95,5,0.2,-96.19,2025,Washington
+ORD-11483,West,Corporate,Second Class,Office Supplies,Storage,1113.02,5,0.3,372.52,2024,Florida
+ORD-11484,Central,Home Office,Standard Class,Office Supplies,Art,1104.67,7,0.1,-2.62,2025,Washington
+ORD-11485,West,Home Office,Same Day,Furniture,Chairs,1442.51,4,0.0,443.17,2025,California
+ORD-11486,South,Corporate,Same Day,Furniture,Bookcases,1593.21,3,0.2,66.17,2023,Washington
+ORD-11487,East,Home Office,Second Class,Technology,Copiers,1985.87,4,0.3,486.5,2021,Illinois
+ORD-11488,Central,Corporate,Standard Class,Technology,Copiers,1074.01,2,0.0,143.65,2022,New York
+ORD-11489,South,Consumer,Standard Class,Furniture,Furnishings,1147.63,8,0.3,93.49,2022,Illinois
+ORD-11490,East,Corporate,Standard Class,Technology,Machines,754.71,3,0.0,226.41,2019,Florida
+ORD-11491,Central,Corporate,Second Class,Office Supplies,Paper,1705.54,6,0.1,50.6,2024,Washington
+ORD-11492,West,Corporate,First Class,Technology,Machines,905.03,8,0.3,311.05,2022,California
+ORD-11493,East,Home Office,Second Class,Office Supplies,Art,186.9,7,0.3,-6.3,2025,California
+ORD-11494,Central,Consumer,First Class,Furniture,Furnishings,1226.82,2,0.2,336.66,2025,Illinois
+ORD-11495,West,Home Office,Same Day,Office Supplies,Binders,1919.08,4,0.3,308.5,2020,Washington
+ORD-11496,South,Corporate,First Class,Office Supplies,Paper,142.13,5,0.2,16.86,2019,Florida
+ORD-11497,West,Consumer,Standard Class,Office Supplies,Paper,1881.99,4,0.0,320.12,2025,Washington
+ORD-11498,South,Home Office,First Class,Technology,Copiers,1812.83,5,0.2,294.99,2024,Texas
+ORD-11499,South,Corporate,First Class,Office Supplies,Storage,1287.38,4,0.0,231.92,2022,Illinois
+ORD-11500,East,Corporate,Standard Class,Technology,Phones,986.36,2,0.3,176.99,2024,Texas
+ORD-11501,South,Corporate,Standard Class,Office Supplies,Binders,1832.64,8,0.0,-84.39,2022,Florida
+ORD-11502,East,Consumer,Second Class,Office Supplies,Paper,564.61,7,0.0,6.74,2024,New York
+ORD-11503,Central,Corporate,Second Class,Furniture,Chairs,814.86,7,0.1,173.93,2023,New York
+ORD-11504,Central,Consumer,First Class,Office Supplies,Binders,1280.21,1,0.0,-64.31,2021,Illinois
+ORD-11505,Central,Corporate,Standard Class,Technology,Machines,1754.88,2,0.3,45.19,2019,Florida
+ORD-11506,Central,Corporate,Second Class,Technology,Machines,390.6,6,0.2,130.16,2024,Washington
+ORD-11507,Central,Home Office,Second Class,Furniture,Bookcases,1441.38,5,0.0,440.75,2023,California
+ORD-11508,South,Consumer,First Class,Furniture,Furnishings,1661.81,8,0.0,-140.72,2022,New York
+ORD-11509,West,Consumer,Second Class,Technology,Accessories,1458.93,7,0.3,296.73,2024,Illinois
+ORD-11510,East,Home Office,First Class,Office Supplies,Art,1135.5,7,0.2,329.36,2025,Florida
+ORD-11511,South,Corporate,Standard Class,Technology,Copiers,1527.47,2,0.2,324.44,2020,Texas
+ORD-11512,East,Consumer,Second Class,Technology,Machines,697.77,4,0.1,1.05,2023,New York
+ORD-11513,East,Corporate,Standard Class,Office Supplies,Storage,522.99,9,0.0,-21.27,2020,Florida
+ORD-11514,West,Consumer,Second Class,Office Supplies,Art,97.01,8,0.1,18.46,2019,Florida
+ORD-11515,South,Corporate,First Class,Technology,Accessories,154.49,8,0.2,5.22,2019,Texas
+ORD-11516,West,Consumer,Second Class,Technology,Phones,1335.38,5,0.2,435.59,2025,Illinois
+ORD-11517,Central,Consumer,Second Class,Furniture,Chairs,1891.47,2,0.2,187.57,2024,Washington
+ORD-11518,South,Corporate,Second Class,Office Supplies,Storage,538.62,4,0.0,28.5,2020,New York
+ORD-11519,South,Home Office,Same Day,Office Supplies,Storage,1491.14,8,0.3,107.93,2021,California
+ORD-11520,East,Consumer,Second Class,Technology,Copiers,887.1,9,0.0,149.47,2019,Florida
+ORD-11521,Central,Home Office,Same Day,Technology,Copiers,1314.2,7,0.2,331.07,2024,Texas
+ORD-11522,Central,Corporate,Standard Class,Technology,Accessories,869.13,6,0.2,8.55,2024,California
+ORD-11523,West,Consumer,Second Class,Furniture,Chairs,1845.02,2,0.3,16.3,2022,Florida
+ORD-11524,West,Home Office,Standard Class,Furniture,Tables,1493.72,4,0.1,-15.37,2020,Texas
+ORD-11525,East,Corporate,First Class,Office Supplies,Storage,1454.91,1,0.3,59.65,2025,Texas
+ORD-11526,Central,Corporate,First Class,Technology,Phones,356.19,6,0.2,5.07,2025,Florida
+ORD-11527,East,Corporate,First Class,Furniture,Chairs,1768.6,7,0.3,161.04,2022,Illinois
+ORD-11528,West,Corporate,Second Class,Office Supplies,Binders,987.64,9,0.2,276.94,2022,Washington
+ORD-11529,Central,Home Office,Second Class,Office Supplies,Binders,1357.4,8,0.2,429.61,2022,Illinois
+ORD-11530,West,Corporate,Standard Class,Technology,Copiers,1529.82,1,0.1,154.23,2025,California
+ORD-11531,South,Consumer,First Class,Furniture,Furnishings,1374.77,5,0.1,-18.2,2023,Texas
+ORD-11532,East,Home Office,Second Class,Furniture,Chairs,1276.98,2,0.3,383.71,2021,Illinois
+ORD-11533,Central,Consumer,Same Day,Office Supplies,Storage,898.96,8,0.3,195.44,2021,Illinois
+ORD-11534,South,Corporate,Same Day,Office Supplies,Binders,549.24,7,0.2,74.19,2022,Florida
+ORD-11535,South,Consumer,Same Day,Office Supplies,Art,1812.07,1,0.3,272.76,2019,Florida
+ORD-11536,South,Corporate,Same Day,Office Supplies,Storage,83.6,7,0.0,17.46,2021,Texas
+ORD-11537,Central,Corporate,Standard Class,Technology,Machines,1997.15,4,0.3,348.38,2022,California
+ORD-11538,South,Home Office,Second Class,Technology,Machines,790.46,5,0.2,113.82,2022,New York
+ORD-11539,West,Consumer,Same Day,Office Supplies,Paper,1527.0,5,0.0,49.1,2021,Texas
+ORD-11540,West,Consumer,Standard Class,Furniture,Furnishings,1930.98,3,0.0,-96.09,2019,New York
+ORD-11541,West,Consumer,Second Class,Technology,Machines,1761.77,6,0.3,-89.55,2019,New York
+ORD-11542,Central,Consumer,Same Day,Technology,Copiers,103.25,2,0.1,29.39,2024,Florida
+ORD-11543,South,Home Office,Standard Class,Technology,Copiers,1611.81,7,0.0,458.65,2025,Texas
+ORD-11544,Central,Consumer,Standard Class,Office Supplies,Binders,748.45,8,0.2,207.51,2022,Texas
+ORD-11545,South,Corporate,First Class,Office Supplies,Art,1570.54,3,0.1,92.32,2022,Texas
+ORD-11546,South,Consumer,First Class,Furniture,Furnishings,221.9,1,0.3,20.14,2022,Washington
+ORD-11547,South,Corporate,Same Day,Office Supplies,Binders,1141.3,7,0.2,318.29,2025,California
+ORD-11548,Central,Consumer,Standard Class,Technology,Phones,1724.64,5,0.3,-77.56,2019,New York
+ORD-11549,West,Home Office,Standard Class,Furniture,Tables,187.59,6,0.3,-9.39,2022,Illinois
+ORD-11550,South,Home Office,Second Class,Office Supplies,Paper,1050.64,1,0.3,68.13,2021,Texas
+ORD-11551,South,Corporate,Second Class,Furniture,Chairs,1836.5,4,0.1,486.6,2020,Illinois
+ORD-11552,South,Home Office,Same Day,Technology,Accessories,1334.26,4,0.1,-106.67,2023,Illinois
+ORD-11553,South,Home Office,Second Class,Furniture,Tables,685.6,1,0.0,200.72,2020,California
+ORD-11554,East,Home Office,First Class,Office Supplies,Storage,530.16,5,0.3,-22.18,2020,New York
+ORD-11555,Central,Corporate,Standard Class,Furniture,Furnishings,1581.6,5,0.2,-39.23,2021,Washington
+ORD-11556,South,Corporate,Second Class,Office Supplies,Binders,1601.95,3,0.1,406.26,2025,Texas
+ORD-11557,West,Home Office,Second Class,Technology,Copiers,1112.52,9,0.3,284.84,2023,Texas
+ORD-11558,West,Corporate,Same Day,Technology,Accessories,981.42,4,0.3,86.63,2025,New York
+ORD-11559,West,Consumer,Standard Class,Office Supplies,Binders,64.53,9,0.1,15.85,2024,New York
+ORD-11560,East,Corporate,First Class,Office Supplies,Art,67.87,7,0.2,9.29,2019,Texas
+ORD-11561,West,Consumer,First Class,Technology,Accessories,1011.86,2,0.0,303.92,2019,Texas
+ORD-11562,East,Corporate,Standard Class,Technology,Phones,1631.38,5,0.3,299.09,2022,Texas
+ORD-11563,West,Consumer,Standard Class,Office Supplies,Storage,1397.69,1,0.2,-91.32,2019,New York
+ORD-11564,Central,Home Office,Standard Class,Furniture,Chairs,1812.87,2,0.1,-1.98,2021,Texas
+ORD-11565,East,Home Office,Standard Class,Furniture,Chairs,345.2,9,0.1,7.6,2024,Texas
+ORD-11566,South,Corporate,Same Day,Furniture,Chairs,671.11,9,0.0,105.25,2019,Illinois
+ORD-11567,Central,Corporate,Second Class,Technology,Copiers,1855.81,5,0.3,205.35,2025,Washington
+ORD-11568,West,Corporate,Same Day,Office Supplies,Binders,1900.0,2,0.3,130.83,2021,California
+ORD-11569,Central,Corporate,Second Class,Office Supplies,Paper,829.51,9,0.0,67.39,2023,Illinois
+ORD-11570,West,Consumer,First Class,Furniture,Furnishings,345.31,3,0.3,54.37,2023,Illinois
+ORD-11571,Central,Home Office,Standard Class,Technology,Copiers,1132.46,1,0.1,-47.01,2023,Illinois
+ORD-11572,South,Consumer,Second Class,Office Supplies,Binders,1614.39,2,0.3,306.7,2025,New York
+ORD-11573,East,Consumer,Second Class,Technology,Phones,628.78,3,0.3,167.46,2025,Texas
+ORD-11574,South,Consumer,Standard Class,Technology,Machines,1775.9,1,0.3,-148.27,2019,California
+ORD-11575,East,Home Office,Second Class,Furniture,Furnishings,1624.21,6,0.1,209.78,2021,Illinois
+ORD-11576,West,Home Office,First Class,Technology,Copiers,1286.06,9,0.3,254.61,2022,California
+ORD-11577,Central,Corporate,Second Class,Technology,Phones,1601.02,2,0.3,-146.94,2023,Florida
+ORD-11578,East,Consumer,Standard Class,Furniture,Tables,780.55,7,0.1,29.16,2022,California
+ORD-11579,Central,Home Office,First Class,Office Supplies,Art,857.61,1,0.0,172.89,2021,California
+ORD-11580,West,Home Office,Second Class,Technology,Copiers,964.05,4,0.0,-19.56,2023,Florida
+ORD-11581,West,Home Office,First Class,Office Supplies,Storage,1064.26,8,0.3,229.92,2025,Washington
+ORD-11582,South,Consumer,Standard Class,Technology,Machines,340.11,8,0.2,44.89,2025,Florida
+ORD-11583,East,Consumer,Standard Class,Furniture,Furnishings,871.77,4,0.3,222.7,2025,Texas
+ORD-11584,West,Corporate,Second Class,Technology,Accessories,346.19,7,0.2,36.12,2020,Washington
+ORD-11585,West,Corporate,Standard Class,Office Supplies,Storage,1484.61,7,0.2,275.12,2019,Texas
+ORD-11586,Central,Home Office,First Class,Furniture,Tables,864.35,9,0.3,54.13,2024,Washington
+ORD-11587,South,Corporate,Same Day,Furniture,Bookcases,1871.83,4,0.2,478.46,2021,Washington
+ORD-11588,South,Consumer,Standard Class,Office Supplies,Art,1260.37,1,0.0,275.21,2021,Florida
+ORD-11589,East,Corporate,Same Day,Technology,Phones,1264.92,4,0.3,100.08,2022,California
+ORD-11590,West,Consumer,Same Day,Technology,Machines,326.04,1,0.2,7.74,2020,California
+ORD-11591,South,Consumer,Second Class,Furniture,Furnishings,20.31,9,0.2,6.73,2020,Texas
+ORD-11592,East,Consumer,Standard Class,Technology,Phones,713.08,3,0.3,-50.67,2022,Illinois
+ORD-11593,Central,Corporate,Standard Class,Technology,Machines,1793.52,7,0.1,379.05,2023,Illinois
+ORD-11594,Central,Consumer,Same Day,Office Supplies,Storage,1915.49,3,0.3,438.12,2024,Washington
+ORD-11595,West,Home Office,First Class,Furniture,Chairs,1449.29,5,0.3,256.67,2023,Florida
+ORD-11596,West,Corporate,Second Class,Technology,Accessories,1474.08,6,0.2,63.61,2023,Texas
+ORD-11597,Central,Consumer,Standard Class,Technology,Phones,660.59,8,0.2,4.9,2025,Illinois
+ORD-11598,Central,Corporate,Second Class,Office Supplies,Storage,387.5,4,0.1,33.8,2020,Washington
+ORD-11599,South,Home Office,Standard Class,Technology,Phones,537.35,4,0.3,146.06,2024,Florida
+ORD-11600,South,Corporate,Standard Class,Furniture,Tables,1986.88,3,0.0,545.4,2020,Florida
+ORD-11601,East,Home Office,Same Day,Furniture,Furnishings,733.06,5,0.0,-28.04,2023,Florida
+ORD-11602,East,Corporate,Second Class,Technology,Machines,218.06,1,0.0,51.97,2025,California
+ORD-11603,South,Consumer,Standard Class,Technology,Copiers,873.54,2,0.1,-76.22,2019,Florida
+ORD-11604,East,Consumer,Same Day,Furniture,Bookcases,27.42,4,0.2,-1.42,2025,Washington
+ORD-11605,East,Home Office,Same Day,Technology,Phones,835.34,4,0.2,-45.78,2020,Illinois
+ORD-11606,West,Corporate,Second Class,Office Supplies,Art,81.65,6,0.3,28.08,2019,Florida
+ORD-11607,Central,Consumer,Standard Class,Office Supplies,Art,178.46,5,0.0,44.29,2025,Texas
+ORD-11608,West,Corporate,First Class,Office Supplies,Art,908.93,3,0.0,301.7,2020,Texas
+ORD-11609,West,Corporate,Second Class,Furniture,Chairs,1256.09,7,0.2,388.73,2025,Texas
+ORD-11610,West,Home Office,First Class,Technology,Phones,1949.0,6,0.2,390.68,2024,New York
+ORD-11611,East,Home Office,Second Class,Office Supplies,Storage,1916.25,8,0.0,634.55,2021,Florida
+ORD-11612,East,Home Office,Same Day,Technology,Accessories,1123.29,2,0.2,202.84,2021,New York
+ORD-11613,East,Corporate,Standard Class,Office Supplies,Storage,1228.62,4,0.0,420.75,2025,Texas
+ORD-11614,West,Home Office,Same Day,Technology,Copiers,1800.31,4,0.0,232.93,2019,Florida
+ORD-11615,Central,Consumer,First Class,Office Supplies,Storage,1137.59,6,0.0,-7.11,2021,California
+ORD-11616,East,Corporate,Second Class,Office Supplies,Storage,676.16,2,0.3,195.11,2023,Washington
+ORD-11617,South,Corporate,Second Class,Technology,Copiers,1916.48,3,0.2,563.25,2019,Illinois
+ORD-11618,South,Corporate,First Class,Office Supplies,Paper,1180.75,1,0.2,66.11,2023,Florida
+ORD-11619,West,Corporate,First Class,Technology,Phones,1141.05,5,0.1,268.66,2023,Texas
+ORD-11620,West,Consumer,Same Day,Technology,Copiers,1240.63,3,0.0,-25.13,2020,Illinois
+ORD-11621,South,Corporate,Same Day,Office Supplies,Art,77.38,8,0.1,2.77,2024,California
+ORD-11622,Central,Corporate,First Class,Technology,Phones,1937.09,4,0.1,436.32,2024,California
+ORD-11623,West,Home Office,Same Day,Office Supplies,Binders,703.93,8,0.2,64.09,2024,New York
+ORD-11624,Central,Corporate,First Class,Office Supplies,Binders,1198.04,3,0.2,56.78,2023,New York
+ORD-11625,West,Corporate,Same Day,Furniture,Furnishings,937.75,2,0.1,21.23,2019,New York
+ORD-11626,East,Corporate,Second Class,Office Supplies,Storage,474.93,1,0.1,134.65,2022,Texas
+ORD-11627,South,Consumer,Same Day,Office Supplies,Binders,433.99,3,0.0,-12.89,2019,California
+ORD-11628,West,Home Office,Same Day,Office Supplies,Binders,858.21,7,0.2,-57.66,2019,Florida
+ORD-11629,West,Corporate,Standard Class,Technology,Accessories,173.74,2,0.1,-5.34,2025,New York
+ORD-11630,West,Consumer,Same Day,Office Supplies,Art,1610.13,4,0.0,112.07,2019,Washington
+ORD-11631,South,Consumer,Second Class,Office Supplies,Paper,742.8,8,0.2,-61.16,2021,Illinois
+ORD-11632,South,Consumer,Second Class,Technology,Accessories,1218.95,7,0.0,-63.87,2024,New York
+ORD-11633,Central,Consumer,First Class,Furniture,Tables,886.02,3,0.2,279.74,2022,California
+ORD-11634,East,Corporate,Same Day,Technology,Phones,1194.68,6,0.0,-90.8,2023,Illinois
+ORD-11635,East,Consumer,Same Day,Furniture,Tables,1939.56,8,0.0,-40.67,2019,Illinois
+ORD-11636,Central,Corporate,Second Class,Furniture,Tables,1790.03,3,0.3,399.58,2021,New York
+ORD-11637,East,Corporate,Standard Class,Technology,Machines,1277.35,2,0.1,264.56,2024,Washington
+ORD-11638,East,Home Office,Same Day,Technology,Phones,944.1,1,0.1,48.38,2022,California
+ORD-11639,West,Consumer,Standard Class,Furniture,Chairs,557.11,9,0.2,-27.8,2021,Florida
+ORD-11640,West,Home Office,Same Day,Office Supplies,Paper,1798.49,1,0.1,623.03,2024,California
+ORD-11641,Central,Consumer,First Class,Furniture,Furnishings,1762.21,8,0.1,-110.96,2025,California
+ORD-11642,East,Corporate,Second Class,Technology,Phones,441.0,5,0.0,-42.55,2024,Washington
+ORD-11643,Central,Home Office,Same Day,Technology,Copiers,1650.44,1,0.0,14.75,2022,Illinois
+ORD-11644,West,Corporate,Second Class,Furniture,Chairs,353.84,2,0.0,-16.4,2019,Illinois
+ORD-11645,Central,Consumer,First Class,Technology,Machines,100.96,6,0.3,30.1,2025,New York
+ORD-11646,South,Corporate,Second Class,Office Supplies,Storage,1462.71,4,0.1,502.57,2019,Washington
+ORD-11647,Central,Corporate,First Class,Office Supplies,Paper,42.64,5,0.3,4.75,2019,New York
+ORD-11648,South,Corporate,First Class,Office Supplies,Storage,209.42,8,0.0,68.04,2025,New York
+ORD-11649,South,Consumer,Standard Class,Office Supplies,Storage,1978.57,4,0.3,655.72,2020,Washington
+ORD-11650,Central,Home Office,Standard Class,Office Supplies,Storage,715.41,5,0.3,-2.15,2020,Illinois
+ORD-11651,West,Home Office,Same Day,Technology,Copiers,1790.1,8,0.2,533.98,2022,Washington
+ORD-11652,South,Home Office,Second Class,Technology,Machines,1407.22,5,0.0,247.45,2024,Florida
+ORD-11653,West,Home Office,First Class,Furniture,Bookcases,1383.21,1,0.2,116.14,2025,Illinois
+ORD-11654,Central,Corporate,Same Day,Furniture,Furnishings,660.68,3,0.0,130.72,2019,New York
+ORD-11655,Central,Corporate,Standard Class,Furniture,Chairs,122.53,2,0.2,37.84,2020,Texas
+ORD-11656,East,Corporate,Second Class,Technology,Copiers,438.91,3,0.1,108.91,2021,California
+ORD-11657,East,Consumer,First Class,Technology,Phones,1225.2,2,0.3,324.92,2021,Illinois
+ORD-11658,East,Home Office,Second Class,Furniture,Chairs,1903.9,4,0.0,-48.75,2024,Florida
+ORD-11659,South,Home Office,Second Class,Technology,Accessories,1064.05,7,0.1,168.52,2020,California
+ORD-11660,West,Home Office,First Class,Furniture,Chairs,913.65,4,0.3,15.86,2019,California
+ORD-11661,West,Corporate,Same Day,Office Supplies,Art,274.15,8,0.0,-26.96,2023,California
+ORD-11662,South,Home Office,First Class,Technology,Copiers,834.23,2,0.1,291.49,2020,Illinois
+ORD-11663,South,Corporate,First Class,Technology,Copiers,258.39,4,0.3,39.89,2022,Texas
+ORD-11664,West,Consumer,Standard Class,Furniture,Bookcases,22.6,2,0.3,5.01,2019,Illinois
+ORD-11665,South,Consumer,First Class,Furniture,Chairs,317.89,6,0.0,31.49,2020,Washington
+ORD-11666,West,Consumer,First Class,Technology,Machines,1972.22,2,0.0,589.57,2022,Florida
+ORD-11667,Central,Consumer,Standard Class,Office Supplies,Paper,504.02,2,0.3,88.95,2025,California
+ORD-11668,South,Corporate,Same Day,Office Supplies,Art,1025.57,5,0.2,91.16,2025,Washington
+ORD-11669,Central,Corporate,Second Class,Office Supplies,Art,1637.38,4,0.3,3.03,2024,New York
+ORD-11670,West,Home Office,Second Class,Furniture,Bookcases,1854.67,8,0.2,463.68,2020,Washington
+ORD-11671,Central,Consumer,Standard Class,Furniture,Bookcases,666.88,4,0.2,145.03,2025,Texas
+ORD-11672,West,Home Office,First Class,Furniture,Bookcases,1101.17,1,0.0,103.36,2020,Washington
+ORD-11673,West,Home Office,Second Class,Office Supplies,Art,51.12,4,0.3,-4.53,2021,Texas
+ORD-11674,West,Corporate,Second Class,Furniture,Chairs,1589.95,3,0.3,-10.83,2025,Florida
+ORD-11675,South,Home Office,First Class,Office Supplies,Binders,1318.08,5,0.1,322.24,2024,Florida
+ORD-11676,East,Corporate,Standard Class,Furniture,Bookcases,1416.71,7,0.1,282.54,2024,New York
+ORD-11677,Central,Home Office,First Class,Office Supplies,Art,760.68,5,0.0,25.6,2024,Illinois
+ORD-11678,Central,Corporate,First Class,Office Supplies,Binders,862.11,4,0.0,-65.05,2021,Illinois
+ORD-11679,West,Home Office,Standard Class,Technology,Phones,1191.5,7,0.1,54.71,2022,Illinois
+ORD-11680,South,Home Office,Standard Class,Furniture,Chairs,126.32,4,0.0,-1.64,2025,Florida
+ORD-11681,West,Corporate,Second Class,Furniture,Bookcases,1337.64,6,0.1,242.99,2023,Illinois
+ORD-11682,South,Consumer,Standard Class,Furniture,Chairs,1366.15,8,0.2,392.78,2021,Illinois
+ORD-11683,Central,Corporate,First Class,Technology,Accessories,1071.39,5,0.0,271.37,2020,Washington
+ORD-11684,South,Corporate,Second Class,Furniture,Bookcases,1362.8,3,0.2,100.27,2024,Illinois
+ORD-11685,South,Home Office,Same Day,Furniture,Bookcases,279.11,9,0.2,74.0,2025,Illinois
+ORD-11686,Central,Consumer,Same Day,Furniture,Bookcases,89.11,8,0.2,-5.07,2019,Florida
+ORD-11687,Central,Consumer,First Class,Office Supplies,Storage,162.34,5,0.3,33.76,2023,New York
+ORD-11688,Central,Corporate,Same Day,Office Supplies,Storage,787.57,2,0.1,96.75,2025,Florida
+ORD-11689,South,Corporate,Standard Class,Furniture,Furnishings,946.14,3,0.1,69.31,2021,California
+ORD-11690,Central,Corporate,Same Day,Furniture,Chairs,1872.89,6,0.3,-59.19,2024,California
+ORD-11691,Central,Consumer,Same Day,Office Supplies,Binders,1305.5,6,0.0,-51.02,2022,Washington
+ORD-11692,West,Home Office,Standard Class,Office Supplies,Binders,1882.46,3,0.3,74.16,2024,California
+ORD-11693,South,Consumer,Same Day,Furniture,Chairs,176.12,3,0.3,7.91,2022,New York
+ORD-11694,East,Consumer,Standard Class,Furniture,Tables,364.42,9,0.0,10.18,2020,Texas
+ORD-11695,South,Corporate,Second Class,Office Supplies,Art,1532.71,1,0.0,130.23,2023,Texas
+ORD-11696,Central,Home Office,Standard Class,Furniture,Bookcases,584.5,1,0.3,18.0,2023,Texas
+ORD-11697,East,Home Office,Standard Class,Technology,Machines,814.67,3,0.1,239.69,2024,Florida
+ORD-11698,West,Home Office,Second Class,Office Supplies,Binders,1727.35,8,0.0,-2.95,2019,Illinois
+ORD-11699,East,Consumer,Second Class,Office Supplies,Paper,1511.34,6,0.3,367.99,2024,Illinois
+ORD-11700,West,Home Office,Second Class,Technology,Machines,891.91,6,0.2,60.82,2021,Washington
+ORD-11701,South,Consumer,Standard Class,Technology,Machines,1438.65,6,0.3,495.31,2020,Florida
+ORD-11702,Central,Home Office,Standard Class,Furniture,Bookcases,318.57,4,0.3,102.31,2021,Texas
+ORD-11703,Central,Home Office,First Class,Furniture,Tables,420.0,3,0.1,98.38,2022,Washington
+ORD-11704,East,Consumer,Same Day,Office Supplies,Storage,351.88,6,0.0,88.08,2025,Texas
+ORD-11705,East,Home Office,First Class,Furniture,Chairs,187.66,4,0.3,57.84,2023,New York
+ORD-11706,Central,Home Office,Same Day,Office Supplies,Paper,458.14,2,0.3,-0.91,2025,Texas
+ORD-11707,East,Home Office,Standard Class,Furniture,Bookcases,1863.07,3,0.1,429.19,2021,New York
+ORD-11708,West,Corporate,Second Class,Technology,Accessories,1135.43,1,0.1,74.01,2024,Washington
+ORD-11709,East,Consumer,Same Day,Furniture,Bookcases,76.0,1,0.3,19.83,2019,Illinois
+ORD-11710,South,Home Office,Standard Class,Office Supplies,Paper,1341.38,2,0.3,85.19,2023,Illinois
+ORD-11711,East,Home Office,Standard Class,Furniture,Furnishings,1528.12,8,0.2,278.78,2025,Texas
+ORD-11712,West,Home Office,Standard Class,Technology,Copiers,1181.45,3,0.0,318.11,2020,Texas
+ORD-11713,West,Corporate,First Class,Office Supplies,Paper,1850.37,7,0.2,215.77,2023,Florida
+ORD-11714,Central,Corporate,First Class,Technology,Machines,56.27,1,0.2,11.88,2021,Texas
+ORD-11715,Central,Consumer,Standard Class,Office Supplies,Paper,1954.32,6,0.0,332.82,2021,Washington
+ORD-11716,East,Consumer,Same Day,Furniture,Chairs,972.48,7,0.3,93.11,2019,Illinois
+ORD-11717,East,Corporate,First Class,Office Supplies,Binders,1534.84,6,0.2,255.93,2024,New York
+ORD-11718,East,Consumer,Standard Class,Office Supplies,Binders,588.96,2,0.2,20.03,2021,Florida
+ORD-11719,West,Corporate,Same Day,Technology,Phones,1965.2,4,0.0,-19.37,2025,California
+ORD-11720,South,Home Office,Second Class,Office Supplies,Art,1712.0,6,0.1,439.86,2025,Florida
+ORD-11721,West,Corporate,First Class,Furniture,Bookcases,759.14,4,0.2,-3.08,2021,Illinois
+ORD-11722,Central,Consumer,Standard Class,Office Supplies,Paper,494.83,3,0.0,166.77,2019,Illinois
+ORD-11723,South,Consumer,First Class,Technology,Accessories,1084.46,1,0.2,92.02,2021,Washington
+ORD-11724,East,Consumer,Standard Class,Technology,Accessories,1604.64,1,0.2,454.06,2020,New York
+ORD-11725,East,Home Office,First Class,Technology,Machines,1709.16,8,0.0,390.47,2025,New York
+ORD-11726,South,Home Office,First Class,Office Supplies,Storage,1766.34,1,0.0,-116.74,2023,California
+ORD-11727,East,Home Office,Same Day,Furniture,Bookcases,619.4,4,0.3,162.09,2019,Texas
+ORD-11728,West,Home Office,Standard Class,Furniture,Tables,551.29,9,0.2,131.2,2021,California
+ORD-11729,West,Corporate,Standard Class,Office Supplies,Paper,351.39,6,0.3,24.16,2022,New York
+ORD-11730,Central,Corporate,Same Day,Technology,Machines,41.71,5,0.2,0.92,2019,Florida
+ORD-11731,West,Consumer,Same Day,Technology,Phones,1800.87,9,0.1,457.13,2022,California
+ORD-11732,Central,Home Office,Second Class,Office Supplies,Art,250.76,3,0.2,18.66,2024,Illinois
+ORD-11733,South,Corporate,First Class,Technology,Phones,442.65,5,0.1,5.24,2022,New York
+ORD-11734,Central,Corporate,Same Day,Furniture,Chairs,1765.32,7,0.2,263.03,2021,Illinois
+ORD-11735,South,Consumer,Standard Class,Office Supplies,Art,356.37,6,0.3,77.49,2024,Florida
+ORD-11736,East,Home Office,Standard Class,Technology,Machines,633.84,5,0.1,-1.8,2022,Washington
+ORD-11737,Central,Consumer,Second Class,Office Supplies,Art,1239.37,1,0.2,-56.7,2025,Florida
+ORD-11738,East,Corporate,Same Day,Office Supplies,Binders,915.82,5,0.3,-71.06,2024,Texas
+ORD-11739,Central,Consumer,Standard Class,Technology,Copiers,863.68,3,0.1,156.28,2019,Washington
+ORD-11740,West,Consumer,Standard Class,Furniture,Tables,275.6,5,0.0,61.74,2019,Florida
+ORD-11741,West,Home Office,Same Day,Technology,Phones,1461.15,2,0.2,190.2,2024,California
+ORD-11742,South,Home Office,Second Class,Technology,Accessories,723.96,2,0.0,-33.9,2024,New York
+ORD-11743,Central,Corporate,Same Day,Office Supplies,Paper,240.96,1,0.3,77.28,2022,Illinois
+ORD-11744,West,Corporate,Second Class,Office Supplies,Art,1152.71,2,0.2,376.29,2020,Washington
+ORD-11745,East,Home Office,Same Day,Technology,Copiers,1242.89,8,0.0,192.02,2024,Illinois
+ORD-11746,Central,Consumer,Second Class,Furniture,Chairs,1284.7,3,0.2,183.75,2025,Texas
+ORD-11747,Central,Corporate,Same Day,Office Supplies,Storage,1128.72,4,0.1,10.1,2020,Texas
+ORD-11748,Central,Consumer,Standard Class,Technology,Phones,1365.89,5,0.0,155.72,2025,California
+ORD-11749,South,Home Office,First Class,Technology,Machines,744.12,2,0.3,78.3,2022,California
+ORD-11750,West,Corporate,Same Day,Office Supplies,Art,431.21,1,0.2,118.79,2024,Illinois
+ORD-11751,Central,Home Office,Same Day,Office Supplies,Binders,826.52,3,0.1,-30.46,2025,New York
+ORD-11752,West,Consumer,Second Class,Furniture,Chairs,847.29,4,0.3,286.61,2025,Washington
+ORD-11753,East,Corporate,Same Day,Technology,Copiers,1831.1,5,0.0,253.26,2020,Florida
+ORD-11754,South,Home Office,Same Day,Furniture,Bookcases,1958.69,2,0.1,414.69,2020,New York
+ORD-11755,West,Corporate,Standard Class,Office Supplies,Art,1767.64,3,0.1,593.9,2025,Florida
+ORD-11756,West,Consumer,Standard Class,Office Supplies,Paper,1951.73,3,0.0,-82.74,2023,New York
+ORD-11757,East,Consumer,Second Class,Furniture,Furnishings,868.72,4,0.1,212.66,2019,Washington
+ORD-11758,West,Home Office,Second Class,Technology,Copiers,1939.67,1,0.0,-154.18,2019,Texas
+ORD-11759,Central,Home Office,First Class,Furniture,Furnishings,675.2,4,0.1,223.8,2025,Texas
+ORD-11760,West,Home Office,Second Class,Technology,Accessories,1824.63,1,0.1,-164.11,2025,Florida
+ORD-11761,East,Home Office,Standard Class,Technology,Phones,1343.15,8,0.1,-117.89,2024,Florida
+ORD-11762,West,Home Office,Same Day,Office Supplies,Storage,28.48,8,0.2,3.21,2024,New York
+ORD-11763,East,Home Office,First Class,Technology,Machines,1458.95,9,0.3,324.08,2022,Florida
+ORD-11764,West,Corporate,Same Day,Furniture,Chairs,714.29,6,0.1,79.72,2025,Florida
+ORD-11765,East,Consumer,Same Day,Furniture,Furnishings,612.25,8,0.2,-4.58,2023,Texas
+ORD-11766,East,Home Office,Standard Class,Office Supplies,Storage,135.83,2,0.1,26.78,2019,Washington
+ORD-11767,East,Corporate,Second Class,Furniture,Furnishings,787.24,3,0.2,117.34,2024,Washington
+ORD-11768,East,Home Office,Same Day,Furniture,Chairs,1738.57,5,0.0,-121.35,2024,Washington
+ORD-11769,South,Consumer,Second Class,Technology,Accessories,1678.37,9,0.1,-112.94,2019,California
+ORD-11770,East,Consumer,Same Day,Technology,Accessories,323.14,3,0.0,19.51,2024,California
+ORD-11771,Central,Home Office,Second Class,Technology,Accessories,478.77,3,0.3,-0.53,2023,Florida
+ORD-11772,West,Corporate,Second Class,Office Supplies,Storage,357.06,9,0.3,113.16,2021,Florida
+ORD-11773,South,Corporate,Second Class,Furniture,Bookcases,1882.48,1,0.3,173.39,2020,Texas
+ORD-11774,West,Corporate,First Class,Furniture,Furnishings,788.43,1,0.3,123.52,2022,Washington
+ORD-11775,South,Consumer,Standard Class,Furniture,Tables,308.45,9,0.2,62.89,2023,Florida
+ORD-11776,West,Corporate,Standard Class,Office Supplies,Art,1925.31,9,0.0,-105.61,2020,Illinois
+ORD-11777,South,Home Office,Same Day,Technology,Copiers,685.44,1,0.1,80.65,2021,Texas
+ORD-11778,Central,Consumer,Same Day,Office Supplies,Paper,546.18,7,0.1,178.32,2024,New York
+ORD-11779,Central,Home Office,First Class,Technology,Machines,384.71,4,0.2,4.53,2023,Texas
+ORD-11780,Central,Home Office,Second Class,Office Supplies,Paper,876.12,2,0.3,294.57,2021,New York
+ORD-11781,East,Corporate,Same Day,Office Supplies,Paper,1388.02,6,0.2,81.61,2023,Florida
+ORD-11782,West,Corporate,Second Class,Office Supplies,Binders,1914.64,8,0.2,59.7,2021,New York
+ORD-11783,Central,Home Office,Same Day,Technology,Accessories,143.6,9,0.0,44.55,2020,Illinois
+ORD-11784,South,Home Office,Second Class,Office Supplies,Binders,1303.88,6,0.1,387.44,2024,Florida
+ORD-11785,South,Consumer,Same Day,Office Supplies,Paper,939.26,4,0.0,35.31,2023,Florida
+ORD-11786,East,Consumer,Second Class,Furniture,Tables,215.83,3,0.1,-9.33,2019,Texas
+ORD-11787,Central,Home Office,Standard Class,Furniture,Bookcases,1151.39,4,0.1,-88.93,2021,Texas
+ORD-11788,East,Consumer,Standard Class,Office Supplies,Art,381.74,7,0.2,49.42,2023,Texas
+ORD-11789,West,Home Office,Standard Class,Furniture,Furnishings,1565.27,9,0.1,59.12,2024,California
+ORD-11790,West,Consumer,Same Day,Furniture,Furnishings,1968.67,8,0.2,294.79,2022,Texas
+ORD-11791,Central,Consumer,Second Class,Office Supplies,Paper,905.18,5,0.3,-48.81,2022,Illinois
+ORD-11792,East,Corporate,Second Class,Technology,Accessories,1747.82,2,0.2,201.71,2022,Florida
+ORD-11793,East,Home Office,Standard Class,Furniture,Furnishings,345.24,6,0.1,91.69,2020,Florida
+ORD-11794,East,Consumer,First Class,Office Supplies,Storage,1120.62,1,0.3,5.25,2020,Washington
+ORD-11795,West,Corporate,First Class,Furniture,Bookcases,1532.83,2,0.1,300.81,2022,California
+ORD-11796,Central,Home Office,Second Class,Technology,Phones,1222.57,5,0.1,-87.14,2019,Florida
+ORD-11797,East,Corporate,Same Day,Furniture,Furnishings,369.7,1,0.1,24.73,2025,Florida
+ORD-11798,Central,Corporate,Same Day,Technology,Phones,547.77,9,0.1,105.21,2021,California
+ORD-11799,West,Consumer,Second Class,Furniture,Tables,445.68,5,0.0,-16.33,2019,Illinois
+ORD-11800,East,Consumer,Second Class,Technology,Copiers,1410.38,9,0.2,57.13,2021,Florida
+ORD-11801,East,Corporate,Second Class,Technology,Copiers,780.24,2,0.1,14.13,2019,Illinois
+ORD-11802,West,Corporate,Second Class,Furniture,Chairs,794.84,1,0.0,40.36,2024,California
+ORD-11803,West,Home Office,Standard Class,Furniture,Bookcases,1464.43,5,0.2,102.02,2020,Washington
+ORD-11804,Central,Consumer,First Class,Technology,Accessories,1603.49,7,0.3,22.71,2020,Washington
+ORD-11805,Central,Home Office,Standard Class,Technology,Copiers,242.16,4,0.0,6.34,2024,New York
+ORD-11806,South,Consumer,Second Class,Technology,Accessories,657.34,8,0.0,-4.09,2022,Washington
+ORD-11807,East,Consumer,Standard Class,Technology,Phones,1999.35,9,0.2,148.25,2019,Florida
+ORD-11808,West,Corporate,Second Class,Office Supplies,Paper,400.37,8,0.2,-38.58,2021,California
+ORD-11809,East,Home Office,Second Class,Office Supplies,Storage,573.28,3,0.1,71.02,2023,Texas
+ORD-11810,South,Corporate,Second Class,Technology,Phones,901.96,9,0.3,62.37,2023,New York
+ORD-11811,West,Corporate,Standard Class,Office Supplies,Art,1319.7,8,0.2,-98.73,2020,Texas
+ORD-11812,South,Home Office,First Class,Office Supplies,Storage,1380.81,7,0.3,-14.59,2023,Florida
+ORD-11813,West,Home Office,Same Day,Furniture,Bookcases,111.78,2,0.3,35.49,2021,Texas
+ORD-11814,West,Home Office,Same Day,Office Supplies,Art,1717.68,9,0.2,494.03,2022,New York
+ORD-11815,East,Home Office,Second Class,Office Supplies,Binders,856.21,9,0.3,287.84,2023,California
+ORD-11816,East,Corporate,Second Class,Office Supplies,Storage,1603.9,6,0.2,59.16,2020,New York
+ORD-11817,East,Home Office,Second Class,Furniture,Chairs,453.99,4,0.0,-18.58,2021,Texas
+ORD-11818,Central,Home Office,Standard Class,Furniture,Chairs,1414.23,1,0.2,429.32,2022,Illinois
+ORD-11819,West,Consumer,Second Class,Technology,Machines,86.55,4,0.0,5.23,2022,New York
+ORD-11820,West,Home Office,Same Day,Technology,Copiers,1908.71,7,0.3,26.47,2020,New York
+ORD-11821,Central,Home Office,Second Class,Technology,Copiers,585.46,7,0.3,147.14,2022,Washington
+ORD-11822,West,Consumer,Same Day,Furniture,Bookcases,858.11,4,0.1,289.46,2020,California
+ORD-11823,West,Corporate,First Class,Furniture,Furnishings,38.93,7,0.1,0.22,2025,California
+ORD-11824,West,Home Office,Standard Class,Furniture,Furnishings,833.58,3,0.3,51.43,2024,California
+ORD-11825,East,Home Office,Second Class,Furniture,Tables,993.39,1,0.2,296.31,2020,New York
+ORD-11826,South,Consumer,Same Day,Furniture,Bookcases,1123.54,3,0.2,388.27,2019,Florida
+ORD-11827,Central,Corporate,Same Day,Furniture,Chairs,55.21,6,0.2,6.48,2022,Washington
+ORD-11828,South,Home Office,Same Day,Office Supplies,Storage,1583.12,8,0.3,-123.88,2024,California
+ORD-11829,Central,Corporate,First Class,Technology,Accessories,304.28,8,0.3,85.67,2020,Illinois
+ORD-11830,South,Corporate,Same Day,Furniture,Bookcases,1035.22,6,0.3,126.03,2022,Washington
+ORD-11831,South,Consumer,Second Class,Office Supplies,Art,1292.75,2,0.0,267.35,2019,Illinois
+ORD-11832,Central,Consumer,Second Class,Furniture,Furnishings,1944.66,7,0.2,551.85,2023,Florida
+ORD-11833,East,Consumer,Same Day,Office Supplies,Paper,953.05,2,0.1,26.88,2023,Washington
+ORD-11834,West,Corporate,Second Class,Technology,Copiers,1802.06,1,0.1,608.23,2022,Illinois
+ORD-11835,West,Home Office,First Class,Office Supplies,Binders,1772.89,2,0.2,379.16,2020,Illinois
+ORD-11836,Central,Corporate,First Class,Furniture,Tables,375.12,8,0.3,128.57,2019,California
+ORD-11837,West,Consumer,Standard Class,Furniture,Tables,1989.6,2,0.2,245.06,2025,Illinois
+ORD-11838,Central,Corporate,First Class,Technology,Copiers,1893.08,5,0.3,442.5,2025,Texas
+ORD-11839,South,Home Office,Second Class,Technology,Copiers,508.89,9,0.2,131.53,2025,Florida
+ORD-11840,Central,Corporate,First Class,Office Supplies,Binders,636.76,6,0.3,95.9,2020,Texas
+ORD-11841,West,Home Office,Standard Class,Furniture,Furnishings,1726.8,6,0.3,563.37,2024,Washington
+ORD-11842,West,Home Office,Standard Class,Office Supplies,Paper,217.33,9,0.0,32.88,2024,Texas
+ORD-11843,Central,Consumer,First Class,Furniture,Tables,1820.86,8,0.1,356.09,2023,Illinois
+ORD-11844,East,Home Office,Second Class,Furniture,Bookcases,207.97,6,0.3,21.27,2020,Texas
+ORD-11845,West,Consumer,First Class,Technology,Accessories,484.4,2,0.1,76.85,2020,Illinois
+ORD-11846,West,Corporate,First Class,Furniture,Bookcases,1876.64,2,0.0,129.63,2023,Washington
+ORD-11847,Central,Consumer,First Class,Furniture,Furnishings,397.62,1,0.3,120.16,2021,Texas
+ORD-11848,Central,Home Office,Second Class,Furniture,Chairs,232.56,4,0.2,-1.55,2020,Washington
+ORD-11849,East,Consumer,First Class,Office Supplies,Paper,1541.71,7,0.0,414.26,2019,Illinois
+ORD-11850,Central,Home Office,Same Day,Technology,Phones,516.59,9,0.3,179.34,2023,Texas
+ORD-11851,South,Corporate,First Class,Office Supplies,Paper,1955.78,2,0.2,553.02,2025,Florida
+ORD-11852,West,Home Office,Second Class,Office Supplies,Binders,271.86,5,0.3,8.49,2021,Washington
+ORD-11853,West,Home Office,Same Day,Furniture,Furnishings,637.72,4,0.1,-11.32,2024,Florida
+ORD-11854,West,Home Office,Second Class,Furniture,Furnishings,1948.02,5,0.3,-143.07,2021,Washington
+ORD-11855,East,Corporate,Standard Class,Technology,Machines,809.35,1,0.2,169.49,2019,Texas
+ORD-11856,South,Home Office,First Class,Technology,Machines,223.58,3,0.3,51.84,2019,Texas
+ORD-11857,South,Home Office,Standard Class,Technology,Copiers,1459.98,5,0.1,-63.87,2025,Illinois
+ORD-11858,East,Consumer,Same Day,Technology,Copiers,1970.32,5,0.2,56.31,2021,Texas
+ORD-11859,West,Home Office,First Class,Office Supplies,Art,828.37,5,0.2,257.77,2023,Illinois
+ORD-11860,East,Corporate,Second Class,Furniture,Tables,529.09,6,0.3,20.72,2025,New York
+ORD-11861,Central,Corporate,Same Day,Furniture,Chairs,418.13,8,0.1,35.89,2025,Illinois
+ORD-11862,South,Corporate,Second Class,Office Supplies,Paper,312.32,1,0.1,-25.81,2020,Illinois
+ORD-11863,Central,Home Office,First Class,Furniture,Tables,598.51,4,0.1,145.02,2020,Texas
+ORD-11864,East,Corporate,Same Day,Technology,Phones,524.67,2,0.0,117.62,2021,Texas
+ORD-11865,Central,Corporate,Standard Class,Furniture,Furnishings,1389.31,2,0.2,304.89,2025,Florida
+ORD-11866,East,Consumer,Standard Class,Furniture,Bookcases,1058.89,6,0.3,53.58,2025,Washington
+ORD-11867,South,Consumer,Same Day,Technology,Accessories,507.99,2,0.0,76.75,2025,Illinois
+ORD-11868,West,Corporate,Standard Class,Technology,Accessories,67.6,7,0.3,-0.36,2025,Texas
+ORD-11869,West,Consumer,First Class,Technology,Machines,1364.56,9,0.3,127.18,2023,New York
+ORD-11870,South,Home Office,Same Day,Office Supplies,Storage,727.17,5,0.1,227.56,2020,Florida
+ORD-11871,East,Home Office,Standard Class,Furniture,Furnishings,1995.44,3,0.2,672.18,2019,Washington
+ORD-11872,Central,Home Office,Standard Class,Furniture,Bookcases,815.8,5,0.0,47.17,2022,California
+ORD-11873,Central,Corporate,First Class,Office Supplies,Art,1177.35,1,0.1,392.97,2023,Illinois
+ORD-11874,West,Consumer,First Class,Office Supplies,Art,1800.26,6,0.1,422.84,2020,Texas
+ORD-11875,South,Home Office,Second Class,Office Supplies,Storage,677.7,3,0.3,-36.17,2025,California
+ORD-11876,East,Home Office,Standard Class,Technology,Copiers,1686.38,8,0.1,332.01,2022,Washington
+ORD-11877,West,Corporate,Standard Class,Technology,Copiers,735.26,3,0.3,-64.53,2020,Florida
+ORD-11878,East,Corporate,First Class,Office Supplies,Paper,197.17,2,0.2,-1.82,2024,Illinois
+ORD-11879,East,Consumer,Second Class,Furniture,Furnishings,1963.59,5,0.0,609.27,2019,Texas
+ORD-11880,West,Corporate,Second Class,Technology,Phones,1155.97,7,0.2,386.59,2024,Illinois
+ORD-11881,West,Home Office,Second Class,Furniture,Chairs,1192.29,6,0.3,145.77,2019,Washington
+ORD-11882,West,Corporate,Second Class,Technology,Machines,217.33,3,0.0,57.95,2019,California
+ORD-11883,West,Consumer,Second Class,Office Supplies,Binders,591.88,2,0.0,60.46,2019,Washington
+ORD-11884,East,Home Office,Standard Class,Technology,Phones,395.6,4,0.0,-19.9,2024,California
+ORD-11885,East,Corporate,First Class,Furniture,Furnishings,1351.84,1,0.2,0.78,2023,Washington
+ORD-11886,South,Consumer,First Class,Furniture,Chairs,310.47,7,0.1,-10.62,2022,Illinois
+ORD-11887,West,Consumer,Same Day,Technology,Accessories,1929.01,9,0.2,500.42,2025,Texas
+ORD-11888,East,Home Office,Same Day,Technology,Phones,20.48,1,0.2,1.0,2021,Texas
+ORD-11889,West,Corporate,Same Day,Office Supplies,Art,1264.7,8,0.2,425.67,2022,Washington
+ORD-11890,South,Consumer,Second Class,Furniture,Chairs,577.57,1,0.1,82.91,2025,Florida
+ORD-11891,West,Corporate,Standard Class,Office Supplies,Storage,1060.02,8,0.0,101.47,2020,Florida
+ORD-11892,West,Home Office,First Class,Office Supplies,Storage,1455.44,7,0.0,43.99,2024,Illinois
+ORD-11893,West,Home Office,Standard Class,Technology,Machines,855.61,8,0.1,275.68,2024,Texas
+ORD-11894,South,Home Office,Standard Class,Furniture,Bookcases,1972.2,2,0.0,390.74,2025,Florida
+ORD-11895,East,Corporate,Standard Class,Technology,Machines,1463.89,9,0.0,-3.92,2024,California
+ORD-11896,West,Corporate,Same Day,Office Supplies,Paper,511.83,2,0.1,-23.95,2024,Washington
+ORD-11897,East,Home Office,Second Class,Technology,Accessories,1469.17,6,0.1,1.46,2024,New York
+ORD-11898,Central,Consumer,First Class,Technology,Phones,1946.35,8,0.0,616.87,2020,California
+ORD-11899,West,Corporate,First Class,Technology,Machines,653.85,9,0.2,179.53,2021,California
+ORD-11900,East,Corporate,First Class,Technology,Machines,203.3,2,0.2,-13.96,2019,New York
+ORD-11901,South,Home Office,First Class,Furniture,Tables,711.18,8,0.0,-30.6,2024,New York
+ORD-11902,Central,Consumer,First Class,Furniture,Furnishings,448.33,9,0.1,122.42,2022,Florida
+ORD-11903,South,Home Office,Same Day,Technology,Machines,1752.87,7,0.2,449.99,2023,Florida
+ORD-11904,Central,Corporate,First Class,Furniture,Furnishings,851.72,1,0.1,102.38,2021,New York
+ORD-11905,South,Corporate,Second Class,Furniture,Furnishings,1533.51,8,0.2,-51.96,2025,Texas
+ORD-11906,West,Home Office,Second Class,Office Supplies,Art,528.01,3,0.0,113.96,2021,Florida
+ORD-11907,South,Consumer,First Class,Office Supplies,Binders,1749.27,6,0.1,269.94,2023,California
+ORD-11908,Central,Consumer,First Class,Furniture,Furnishings,1679.82,7,0.2,319.66,2021,Texas
+ORD-11909,East,Home Office,First Class,Office Supplies,Binders,23.42,6,0.3,-1.27,2023,Texas
+ORD-11910,West,Consumer,First Class,Office Supplies,Storage,1529.25,4,0.1,423.51,2025,Florida
+ORD-11911,South,Corporate,Standard Class,Technology,Machines,1705.55,9,0.2,-97.19,2021,Washington
+ORD-11912,East,Home Office,First Class,Technology,Accessories,1991.19,3,0.2,185.79,2022,Florida
+ORD-11913,South,Home Office,Same Day,Office Supplies,Art,569.53,8,0.0,-32.47,2021,Texas
+ORD-11914,East,Corporate,Standard Class,Furniture,Furnishings,466.07,7,0.2,28.61,2022,Washington
+ORD-11915,West,Home Office,First Class,Furniture,Chairs,1646.12,1,0.0,348.12,2021,Texas
+ORD-11916,East,Corporate,Second Class,Furniture,Chairs,1788.55,3,0.2,375.96,2021,Washington
+ORD-11917,Central,Corporate,First Class,Technology,Phones,1956.39,9,0.3,536.3,2025,Texas
+ORD-11918,West,Corporate,Standard Class,Furniture,Tables,164.34,1,0.0,35.02,2021,New York
+ORD-11919,South,Home Office,Same Day,Office Supplies,Binders,186.54,2,0.2,23.17,2024,Texas
+ORD-11920,West,Corporate,Same Day,Technology,Phones,1363.37,9,0.0,209.55,2025,New York
+ORD-11921,East,Consumer,Same Day,Office Supplies,Art,1870.35,4,0.1,-156.07,2024,Illinois
+ORD-11922,South,Consumer,Same Day,Office Supplies,Binders,1173.09,3,0.1,350.89,2024,Texas
+ORD-11923,Central,Home Office,Second Class,Technology,Accessories,281.92,7,0.2,2.32,2024,Washington
+ORD-11924,Central,Consumer,Same Day,Furniture,Furnishings,757.48,4,0.2,-26.95,2020,Florida
+ORD-11925,Central,Home Office,Second Class,Office Supplies,Paper,855.37,4,0.3,-35.85,2021,New York
+ORD-11926,Central,Consumer,First Class,Furniture,Bookcases,1966.85,5,0.2,549.62,2019,Florida
+ORD-11927,Central,Consumer,First Class,Office Supplies,Paper,362.77,3,0.3,87.26,2024,Illinois
+ORD-11928,East,Corporate,First Class,Technology,Machines,361.21,6,0.1,18.37,2021,New York
+ORD-11929,East,Home Office,Second Class,Furniture,Chairs,389.01,3,0.2,57.6,2019,New York
+ORD-11930,South,Home Office,Same Day,Furniture,Chairs,590.05,3,0.1,146.91,2025,Florida
+ORD-11931,South,Home Office,Same Day,Furniture,Chairs,1062.84,8,0.3,-91.16,2023,Florida
+ORD-11932,Central,Consumer,First Class,Furniture,Chairs,1799.48,2,0.1,-11.94,2020,California
+ORD-11933,East,Consumer,First Class,Technology,Machines,1366.52,9,0.3,238.38,2019,Illinois
+ORD-11934,Central,Consumer,Second Class,Office Supplies,Binders,1939.1,7,0.0,-77.45,2024,Texas
+ORD-11935,East,Corporate,Second Class,Furniture,Bookcases,1543.37,3,0.1,225.28,2025,Florida
+ORD-11936,Central,Home Office,First Class,Technology,Copiers,1264.37,9,0.1,-29.2,2020,New York
+ORD-11937,West,Consumer,Second Class,Furniture,Furnishings,658.67,4,0.2,182.04,2023,New York
+ORD-11938,East,Consumer,Standard Class,Office Supplies,Art,1988.62,3,0.1,-70.14,2024,New York
+ORD-11939,East,Corporate,Second Class,Technology,Copiers,757.29,5,0.3,-9.27,2023,Washington
+ORD-11940,East,Home Office,Standard Class,Office Supplies,Binders,501.84,2,0.2,134.17,2025,Illinois
+ORD-11941,West,Corporate,Same Day,Technology,Accessories,445.44,9,0.2,154.57,2020,New York
+ORD-11942,East,Consumer,Second Class,Office Supplies,Binders,1831.34,5,0.2,161.89,2020,Florida
+ORD-11943,East,Corporate,Standard Class,Technology,Copiers,1973.36,9,0.0,439.63,2023,Washington
+ORD-11944,West,Home Office,Second Class,Office Supplies,Art,503.99,9,0.0,38.21,2022,Texas
+ORD-11945,West,Home Office,First Class,Furniture,Bookcases,128.99,9,0.0,14.29,2021,California
+ORD-11946,South,Corporate,Same Day,Technology,Copiers,1869.63,6,0.0,-134.04,2020,Florida
+ORD-11947,West,Corporate,Standard Class,Furniture,Bookcases,953.31,5,0.3,90.73,2022,New York
+ORD-11948,East,Corporate,First Class,Office Supplies,Binders,1002.14,6,0.3,80.11,2021,Illinois
+ORD-11949,West,Consumer,Standard Class,Furniture,Bookcases,302.08,1,0.2,-9.66,2023,Washington
+ORD-11950,Central,Corporate,Second Class,Furniture,Chairs,671.54,7,0.1,75.76,2021,Illinois
+ORD-11951,East,Corporate,Standard Class,Office Supplies,Storage,1142.0,8,0.2,43.95,2019,Florida
+ORD-11952,West,Consumer,Same Day,Office Supplies,Paper,826.04,6,0.1,115.64,2023,Texas
+ORD-11953,Central,Home Office,Standard Class,Technology,Copiers,1210.82,8,0.1,68.4,2019,Washington
+ORD-11954,South,Corporate,First Class,Furniture,Tables,1535.87,4,0.0,435.51,2025,California
+ORD-11955,Central,Corporate,Standard Class,Furniture,Bookcases,454.96,6,0.1,-22.6,2024,Florida
+ORD-11956,East,Home Office,Standard Class,Furniture,Bookcases,1965.45,9,0.0,-77.43,2020,Florida
+ORD-11957,East,Consumer,Same Day,Technology,Copiers,1322.49,4,0.1,-62.77,2024,New York
+ORD-11958,Central,Home Office,Second Class,Furniture,Furnishings,1723.77,9,0.2,54.62,2024,Texas
+ORD-11959,Central,Corporate,Same Day,Office Supplies,Storage,1360.84,4,0.3,406.01,2023,Washington
+ORD-11960,South,Corporate,Standard Class,Furniture,Chairs,1183.36,3,0.0,54.98,2019,New York
+ORD-11961,South,Consumer,Standard Class,Furniture,Chairs,641.87,6,0.3,128.5,2024,Florida
+ORD-11962,Central,Corporate,First Class,Furniture,Bookcases,1730.12,1,0.3,-159.32,2024,Texas
+ORD-11963,West,Home Office,Standard Class,Office Supplies,Art,1438.63,7,0.1,270.86,2025,California
+ORD-11964,South,Home Office,Same Day,Office Supplies,Art,1401.05,8,0.0,387.04,2025,Florida
+ORD-11965,South,Consumer,First Class,Technology,Machines,897.12,9,0.0,308.6,2024,Texas
+ORD-11966,West,Corporate,Second Class,Office Supplies,Art,308.86,4,0.1,88.4,2022,Florida
+ORD-11967,Central,Corporate,Same Day,Furniture,Chairs,180.94,2,0.3,-13.9,2022,California
+ORD-11968,West,Corporate,First Class,Technology,Copiers,1058.92,1,0.2,-53.36,2025,New York
+ORD-11969,West,Home Office,Second Class,Office Supplies,Art,1357.74,8,0.1,449.47,2025,Florida
+ORD-11970,Central,Home Office,Second Class,Technology,Copiers,401.63,8,0.1,-16.35,2024,Texas
+ORD-11971,East,Consumer,Second Class,Office Supplies,Storage,1091.02,6,0.1,339.74,2022,California
+ORD-11972,East,Home Office,Same Day,Technology,Accessories,1619.17,6,0.1,301.45,2023,Texas
+ORD-11973,South,Home Office,Standard Class,Office Supplies,Art,285.91,1,0.3,94.54,2025,Illinois
+ORD-11974,West,Consumer,Second Class,Office Supplies,Paper,517.2,5,0.3,146.69,2025,Texas
+ORD-11975,East,Corporate,Standard Class,Technology,Accessories,1119.88,2,0.3,373.9,2025,Washington
+ORD-11976,West,Consumer,Standard Class,Furniture,Furnishings,1056.0,6,0.1,-56.73,2023,Illinois
+ORD-11977,Central,Home Office,First Class,Office Supplies,Paper,510.51,8,0.2,54.0,2021,California
+ORD-11978,East,Corporate,Standard Class,Office Supplies,Art,1063.07,4,0.1,-38.94,2023,Illinois
+ORD-11979,East,Home Office,First Class,Technology,Phones,1770.71,6,0.2,145.79,2021,Illinois
+ORD-11980,East,Corporate,Standard Class,Office Supplies,Art,1430.48,2,0.1,1.51,2020,Florida
+ORD-11981,South,Consumer,Second Class,Office Supplies,Binders,1482.35,2,0.2,342.72,2021,New York
+ORD-11982,South,Corporate,Standard Class,Furniture,Chairs,781.73,8,0.2,57.45,2020,California
+ORD-11983,South,Home Office,Second Class,Office Supplies,Storage,1853.64,9,0.0,410.58,2021,Florida
+ORD-11984,East,Consumer,Second Class,Furniture,Bookcases,1949.09,7,0.1,445.86,2021,California
+ORD-11985,Central,Consumer,Same Day,Technology,Machines,1142.19,8,0.0,-94.74,2023,Washington
+ORD-11986,East,Home Office,Same Day,Office Supplies,Paper,271.96,7,0.1,94.71,2022,Texas
+ORD-11987,East,Corporate,Standard Class,Technology,Machines,1053.75,9,0.3,281.72,2022,Washington
+ORD-11988,East,Consumer,Second Class,Office Supplies,Art,980.05,6,0.3,32.93,2020,Illinois
+ORD-11989,Central,Corporate,First Class,Technology,Copiers,866.85,4,0.1,113.33,2021,Texas
+ORD-11990,West,Consumer,Second Class,Technology,Machines,1337.8,4,0.2,215.03,2023,Illinois
+ORD-11991,East,Consumer,Same Day,Furniture,Bookcases,1195.83,9,0.2,258.79,2024,New York
+ORD-11992,East,Home Office,Same Day,Office Supplies,Binders,1018.0,7,0.0,293.27,2024,Illinois
+ORD-11993,East,Home Office,Second Class,Furniture,Chairs,593.64,3,0.3,187.36,2021,Florida
+ORD-11994,East,Home Office,Standard Class,Technology,Machines,1062.52,9,0.3,246.8,2022,Florida
+ORD-11995,East,Consumer,Same Day,Technology,Accessories,1378.74,8,0.0,370.16,2022,California
+ORD-11996,South,Home Office,Same Day,Technology,Machines,998.09,7,0.3,25.43,2019,Washington
+ORD-11997,South,Corporate,Second Class,Furniture,Furnishings,203.86,1,0.3,-13.46,2020,Illinois
+ORD-11998,Central,Corporate,Second Class,Furniture,Furnishings,857.76,6,0.3,-12.4,2019,Florida
+ORD-11999,Central,Corporate,Standard Class,Office Supplies,Paper,1110.97,4,0.1,160.82,2025,Texas
+ORD-12000,South,Corporate,First Class,Technology,Phones,1565.93,4,0.0,202.2,2023,Washington
